@@ -1,0 +1,185 @@
+<?xml version="1.0"?>
+<!-- From Planet Emacsen (thanks!) -->
+<opml version="1.1">
+	<head>
+		<title>Planet Emacsen</title>
+		<dateModified>Fri, 27 Mar 2015 15:05:09 +0000</dateModified>
+		<ownerName>Edward O\'Connor</ownerName>
+		<ownerEmail>hober0@gmail.com</ownerEmail>
+	</head>
+	
+	<body>
+		<outline type="rss" text="&quot;#emacs tidbits&quot;" xmlUrl="http://www.blogger.com/feeds/10002230/posts/default?alt=atom" title="#emacs tidbits" />
+		<outline type="rss" text="&quot;David's World&quot;" xmlUrl="http://www.davids-world.com/atom.xml" title="&quot;David's World&quot;" />
+		<outline type="rss" text="&quot;Edward O'Connor&quot;" xmlUrl="http://edward.oconnor.cx/feed;tag%3Demacs" title="Edward O'Connor's emacs feed" />
+		<outline type="rss" text="&quot;The Mouse's cradle&quot;" xmlUrl="https://mousecradle.wordpress.com/tag/emacs/feed/" title="The Mouse's cradle » Emacs" />
+		<outline type="rss" text="(or emacs" xmlUrl="http://oremacs.com/atom.xml" title="(or emacs" />
+		<outline type="rss" text="Aaron Hawley" xmlUrl="http://aaronhawley.livejournal.com/data/atom" title="refusal computing" />
+		<outline type="rss" text="Aidan McQuay" xmlUrl="http://floatsolutions.com/blog/category/emacs/feed/" title="Float Solutions » Emacs" />
+		<outline type="rss" text="Aleix Conchillo Flaque" xmlUrl="https://axelio.wordpress.com/category/emacs/feed/" title="axelio » Emacs" />
+		<outline type="rss" text="Alex Bennée" xmlUrl="http://www.bennee.com/~alex/blog/tag/emacs/feed" title="Alex's Adventures on the Infobahn » emacs" />
+		<outline type="rss" text="Alex Ott" xmlUrl="http://www.blogger.com/feeds/6862508/posts/default/-/emacs" title="Alex Ott's blog" />
+		<outline type="rss" text="Alex Schroeder" xmlUrl="http://www.emacswiki.org/cgi-bin/alex?action=journal;search=tag%3Aemacs;rsslimit=2;full=1" title="Alex Schroeder: Diary" />
+		<outline type="rss" text="Alexandre Vassalotti" xmlUrl="http://peadrop.com/blog/category/computers/emacs/feed/" title="Alexandre Vassalotti » Emacs" />
+		<outline type="rss" text="Amortized Analysis" xmlUrl="https://amortizedanalysis.wordpress.com/tag/emacs/feed/" title="Amortized Analysis" />
+		<outline type="rss" text="Andreas Olsson" xmlUrl="http://blog.bogosity.se/tag/emacs/feed/" title="/ Andreas | System administrator / » Emacs" />
+		<outline type="rss" text="Andrew Gwozdziewycz" xmlUrl="http://sigusr2.net/tags/emacs.xml" title="SIGUSR2: tagged emacs" />
+		<outline type="rss" text="Anselm Helbig" xmlUrl="http://mnemonikk.org/feed/" title="mnemonikk.org" />
+		<outline type="rss" text="Anthony Simpson" xmlUrl="http://blog.raynes.me/?feed=rss2&amp;cat=6" title="Anthony Simpson" />
+		<outline type="rss" text="Anupam Sengupta" xmlUrl="http://blog.anupamsg.me/tag/emacs/feed/atom/" title="/usr » Emacs" />
+		<outline type="rss" text="Anything goes" xmlUrl="http://www.blogger.com/feeds/6815733/posts/default/-/emacs" title="Anything goes" />
+		<outline type="rss" text="Arun Sag" xmlUrl="https://arunsag.wordpress.com/category/emacs/feed/" title="Arun's blog » emacs" />
+		<outline type="rss" text="Awhan Patnaik" xmlUrl="https://awhan.wordpress.com/category/emacs/feed/" title="Awhan Patnaik » emacs" />
+		<outline type="rss" text="Bart Lantz" xmlUrl="http://www.blogger.com/feeds/7035860407900002000/posts/default/-/emacs" title="Denver Droid" />
+		<outline type="rss" text="Ben Simon" xmlUrl="http://pipes.yahoo.com/pipes/pipe.run?_id=cb318680d0fab4cbaec11d558af0f71f&amp;_render=rss" title="Ben Simon" />
+		<outline type="rss" text="Ben Simon" xmlUrl="http://www.blogger.com/feeds/12753102/posts/default/-/emacs" title="Ben's Journal" />
+		<outline type="rss" text="Benjamin Slade" xmlUrl="http://www.blogger.com/feeds/9417648313224391/posts/default/-/emacs" title="The Babbage Files" />
+		<outline type="rss" text="Bozhidar Batsov" xmlUrl="http://batsov.com/emacs.xml" title="Emacs @ (think)" />
+		<outline type="rss" text="Bryan Bell" xmlUrl="https://bloggingmath.wordpress.com/tag/emacs/feed/" title="Math and More" />
+		<outline type="rss" text="Bryan Murdock" xmlUrl="http://www.blogger.com/feeds/3669809752172683097/posts/default?alt=atom" title="Cyclopedia Square" />
+		<outline type="rss" text="Cameron Desautels" xmlUrl="http://camdez.com/blog/categories/emacs/atom.xml" title="Category: Emacs | camdez.com" />
+		<outline type="rss" text="Chen Bin (redguardtoo)" xmlUrl="http://blog.binchen.org/categories/emacs.xml" title="Chen's blog (emacs)" />
+		<outline type="rss" text="Chmouel" xmlUrl="http://blog.chmouel.com/category/emacs/feed/" title="Chmouel's Blog » Emacs" />
+		<outline type="rss" text="Chris Ball" xmlUrl="http://blog.printf.net/feed/" title="Chris Ball" />
+		<outline type="rss" text="Christian Tinnefeld and Martin Grund" xmlUrl="https://punchcard.wordpress.com/tag/emacs/feed/" title="Punch Card » emacs" />
+		<outline type="rss" text="Crazy thinking" xmlUrl="https://crazythinking.wordpress.com/category/emacs/feed/" title="Crazy thinking - Just my Weblog » emacs" />
+		<outline type="rss" text="Da Zhang" xmlUrl="https://zhangda.wordpress.com/feed/" title="Da's recipes on Emacs, IT, and more" />
+		<outline type="rss" text="Daniel Blanc" xmlUrl="http://42kettles.net/?cat=6&amp;feed=atom" title="42 kettles » emacs" />
+		<outline type="rss" text="Daniel Gempesaw" xmlUrl="http://blog.danielgempesaw.com/tagged/planet-emacsen/rss" title="elisp solves problems" />
+		<outline type="rss" text="David Vázquez" xmlUrl="http://davazp.net/feeds/emacs.xml" title="David Vázquez" />
+		<outline type="rss" text="Definitely a plug" xmlUrl="http://definitelyaplug.b0.cx/post/category/emacs/feed/" title="Definitely a plug. » emacs" />
+		<outline type="rss" text="Denis Meyer" xmlUrl="https://calltopower.wordpress.com/tag/emacs/feed/" title="CallToPower » emacs" />
+		<outline type="rss" text="Dev and Such [Emacs Category]" xmlUrl="http://echosa.github.io/blog/categories/emacs/atom.xml" title="Category: Emacs | Dev and Such" />
+		<outline type="rss" text="Dimitri Fontaine" xmlUrl="http://tapoueh.org/rss/emacs.xml" title="tail -f /dev/dim" />
+		<outline type="rss" text="Draptik" xmlUrl="https://draptik.wordpress.com/tag/emacs/feed/" title="Draptik's Blog » emacs" />
+		<outline type="rss" text="ELPA News" xmlUrl="http://tromey.com/elpa/elpa.rss" title="ELPA News" />
+		<outline type="rss" text="Ed Bowler" xmlUrl="https://l0st3d.wordpress.com/category/emacs/feed/" title="aSetOfAllSets » Emacs" />
+		<outline type="rss" text="Emacs Life" xmlUrl="http://feeds.feedburner.com/emacslife" title="emacs life" />
+		<outline type="rss" text="Emacs Movies" xmlUrl="http://emacsmovies.org/atom.xml" title="EmacsMovies.org" />
+		<outline type="rss" text="Emacs Redux" xmlUrl="http://emacsredux.com/atom.xml" title="Emacs Redux" />
+		<outline type="rss" text="Emacs-fu" xmlUrl="http://www.blogger.com/feeds/3992530807750384868/posts/default/-/new" title="emacs-fu" />
+		<outline type="rss" text="Emacsrookie" xmlUrl="http://feeds.feedburner.com/emacsrookiecom" title="emacsrookie.com" />
+		<outline type="rss" text="Endless Parentheses" xmlUrl="http://endlessparentheses.com/atom.xml" title="Endless Parentheses" />
+		<outline type="rss" text="Eric James Michael Ritz" xmlUrl="http://ericjmritz.name/category/tools/emacs/feed/" title="One More Game-Dev and Programming Blog » Emacs" />
+		<outline type="rss" text="Eugene Burmako" xmlUrl="http://xeno-by.livejournal.com/data/atom?tag=emacs-en" title="Excelsior" />
+		<outline type="rss" text="Flickr tag 'emacs'" xmlUrl="http://api.flickr.com/services/feeds/photos_public.gne?tags=emacs&amp;lang=en-us&amp;format=rss_200" title="Recent Uploads tagged emacs" />
+		<outline type="rss" text="Gabriel Saldaña" xmlUrl="http://blog.nethazard.net/category/emacs/feed/" title="Net Hazard" />
+		<outline type="rss" text="Gaius" xmlUrl="https://gaiustech.wordpress.com/category/emacs/feed/" title="So I decided to take my work back underground » Emacs" />
+		<outline type="rss" text="Giorgos Keramidas" xmlUrl="https://keramida.wordpress.com/category/emacs/feed/" title="What keramida said... » Emacs" />
+		<outline type="rss" text="Gong-Yi" xmlUrl="https://gongyiliao.wordpress.com/category/emacs/feed/" title="Gong-Yi's SandBox@WordPress » Emacs" />
+		<outline type="rss" text="Got Emacs?" xmlUrl="http://feeds.feedburner.com/GotEmacs" title="Got Emacs?" />
+		<outline type="rss" text="Grant Rettke" xmlUrl="http://www.wisdomandwonder.com/tag/emacs/feed" title="Wisdom and Wonder » Emacs" />
+		<outline type="rss" text="Greg Newman" xmlUrl="http://gregnewman.org/journal?format=rss&quot;" title="Greg Newman" />
+		<outline type="rss" text="Gábor Török" xmlUrl="http://blog.20y.hu/tag/planet_emacsen/feed/" title="Egy beteg srác naplója » planet_emacsen" />
+		<outline type="rss" text="Huseyin Yilmaz" xmlUrl="https://yilmazhuseyin.wordpress.com/category/emacs/feed/" title="Huseyin Yilmaz's Blog » emacs" />
+		<outline type="rss" text="Ian Eure" xmlUrl="http://atomized.org/tag/emacs/feed/" title="Ian Eure" />
+		<outline type="rss" text="Ian Tegebo" xmlUrl="" title="Ian Tegebo" />
+		<outline type="rss" text="Ignacio Paz Posse" xmlUrl="https://ignaciopp.wordpress.com/tag/emacs/feed/" title="Nachopp's Blog » emacs" />
+		<outline type="rss" text="Ikaruga 2" xmlUrl="https://ikaruga2.wordpress.com/tag/emacs/feed/" title="Ikaruga 2 » Emacs" />
+		<outline type="rss" text="Irreal" xmlUrl="http://irreal.org/blog/?tag=emacs&amp;feed=rss2" title="Irreal » Emacs" />
+		<outline type="rss" text="Ivan Kanis" xmlUrl="http://ivan.kanis.fr/blog.xml" title="Ivan Kanis blog" />
+		<outline type="rss" text="Jacob Poulsgaard Tjørnholm" xmlUrl="https://chopmode.wordpress.com/category/emacs/feed/" title="chop-mode » emacs" />
+		<outline type="rss" text="Jason McBrayer" xmlUrl="http://www.carcosa.net/jason/blog/computing/index.rss2" title="Prosthetic Conscience" />
+		<outline type="rss" text="Jason Rumney" xmlUrl="http://home.jasonrumney.net/roller/jason/feed/entries/rss" title="Jason Rumney" />
+		<outline type="rss" text="Jawher Moussa" xmlUrl="http://jawher.net/category/emacs/feed/" title="Jawher's Blog » emacs" />
+		<outline type="rss" text="Johan Andersson" xmlUrl="http://feeds.feedburner.com/tuxicity-emacs" title="Tuxicity - Emacs" />
+		<outline type="rss" text="John DeRosa" xmlUrl="http://seeknuance.com/tag/emacs/feed/" title="Seek Nuance » Emacs" />
+		<outline type="rss" text="John Mastro" xmlUrl="http://jbm.io/categories/emacs/atom.xml" title="Category: emacs | jbm.io" />
+		<outline type="rss" text="John Stevenson" xmlUrl="" title="John Stevenson" />
+		<outline type="rss" text="John Sullivan" xmlUrl="http://pipes.yahoo.com/pipes/pipe.run?_id=FiExI4MS3RG8VVYcM1rX_Q&amp;_render=rss" title="John Sullivan's Emacs and free software blog posts" />
+		<outline type="rss" text="Jonas Bernoulli" xmlUrl="http://feeds.feedburner.com/emacsair" title="Of Mice and Emacsen" />
+		<outline type="rss" text="Jonathan Camp" xmlUrl="http://jonathancamp.com/tag/emacs/feed/" title="Jonathan's Blog » emacs" />
+		<outline type="rss" text="Joost Diepenmaat" xmlUrl="http://joost.zeekat.nl/category/emacs/feed/" title="code.h(oe)kje » emacs" />
+		<outline type="rss" text="Jorgen Schäfer" xmlUrl="http://www.blogger.com/feeds/4394570295456001999/posts/default/-/Emacs" title="Jorgen’s Weblog" />
+		<outline type="rss" text="Joseph Miklojcik" xmlUrl="http://www.blogger.com/feeds/2646700676033980598/posts/default/-/emacs" title="Joseph F Miklojcik Tech Thoughts" />
+		<outline type="rss" text="Juan Garcia" xmlUrl="" title="Juan Garcia" />
+		<outline type="rss" text="Juan Garcia" xmlUrl="https://curiousprogrammer.wordpress.com/tag/emacs/feed/atom/" title="A Curious Programmer » Emacs" />
+		<outline type="rss" text="Julien Danjou" xmlUrl="https://julien.danjou.info/blog/index.xml" title="jd:/dev/blog" />
+		<outline type="rss" text="Justin Heyes-Jones" xmlUrl="http://www.blogger.com/feeds/4777243148323391813/posts/default/-/emacs" title="justinhj's coding blog" />
+		<outline type="rss" text="Kevin Anderson" xmlUrl="https://kevand.wordpress.com/tag/emacs/feed/" title="Kevin Anderson's Blog » Emacs" />
+		<outline type="rss" text="Kototama" xmlUrl="http://dialectical-computing.de/blog/emacs.xml" title="In Clojure We Trust - Emacs" />
+		<outline type="rss" text="Kunigami" xmlUrl="https://kuniganotas.wordpress.com/category/emacs/feed/" title="Notes on software development » emacs" />
+		<outline type="rss" text="Kyle Sexton" xmlUrl="" title="Kyle Sexton" />
+		<outline type="rss" text="M-x all-things-emacs" xmlUrl="http://emacsblog.org/feed/" title="M-x all-things-emacs" />
+		<outline type="rss" text="Marco Zuliani" xmlUrl="http://nongeekrecipes.org/category/emacs-and-friends/feed/" title="Non Geek Recipes » Emacs and friends" />
+		<outline type="rss" text="Mark Hepburn" xmlUrl="http://blog.everythingtastesbetterwithchilli.com/atom-emacs.xml" title="Everything Tastes Better With Chilli (Emacs)" />
+		<outline type="rss" text="Mark Hershberger" xmlUrl="http://hexmode.com/tag/emacs/feed" title="Entries in Life » emacs" />
+		<outline type="rss" text="Martin Blais" xmlUrl="http://furius.ca/blog/tag/Emacs/rss" title="Furius Wanderlust News" />
+		<outline type="rss" text="Mathias Dahl" xmlUrl="http://www.blogger.com/feeds/9910079/posts/default/-/emacs" title="MuuBlog" />
+		<outline type="rss" text="Mathletic" xmlUrl="https://tincman.wordpress.com/tag/emacs/feed/" title="Mathletic » emacs" />
+		<outline type="rss" text="Matt Harrison" xmlUrl="http://panela.blog-city.com/read/emacs.rss" title="emacs @ panela.blog-city.com" />
+		<outline type="rss" text="Matt Keller" xmlUrl="http://www.littleredbat.net/mk/blog/atom-emacs.xml" title="littleredbat.net/mk: blog (emacs)" />
+		<outline type="rss" text="Michael Fogleman" xmlUrl="http://mwfogleman.github.io/" title="rejoyce" />
+		<outline type="rss" text="Michael Lockhart" xmlUrl="https://sinewalker.wordpress.com/tag/emacs/feed/" title="sine walker » emacs" />
+		<outline type="rss" text="Michael Olson" xmlUrl="http://blog.mwolson.org/tech/index.rss" title="Michael Olson - Blog - /Tech" />
+		<outline type="rss" text="Mickey Petersen" xmlUrl="http://www.masteringemacs.org/feed" title="Mastering Emacs" />
+		<outline type="rss" text="Mihai Bazon" xmlUrl="http://mihai.bazon.net/blog?category=5&amp;feed=rss2" title="Mihai Bazon" />
+		<outline type="rss" text="Mykola Nikishov" xmlUrl="https://manandbytes.wordpress.com/tag/emacs/feed/" title="manandbytes » emacs" />
+		<outline type="rss" text="Nathaniel Flath" xmlUrl="http://nflath.com/tag/emacs/feed/atom/" title="NFlath" />
+		<outline type="rss" text="Oleksandr Gavenko" xmlUrl="http://www.blogger.com/feeds/4276477044725324295/posts/default/-/emacs" title="Brain break (en)." />
+		<outline type="rss" text="Oscar Castillo-Felisola" xmlUrl="https://doxdrum.wordpress.com/tag/emacs/feed/" title="Doxdrum's Blog » Emacs" />
+		<outline type="rss" text="P.F. Hawkins" xmlUrl="" title="P.F. Hawkins" />
+		<outline type="rss" text="Paradigm X" xmlUrl="http://paradigmx.net/blog/categories/emacs/atom.xml" title="Category: Emacs | Paradigm X" />
+		<outline type="rss" text="Phil Hagelberg" xmlUrl="http://technomancy.us/feed/atom" title="Technomancy" />
+		<outline type="rss" text="Phil Jackson" xmlUrl="" title="Phil Jackson" />
+		<outline type="rss" text="Phil Sung" xmlUrl="http://www.blogger.com/feeds/970055329001593038/posts/default/-/emacs" title="I Still Know What You Learned Last Summer" />
+		<outline type="rss" text="Phillip Lord" xmlUrl="http://www.russet.org.uk/blog/category/all/professional/tech/emacs/feed" title="An Exercise in Irrelevance » Emacs" />
+		<outline type="rss" text="Programming and Prose" xmlUrl="http://rhburrows.com/category/emacs/feed/" title="Programming and Prose » emacs" />
+		<outline type="rss" text="R. Siddharth" xmlUrl="" title="R. Siddharth" />
+		<outline type="rss" text="Rafael" xmlUrl="https://rvfblog.wordpress.com/category/emacs/feed/" title="Rafael's blog » Emacs" />
+		<outline type="rss" text="Ragesh Chakkadath" xmlUrl="https://techleaves.wordpress.com/tag/emacs/feed/" title="Tech Leaves » emacs" />
+		<outline type="rss" text="Raimon Grau" xmlUrl="http://www.blogger.com/feeds/8696405790788556158/posts/default/-/emacs" title="puntoblogspot" />
+		<outline type="rss" text="Random Sample" xmlUrl="http://www.randomsample.de/dru5/taxonomy/term/2/0/feed" title="random sample - Emacs" />
+		<outline type="rss" text="Ren Wenshan" xmlUrl="http://wenshanren.org/?cat=10&amp;tag=en&amp;feed=rss2" title="肉山博客 (Wenshan's Blog) » Emacs" />
+		<outline type="rss" text="Rforge" xmlUrl="http://rforge.org/category/emacs/feed/" title="Rforge" />
+		<outline type="rss" text="Richard Riley" xmlUrl="http://www.blogger.com/feeds/4166588008280027121/posts/default/-/planetemacsen" title="Open Sauce" />
+		<outline type="rss" text="Robert Adesam" xmlUrl="http://www.blogger.com/feeds/1139989336831951363/posts/default/-/emacs" title="Robert Adesam" />
+		<outline type="rss" text="Roy Lowrance" xmlUrl="https://roylowrance.wordpress.com/category/emacs/feed/" title="Roy Lowrance » emacs" />
+		<outline type="rss" text="Rubén Berenguel" xmlUrl="http://www.blogger.com/feeds/13497321/posts/default/-/emacs" title="Mostly Maths" />
+		<outline type="rss" text="Ruslan Spivak" xmlUrl="http://ruslanspivak.com/category/emacs/feed/" title="Ruslan's Blog » emacs" />
+		<outline type="rss" text="Ryan McGuire" xmlUrl="http://www.enigmacurry.com/category/emacs/feed/" title="EnigmaCurry" />
+		<outline type="rss" text="Scott Frazer" xmlUrl="http://www.blogger.com/feeds/7773847580486821558/posts/default" title="Scott Frazer's Blog" />
+		<outline type="rss" text="Sean Miller: The Wandering Coder" xmlUrl="http://thewanderingcoder.com/category/emacs/feed/" title="Sean Miller: The Wandering Coder » emacs" />
+		<outline type="rss" text="Sebastian Wiesner" xmlUrl="http://www.lunaryorn.com/tags/emacs.atom" title="lunarsite — Posts tagged emacs" />
+		<outline type="rss" text="Shane Celis" xmlUrl="http://www.blogger.com/feeds/5594832128999528489/posts/default/-/emacs" title="gnufool" />
+		<outline type="rss" text="Sonia Hamilton" xmlUrl="http://www.snowfrog.net/tag/emacs/feed/" title="Snowfrog IT » Emacs" />
+		<outline type="rss" text="Steven Pigeon" xmlUrl="https://hbfs.wordpress.com/category/emacs/feed/" title="Harder, Better, Faster, Stronger » emacs" />
+		<outline type="rss" text="Suvayu Ali" xmlUrl="https://suvayu.wordpress.com/tag/emacs/feed/" title="sHoUt wid Suvayu » emacs" />
+		<outline type="rss" text="Tassilo Horn" xmlUrl="https://tsdh.wordpress.com/tag/emacs/feed/" title="Tassilo's Blog » Emacs" />
+		<outline type="rss" text="Ted Roden" xmlUrl="http://feeds.feedburner.com/ted-roden-emacs" title="TedRoden.com" />
+		<outline type="rss" text="Thomas Fitzsimmons" xmlUrl="http://www.fitzsim.org/blog/?feed=rss2&amp;cat=3" title="fitzsim's development log » Emacs" />
+		<outline type="rss" text="Thomas Kappler" xmlUrl="https://jugglingbits.wordpress.com/tag/emacs/feed/" title="Juggling Bits » emacs" />
+		<outline type="rss" text="Tim Bielawa" xmlUrl="https://blog.lnx.cx/category/emacs/feed/" title="Technitribe » Emacs" />
+		<outline type="rss" text="Timo Geusch" xmlUrl="http://www.lonecpluspluscoder.com/category/emacs/feed/" title="The Lone C++ Coder's Blog » Emacs" />
+		<outline type="rss" text="Tom Breton" xmlUrl="http://www.blogger.com/feeds/5983563776019477979/posts/default/-/emacs" title="Tehom" />
+		<outline type="rss" text="Tom Tromey" xmlUrl="http://tromey.com/blog/?cat=11&amp;feed=rss2" title="The Cliffs of Inanity » Emacs" />
+		<outline type="rss" text="Travis Vachon" xmlUrl="http://occident.us/category/emacs/feed/" title="Travis Vachon" />
+		<outline type="rss" text="Trey Jackson" xmlUrl="http://www.blogger.com/feeds/2304251215826746968/posts/default?alt=atom" title="Life Is Too Short For Bad Code" />
+		<outline type="rss" text="Vincent Toups" xmlUrl="http://www.blogger.com/feeds/8115687546775931822/posts/default/-/emacs" title="Dorophone" />
+		<outline type="rss" text="Vinh Nguyen" xmlUrl="http://blog.nguyenvq.com/tag/emacs/feed/" title="Comments on:" />
+		<outline type="rss" text="Václav Belák" xmlUrl="https://netflux.wordpress.com/tag/emacs/feed/" title="Graphs, Networks, and Communities in Flux » emacs" />
+		<outline type="rss" text="What the .emacs.d!?" xmlUrl="http://whattheemacsd.com/atom.xml" title="What the .emacs.d!?" />
+		<outline type="rss" text="Wilfred Hughes" xmlUrl="http://www.wilfred.me.uk/emacs_rss.xml" title="Wilfred Hughes::Blog" />
+		<outline type="rss" text="Wolfgang Pfaff" xmlUrl="https://wolfgangpfaff.wordpress.com/category/emacs/feed/" title="Wolfgang Pfaff » emacs" />
+		<outline type="rss" text="Xin Hu" xmlUrl="http://lanxin0106.wordpress.com/category/emacs/" title="Xin Hu" />
+		<outline type="rss" text="Yann Hodique" xmlUrl="http://www.hodique.info/_blog.rss" title="Yann Hodique blog:2014" />
+		<outline type="rss" text="Yoni Rabkin Katzenell" xmlUrl="http://yrk.rabkins.net/emacs/index.atom" title="Yoni Rabkin Katzenell" />
+		<outline type="rss" text="Yves Senn" xmlUrl="http://feeds.feedburner.com/FistOfSenn" title="Fist of Senn" />
+		<outline type="rss" text="Zajcev Evgeny" xmlUrl="http://www.blogger.com/feeds/517942420965585111/posts/default" title="SXEmacs-en" />
+		<outline type="rss" text="Zing-Ming" xmlUrl="https://zingming.wordpress.com/tag/emacs/feed/" title="Zing-Ming » emacs" />
+		<outline type="rss" text="antipop" xmlUrl="http://subtech.g.hatena.ne.jp/antipop/rss2" title="subpop" />
+		<outline type="rss" text="au9ustine" xmlUrl="https://au9ustine.wordpress.com/tag/emacs/feed/" title="au9ustine's digital castle » emacs" />
+		<outline type="rss" text="baongoc124" xmlUrl="https://baongoc124.wordpress.com/category/emacs/feed/" title="baongoc124 » emacs" />
+		<outline type="rss" text="edencardim.com" xmlUrl="" title="edencardim.com" />
+		<outline type="rss" text="emacspeak" xmlUrl="http://www.blogger.com/feeds/20280042/posts/default?alt=atom" title="EMACSPEAK  The Complete Audio Desktop" />
+		<outline type="rss" text="lxsameer" xmlUrl="" title="lxsameer" />
+		<outline type="rss" text="minor emacs wizardry" xmlUrl="https://emacs.wordpress.com/feed/" title="minor emacs wizardry" />
+		<outline type="rss" text="panduwana" xmlUrl="https://panduwana.wordpress.com/category/emacs/feed/" title="PLEASE READ BEFORE SHARING » emacs" />
+		<outline type="rss" text="pozorvlak" xmlUrl="http://pozorvlak.livejournal.com/data/atom?tag=emacs" title="Beware of the Train" />
+		<outline type="rss" text="punchagan" xmlUrl="http://punchagan.muse-amuse.in/tags/emacs.xml" title="Noetic Nought (emacs)" />
+		<outline type="rss" text="sachachua" xmlUrl="http://feeds.feedburner.com/pimpmyemacs" title="Emacs – Sacha Chua" />
+		<outline type="rss" text="suso" xmlUrl="" title="suso" />
+		<outline type="rss" text="tycho garen" xmlUrl="http://tychoish.com/tag/emacs/feed/index.rss" title="tychoish emacs posts" />
+		<outline type="rss" text="vocalfolds" xmlUrl="https://vocalfolds.wordpress.com/category/emacs/feed/" title="The days we watch the blue sky » Emacs" />
+	</body>
+</opml>
