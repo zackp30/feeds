@@ -1,0 +1,227 @@
+<?xml version="1.0"?>
+<opml version="1.0">
+  <head>
+    <title>Haskell related feeds. Exported using a script from Planet Haskell</title>
+  </head>
+  <body>
+    <outline type="rss" xmlUrl="https://ghclive.wordpress.com/feed/atom/" htmlUrl="https://ghclive.wordpress.com" title="ghcLiVE"/>
+    <outline type="rss" xmlUrl="http://blog.luigiscorner.com/category/haskell/feed/atom/" htmlUrl="http://blog.luigiscorner.com" title="Luigi's corner » Haskell"/>
+    <outline type="rss" xmlUrl="http://www.blogger.com/feeds/6655746112052720933/posts/default" htmlUrl="http://notes-on-haskell.blogspot.com/" title="Notes on Haskell"/>
+    <outline type="rss" xmlUrl="http://www.blogger.com/feeds/5264335596042843369/posts/default" htmlUrl="http://abuiles.blogspot.com/" title="Adventures in a Pure World"/>
+    <outline type="rss" xmlUrl="http://www.blogger.com/feeds/15077948/posts/default" htmlUrl="http://covector.blogspot.com/" title="vanishing points"/>
+    <outline type="rss" xmlUrl="http://www.blogger.com/feeds/5533014087482697280/posts/default/-/haskell" htmlUrl="http://cppcabrera.blogspot.com/search/label/haskell" title="Read, Review, Refactor"/>
+    <outline type="rss" xmlUrl="http://www.blogger.com/feeds/881207385008920659/posts/default" htmlUrl="http://serras-haskell-gsoc.blogspot.com/" title="Summers on Haskell and Eclipse"/> <outline type="rss" xmlUrl="http://www.blogger.com/feeds/881207385008920659/posts/default" htmlUrl="http://serras-haskell-gsoc.blogspot.com/" title="Summers on Haskell and Emacs"/>
+    <outline type="rss" xmlUrl="http://feeds.feedburner.com/alenribic" htmlUrl="http://alenribic.com" title="Alen Ribic"/>
+    <outline type="rss" xmlUrl="http://alessandrovermeulen.me/atom.xml" htmlUrl="http://alessandrovermeulen.me/" title="Alessandro Vermeulen"/>
+    <outline type="rss" xmlUrl="http://random.axman6.com/blog/?feed=rss2" htmlUrl="http://random.axman6.com/blog" title="Data.Random"/>
+    <outline type="rss" xmlUrl="http://www.blogger.com/feeds/6749355461879878917/posts/default" htmlUrl="http://darcs-gsoc2010.blogspot.com/" title="Improving Darcs' network performance"/>
+    <outline type="rss" xmlUrl="http://alpmestan.com/rss.xml" htmlUrl="http://alpmestan.com" title="Alp Mestanogullari's blog"/>
+    <outline type="rss" xmlUrl="http://www.alsonkemp.com/feed/" htmlUrl="http://www.alsonkemp.com" title="Alson Kemp"/>
+    <outline type="rss" xmlUrl="http://blog.closuretohome.com/feeds/posts/default" htmlUrl="http://blog.closuretohome.com/" title="Closure to Home"/>
+    <outline type="rss" xmlUrl="https://lambdacolyte.wordpress.com/feed/atom/" htmlUrl="https://lambdacolyte.wordpress.com" title="The Lambda Acolyte"/>
+    <outline type="rss" xmlUrl="http://algorithm.com.au/blog/files/rss.xml" htmlUrl="http://algorithm.com.au/index.html" title="Stay Hungry, Stay Foolish"/>
+    <outline type="rss" xmlUrl="http://panicsonic.blogspot.com/feeds/posts/default/-/haskell?alt=rss" htmlUrl="http://panicsonic.blogspot.com/search/label/haskell" title="FS"/>
+    <outline type="rss" xmlUrl="http://programmingzen.com/category/haskell/feed" htmlUrl="http://programmingzen.com" title="Zen and the Art of Programming"/>
+    <outline type="rss" xmlUrl="http://antti-juhani.kaijanaho.fi/newblog/archives/tag/haskell/feed" htmlUrl="http://antti-juhani.kaijanaho.fi/newblog" title="Antti-Juhani Kaijanaho » Haskell"/>
+    <outline type="rss" xmlUrl="https://archhaskell.wordpress.com/feed/atom/" htmlUrl="https://archhaskell.wordpress.com" title="Arch Linux and Haskell"/>
+    <outline type="rss" xmlUrl="http://feeds.feedburner.com/typepad/ahanwadi/ashishs_niti" htmlUrl="http://ashish.typepad.com/ashishs_niti/" title="Ashish's Niti"/>
+    <outline type="rss" xmlUrl="http://pugs.blogs.com/pugs/index.rdf" htmlUrl="http://pugs.blogs.com/pugs/" title="Pugs"/>
+    <outline type="rss" xmlUrl="https://phabricator.haskell.org/phame/blog/feed/1/" htmlUrl="" title="News @ Haskell.org"/>
+    <outline type="rss" xmlUrl="http://www.blogger.com/feeds/8387731529560364137/posts/default" htmlUrl="http://adoseoflogic.blogspot.com/" title="A dose of logic"/>
+    <outline type="rss" xmlUrl="http://www.blogger.com/feeds/3857512306503018420/posts/default" htmlUrl="http://nattermorphisms.blogspot.com/" title="Nattermorphisms"/>
+    <outline type="rss" xmlUrl="http://www.blogger.com/feeds/5428232882395758357/posts/default" htmlUrl="http://moreindirection.blogspot.com/" title="more indirection"/>
+    <outline type="rss" xmlUrl="http://www.blogger.com/feeds/2553815923640620572/posts/default" htmlUrl="http://flygdynamikern.blogspot.com/" title="Flygdynamikern"/>
+    <outline type="rss" xmlUrl="https://braincrater.wordpress.com/feed/atom/" htmlUrl="https://braincrater.wordpress.com" title="Brain Crater"/>
+    <outline type="rss" xmlUrl="http://brandon.si/code/atom.xml" htmlUrl="http://brandon.si/" title="Posts on code | Brandon.Si(mmons)"/>
+    <outline type="rss" xmlUrl="https://byorgey.wordpress.com/feed/atom/" htmlUrl="https://byorgey.wordpress.com" title="blog :: Brent -&amp;gt; [String]"/>
+    <outline type="rss" xmlUrl="http://www.serpentine.com/blog/feed/" htmlUrl="http://www.serpentine.com/blog" title="teideal glic deisbhéalach"/>
+    <outline type="rss" xmlUrl="http://scrollingtext.org/taxonomy/term/56/0/feed/" htmlUrl="http://scrollingtext.org/taxonomy/term/56/0" title="ScrollingText - Haskell"/>
+    <outline type="rss" xmlUrl="http://www.xoltar.org/rss.xml" htmlUrl="http://www.xoltar.org" title="Xoltar"/>
+    <outline type="rss" xmlUrl="http://feeds.feedburner.com/CartesianClosedComic" htmlUrl="http://ro-che.info/ccc" title="Cartesian Closed Comic"/>
+    <outline type="rss" xmlUrl="http://www.blogger.com/feeds/615478026137333873/posts/default" htmlUrl="http://chrismbrown.blogspot.com/" title="A Haskell Blog"/>
+    <outline type="rss" xmlUrl="https://readerunner.wordpress.com/feed/atom/" htmlUrl="https://readerunner.wordpress.com" title="readerunner"/>
+    <outline type="rss" xmlUrl="https://cdsmith.wordpress.com/feed/atom/" htmlUrl="https://cdsmith.wordpress.com" title="Sententia cdsmithus"/>
+    <outline type="rss" xmlUrl="https://lambda.xyz/tags/haskell.xml" htmlUrl="https://lambda.xyz" title="Posts tagged ‘haskell’"/>
+    <outline type="rss" xmlUrl="http://chrisdone.com/haskell.rss" htmlUrl="http://chrisdone.com" title="Chris Done's home page feed."/>
+    <outline type="rss" xmlUrl="http://blog.downstairspeople.org/category/haskell/feed/atom/" htmlUrl="http://blog.downstairspeople.org" title="Lane's Blog » Haskell"/>
+    <outline type="rss" xmlUrl="http://conway.rutgers.edu/~ccshan/wiki/blog/tags/english/index.rss" htmlUrl="http://conway.rutgers.edu/~ccshan/wiki/blog/tags/english/" title="Proper Treatment"/>
+    <outline type="rss" xmlUrl="http://www.blogger.com/feeds/6919669035402552575/posts/default" htmlUrl="http://cliffordbeshers.blogspot.com/" title="RuMiNaTiOnS"/>
+    <outline type="rss" xmlUrl="http://feeds.feedburner.com/conal" htmlUrl="http://conal.net/blog" title="Conal Elliott"/>
+    <outline type="rss" xmlUrl="http://www.blogger.com/feeds/9101292118679422945/posts/default?alt=atom" htmlUrl="http://blog.kfish.org/" title="Conrad Parker"/>
+    <outline type="rss" xmlUrl="http://abstractabsurd.blogspot.com/feeds/posts/default?alt=rss" htmlUrl="http://abstractabsurd.blogspot.com/" title="Abstract Absurdities"/>
+    <outline type="rss" xmlUrl="https://unknownparallel.wordpress.com/feed/atom/" htmlUrl="https://unknownparallel.wordpress.com" title="Unknown Parallel"/>
+    <outline type="rss" xmlUrl="http://blog.sigfpe.com/rss.xml" htmlUrl="http://blog.sigfpe.com/" title="A Neighborhood of Infinity"/>
+    <outline type="rss" xmlUrl="http://duplode.github.io/rss.xml" htmlUrl="http://duplode.github.io" title="The Life Monadic"/>
+    <outline type="rss" xmlUrl="https://parenz.wordpress.com/category/cs/haskell/feed/atom/" htmlUrl="https://parenz.wordpress.com" title="(parentheses) » Haskell"/>
+    <outline type="rss" xmlUrl="http://jozefg.bitbucket.org/rss.xml" htmlUrl="http://jozefg.bitbucket.org" title="Code and Co"/>
+    <outline type="rss" xmlUrl="http://www.blogger.com/feeds/819021106854702432/posts/default" htmlUrl="http://blog.darcs.net/" title="darcs advanced revision control system"/>
+    <outline type="rss" xmlUrl="http://www.blogger.com/feeds/5195188167565410449/posts/default" htmlUrl="http://haskellformaths.blogspot.com/" title="Haskell for Maths"/>
+    <outline type="rss" xmlUrl="http://www.blogger.com/feeds/4503472289464918478/posts/default" htmlUrl="http://projectscoutess.blogspot.com/" title="Scoutess GSOC"/>
+    <outline type="rss" xmlUrl="http://www.dmpots.com/feeds/posts/default" htmlUrl="http://www.dmpots.com/" title="dmpots thoughts"/>
+    <outline type="rss" xmlUrl="http://netsuperbrain.com/blog/?feed=rss2" htmlUrl="http://netsuperbrain.com/blog" title="Less Sugar/More Meat"/>
+    <outline type="rss" xmlUrl="http://blog.davidterei.com/feeds/posts/default" htmlUrl="http://blog.davidterei.com/" title="David Terei"/>
+    <outline type="rss" xmlUrl="https://syntaxfree.wordpress.com/feed/atom/" htmlUrl="https://syntaxfree.wordpress.com" title="Data.Syntaxfree"/>
+    <outline type="rss" xmlUrl="http://www.blogger.com/feeds/8976038770606708499/posts/default" htmlUrl="http://phaazon.blogspot.com/" title="Graphics and FPL"/>
+    <outline type="rss" xmlUrl="http://www.blogger.com/feeds/301893373063372699/posts/default" htmlUrl="http://disciple-devel.blogspot.com/" title="Disciple Development"/>
+    <outline type="rss" xmlUrl="https://dorchard.wordpress.com/feed/atom/" htmlUrl="https://dorchard.wordpress.com" title="..never odd or even.."/>
+    <outline type="rss" xmlUrl="https://idontgetoutmuch.wordpress.com/feed/" htmlUrl="https://idontgetoutmuch.wordpress.com" title="Idontgetoutmuch's Weblog"/>
+    <outline type="rss" xmlUrl="https://donsbot.wordpress.com/feed/atom/" htmlUrl="https://donsbot.wordpress.com" title="Control.Monad.Writer"/>
+    <outline type="rss" xmlUrl="http://www.blogger.com/feeds/4650294074444534066/posts/default" htmlUrl="http://logicaltypes.blogspot.com/" title="Typed Logic"/>
+    <outline type="rss" xmlUrl="http://gergo.erdi.hu/blog/tags/haskell/feed.xml" htmlUrl="http://gergo.erdi.hu/blog/tags/haskell" title="Gergő.Érdi.hu — haskell"/>
+    <outline type="rss" xmlUrl="http://www.blogger.com/feeds/129107585769892414/posts/default" htmlUrl="http://blog.edwardamsden.com/" title="Facts and Theories"/>
+    <outline type="rss" xmlUrl="http://comonad.com/reader/feed/atom/" htmlUrl="http://comonad.com/reader" title="The Comonad.Reader"/>
+    <outline type="rss" xmlUrl="http://feeds.feedburner.com/ezyang" htmlUrl="http://blog.ezyang.com" title="Inside 206-105"/>
+    <outline type="rss" xmlUrl="https://edwinb.wordpress.com/feed/atom/" htmlUrl="https://edwinb.wordpress.com" title="Edwin Brady"/>
+    <outline type="rss" xmlUrl="http://www.randomhacks.net/feed.xml" htmlUrl="http://www.randomhacks.net/" title="Random Hacks"/>
+    <outline type="rss" xmlUrl="http://www.blogger.com/feeds/21123659/posts/default?alt=atom" htmlUrl="http://koweycode.blogspot.com/" title="koweycode"/>
+    <outline type="rss" xmlUrl="http://www.mega-nerd.com/erikd/Blog/CodeHacking/index.atom" htmlUrl="" title="m3ga blog"/>
+    <outline type="rss" xmlUrl="http://feeds.feedburner.com/fpcomplete" htmlUrl="https://www.fpcomplete.com/school" title="FP Complete» News/Blog"/>
+    <outline type="rss" xmlUrl="http://sneezy.cs.nott.ac.uk/fplunch/weblog/?feed=rss2" htmlUrl="http://sneezy.cs.nott.ac.uk/fplunch/weblog" title="FP Lunch"/>
+    <outline type="rss" xmlUrl="http://www.mega-nerd.com/erikd/Blog/FP-Syd/index.atom" htmlUrl="" title="m3ga blog"/>
+    <outline type="rss" xmlUrl="http://blog.felipe.lessa.nom.br/?feed=rss2" htmlUrl="http://blog.felipe.lessa.nom.br" title="Felipe Lessa"/>
+    <outline type="rss" xmlUrl="http://functionaljobs.com/jobs/search/?q=haskell&amp;format=rss" htmlUrl="http://functionaljobs.com/" title="Functional Jobs: Search 'haskell'"/>
+    <outline type="rss" xmlUrl="http://ku-fpg.blogspot.com/feeds/posts/default?alt=rss" htmlUrl="http://ku-fpg.blogspot.com/" title="Functional Programming at the University of Kansas"/>
+    <outline type="rss" xmlUrl="http://www.blogger.com/feeds/1257971411439114772/posts/default" htmlUrl="http://ghcsparc.blogspot.com/" title="GHC on SPARC"/>
+    <outline type="rss" xmlUrl="http://www.blogger.com/feeds/1777990983847811806/posts/default" htmlUrl="http://www.haskellforall.com/" title="Haskell for all"/>
+    <outline type="rss" xmlUrl="http://hsenag.livejournal.com/data/rss?tag=haskell,darcs" htmlUrl="http://hsenag.livejournal.com/" title="Ganesh Sittampalam"/>
+    <outline type="rss" xmlUrl="http://totherme.livejournal.com/data/rss" htmlUrl="http://totherme.livejournal.com/" title="totherme"/>
+    <outline type="rss" xmlUrl="http://www.blogger.com/feeds/7548736674449953374/posts/default/-/haskell" htmlUrl="http://just-bottom.blogspot.com/search/label/haskell" title="Nothing Personal"/>
+    <outline type="rss" xmlUrl="http://syntax.wikidot.com/feed/pages/category/blog/t/Blog+feed" htmlUrl="http://syntax.wikidot.com" title="Blog feed"/>
+    <outline type="rss" xmlUrl="http://gregorycollins.net/feed.xml" htmlUrl="http://gregorycollins.net/feed.xml" title="gregory david collins"/>
+    <outline type="rss" xmlUrl="http://happstack.com/page/atom-feed" htmlUrl="http://happstack.com/page/blog" title="Happstack"/>
+    <outline type="rss" xmlUrl="https://haskellwebnews.wordpress.com/feed/atom/" htmlUrl="https://haskellwebnews.wordpress.com" title="The Haskell Web News"/>
+    <outline type="rss" xmlUrl="http://blog.on-a-horse.org/rss.xml" htmlUrl="http://blog.on-a-horse.org" title="Haskell on a Horse on a Web-Log"/>
+    <outline type="rss" xmlUrl="http://feeds.feedburner.com/holdenkarau/iYtm" htmlUrl="http://blog.holdenkarau.com/" title="Holden's Blog"/>
+    <outline type="rss" xmlUrl="http://holumbus.fh-wedel.de/blog/?feed=rss2" htmlUrl="http://holumbus.fh-wedel.de/blog" title="The Holumbus Developer"/>
+    <outline type="rss" xmlUrl="http://www.skybluetrades.net/haskell-rss.xml" htmlUrl="http://www.skybluetrades.net" title="Sky Blue Trades RSS feed."/>
+    <outline type="rss" xmlUrl="https://haddock2009.wordpress.com/feed/atom/" htmlUrl="https://haddock2009.wordpress.com" title="Isaac Dupree's"/>
+    <outline type="rss" xmlUrl="https://ivanmiljenovic.wordpress.com/feed/atom/" htmlUrl="https://ivanmiljenovic.wordpress.com" title="«Insert Name Here»"/>
+    <outline type="rss" xmlUrl="http://www.blogger.com/feeds/37404288/posts/default" htmlUrl="http://jpmoresmau.blogspot.com/" title="JP Moresmau's Programming Blog"/>
+    <outline type="rss" xmlUrl="http://lambda.jstolarek.com/feed/" htmlUrl="http://lambda.jstolarek.com" title="Yet Another Lambda Blog"/>
+    <outline type="rss" xmlUrl="http://blog.codersbase.com/feeds/posts/default" htmlUrl="http://blog.codersbase.com/" title="dagit.o"/>
+    <outline type="rss" xmlUrl="http://jaspervdj.be/tags/haskell.xml" htmlUrl="http://jaspervdj.be" title="jaspervdj - Posts tagged haskell"/>
+    <outline type="rss" xmlUrl="http://vis.renci.org/jeff/?feed=rss2" htmlUrl="http://vis.renci.org/jeff" title="Hieroglyphics"/>
+    <outline type="rss" xmlUrl="https://patternsinfp.wordpress.com/feed/atom/" htmlUrl="https://patternsinfp.wordpress.com" title="Patterns in Functional Programming"/>
+    <outline type="rss" xmlUrl="https://wewantarock.wordpress.com/feed/atom/" htmlUrl="https://wewantarock.wordpress.com" title="A rock to wind a piece of string around"/>
+    <outline type="rss" xmlUrl="http://www.blogger.com/feeds/6381777424713448943/posts/default" htmlUrl="http://nhlab.blogspot.com/" title="n-heptane lab"/>
+    <outline type="rss" xmlUrl="http://www.blogger.com/feeds/3300386911011555799/posts/default" htmlUrl="http://happstack.blogspot.com/" title="Happstack"/>
+    <outline type="rss" xmlUrl="http://blog.jbapple.com/feeds/posts/default?alt=rss" htmlUrl="http://blog.jbapple.com/" title="Everyone Else is Crazy"/>
+    <outline type="rss" xmlUrl="http://www.joachim-breitner.de/blog/tag/English_feed.rss" htmlUrl="http://www.joachim-breitner.de//blog" title="nomeata’s mind shares"/>
+    <outline type="rss" xmlUrl="http://www.blogger.com/feeds/1307152710341271576/posts/default" htmlUrl="http://johanjeuring.blogspot.com/" title="Johan Jeuring's blog"/>
+    <outline type="rss" xmlUrl="http://www.blogger.com/feeds/927289640963145319/posts/default" htmlUrl="http://blog.johantibell.com/" title="Johan Tibell"/>
+    <outline type="rss" xmlUrl="http://changelog.complete.org/archives/tag/haskell-s9y/feed" htmlUrl="http://changelog.complete.org" title="The Changelog » haskell"/>
+    <outline type="rss" xmlUrl="http://www.jonkri.com/tag/haskell/feed/" htmlUrl="http://www.jonkri.com" title="Jon Kristensen » Haskell"/>
+    <outline type="rss" xmlUrl="http://www.blogger.com/feeds/1228698015266547737/posts/default" htmlUrl="http://computationalthoughts.blogspot.com/" title="Computational Thoughts"/>
+    <outline type="rss" xmlUrl="http://www.blogger.com/feeds/5868652468914213610/posts/default/-/programming" htmlUrl="http://hauptwerk.blogspot.com/search/label/programming" title="Hauptwerk"/>
+    <outline type="rss" xmlUrl="http://joyridelabs.de/blog/?feed=atom&amp;tag=planet-haskell" htmlUrl="http://joyridelabs.de/blog/" title="Joyride Laboratories » λ"/>
+    <outline type="rss" xmlUrl="http://joaopizani.hopto.org/en/category/haskell/feed/" htmlUrl="http://joaopizani.hopto.org/en/" title="Experimento imaginário » Haskell"/>
+    <outline type="rss" xmlUrl="http://www.blogger.com/feeds/1563623855220143059/posts/default" htmlUrl="http://mainisusuallyafunction.blogspot.com/" title="main is usually a function"/>
+    <outline type="rss" xmlUrl="http://www.blogger.com/feeds/6757805/posts/default/-/haskell" htmlUrl="http://kenta.blogspot.com/search/label/haskell" title="Ken's blog"/>
+    <outline type="rss" xmlUrl="http://blog.malde.org/rss.xml" htmlUrl="http://blog.malde.org" title="Ketil's blog"/>
+    <outline type="rss" xmlUrl="http://kpreid.livejournal.com/data/rss" htmlUrl="http://kpreid.livejournal.com/" title="Kevin Reid's blog"/>
+    <outline type="rss" xmlUrl="http://kevin.scaldeferri.com/blog/tech/index.rss" htmlUrl="http://kevin.scaldeferri.com/blog/tech" title="Kevin's Weblog"/>
+    <outline type="rss" xmlUrl="http://dialectical-computing.de/blog/haskell.xml" htmlUrl="http://www.dialectical-computing.de/blog/" title="In Clojure We Trust - Haskell"/>
+    <outline type="rss" xmlUrl="http://www.blogger.com/feeds/1862878851303132605/posts/default" htmlUrl="http://lhc-compiler.blogspot.com/" title="Notes on the LHC"/>
+    <outline type="rss" xmlUrl="https://lambdacube3d.wordpress.com/feed/atom/" htmlUrl="https://lambdacube3d.wordpress.com" title="LambdaCube 3D"/>
+    <outline type="rss" xmlUrl="http://feeds.feedburner.com/lpenz/avulsos/articles/haskell" htmlUrl="http://lpenz.org" title="Avulsos by Penz - Articles tagged as haskell"/>
+    <outline type="rss" xmlUrl="https://leepike.wordpress.com/feed/atom/" htmlUrl="https://leepike.wordpress.com" title="A Critical Systems Blog"/>
+    <outline type="rss" xmlUrl="http://cohatoe.blogspot.com/feeds/posts/default?alt=rss" htmlUrl="http://cohatoe.blogspot.com/" title="Leif Frenzel's Haskell and Eclipse blog"/>
+    <outline type="rss" xmlUrl="http://augustss.blogspot.com/feeds/posts/default?alt=rss" htmlUrl="http://augustss.blogspot.com/" title="Things that amuse me"/>
+    <outline type="rss" xmlUrl="http://lennartkolmodin.blogspot.com/feeds/posts/default?alt=rss" htmlUrl="http://lennartkolmodin.blogspot.com/" title="Bits and Bytes"/>
+    <outline type="rss" xmlUrl="http://blog.melding-monads.com/feed/atom/" htmlUrl="http://blog.melding-monads.com" title="Melding Monads"/>
+    <outline type="rss" xmlUrl="http://www.blogger.com/feeds/6913397465984649777/posts/default" htmlUrl="http://araujoluis.blogspot.com/" title="araujo's blog"/>
+    <outline type="rss" xmlUrl="https://lukepalmer.wordpress.com/tag/haskell/feed/atom/" htmlUrl="https://lukepalmer.wordpress.com" title="Luke Palmer » haskell"/>
+    <outline type="rss" xmlUrl="http://lukeplant.me.uk/blog/categories/haskell/atom/index.xml" htmlUrl="http://lukeplant.me.uk/blog/categories/haskell/" title="All Unkept"/>
+    <outline type="rss" xmlUrl="https://lindstroem.wordpress.com/feed/atom/" htmlUrl="https://lindstroem.wordpress.com" title="Haskellville"/>
+    <outline type="rss" xmlUrl="http://therning.org/magnus/atom.xml" htmlUrl="http://therning.org/magnus" title="Magnus web site"/>
+    <outline type="rss" xmlUrl="http://feeds.feedburner.com/malcolm" htmlUrl="http://nhc98.blogspot.com/" title="malcolm"/>
+    <outline type="rss" xmlUrl="http://justtesting.org/rss#_=_" htmlUrl="http://justtesting.org/" title="Just Testing"/>
+    <outline type="rss" xmlUrl="http://marcot.eti.br/tag/haskell/index.rss" htmlUrl="http://marcot.eti.br//tag/haskell/" title="pages tagged haskell"/>
+    <outline type="rss" xmlUrl="http://www.blogger.com/feeds/1745485961030073287/posts/default" htmlUrl="http://gsoc2013cwithmobiledevices.blogspot.com/" title="GSoC 2013 - Communicating with Mobile Devices"/>
+    <outline type="rss" xmlUrl="http://blog.plover.com/index.atom" htmlUrl="http://blog.plover.com" title="The Universe of Discourse"/>
+    <outline type="rss" xmlUrl="http://www.shimweasel.com/articles.rss" htmlUrl="http://www.shimweasel.com" title="shimweasel"/>
+    <outline type="rss" xmlUrl="http://martijn.van.steenbergen.nl/journal/category/programming/haskell/feed/" htmlUrl="http://martijn.local/journal" title="Martijn's Journal » Haskell"/>
+    <outline type="rss" xmlUrl="http://www.blogger.com/feeds/4642782805835050446/posts/default" htmlUrl="http://sulzmann.blogspot.com/" title="Martin Sulzmann's Blog"/>
+    <outline type="rss" xmlUrl="http://fuuzetsu.co.uk/blog/atom.xml" htmlUrl="http://fuuzetsu.co.uk/blog" title="Fūzetsu's Corner"/>
+    <outline type="rss" xmlUrl="https://cogracenotes.wordpress.com/feed/atom/" htmlUrl="https://cogracenotes.wordpress.com" title="Adventures in Duality"/>
+    <outline type="rss" xmlUrl="http://matt.immute.net/taxonomy/term/13/0/feed/" htmlUrl="http://matt.immute.net/taxonomy/term/13/0" title="mh - haskell"/>
+    <outline type="rss" xmlUrl="http://www.wellquite.org/rss/wellquite.xml" htmlUrl="http://wellquite.org/blog" title="Reactionary Visions"/>
+    <outline type="rss" xmlUrl="http://mmartedp.blogspot.com/feeds/posts/default?alt=rss" htmlUrl="http://mmartedp.blogspot.com/" title="Michael's Declarative Programming Blog"/>
+    <outline type="rss" xmlUrl="http://pgraycode.wordpress.com/feed/atom/" htmlUrl="http://pgraycode.wordpress.com" title="Code and Bugs"/>
+    <outline type="rss" xmlUrl="http://blog.mikael.johanssons.org/feed/" htmlUrl="http://blog.mikael.johanssons.org" title="Michi's blog"/>
+    <outline type="rss" xmlUrl="https://izbicki.me/blog/category/computer-science/feed" htmlUrl="http://izbicki.me" title="Mike Izbicki's blog posts"/>
+    <outline type="rss" xmlUrl="http://feeds.feedburner.com/ChurningAndChurning" htmlUrl="http://coldwa.st/e" title="coldwa.st/e - All posts"/>
+    <outline type="rss" xmlUrl="http://www.blogger.com/feeds/6355249120999252418/posts/default" htmlUrl="http://jshaskell.blogspot.com/" title="Writing JavaScript games in Haskell"/>
+    <outline type="rss" xmlUrl="https://chplib.wordpress.com/feed/atom/" htmlUrl="https://chplib.wordpress.com" title="Communicating Haskell Processes"/>
+    <outline type="rss" xmlUrl="http://neilmitchell.blogspot.com/rss.xml" htmlUrl="http://neilmitchell.blogspot.com/" title="Neil Mitchell's Haskell Blog"/>
+    <outline type="rss" xmlUrl="http://zenzike.com/rss.xml" htmlUrl="http://zenzike.com" title="Zenzike's Blog"/>
+    <outline type="rss" xmlUrl="http://www.blogger.com/feeds/6994932821484835003/posts/default" htmlUrl="http://nibrofun.blogspot.com/" title="Functional Fun"/>
+    <outline type="rss" xmlUrl="https://noamlewis.wordpress.com/feed/atom/" htmlUrl="https://noamlewis.wordpress.com" title="⦃ Noam ⍤ Lewis ⦄"/>
+    <outline type="rss" xmlUrl="https://ocharles.org.uk/blog/posts.rss" htmlUrl="http://ocharles.org.uk/blog" title="Inside ocharles"/>
+    <outline type="rss" xmlUrl="http://greenokapi.net/blog/tag/haskell/feed" htmlUrl="http://greenokapi.net/blog" title="Just another lambdabananacamel, » haskell"/>
+    <outline type="rss" xmlUrl="http://feeds2.feedburner.com/PmatosMinority-Haskell" htmlUrl="" title=""/>
+    <outline type="rss" xmlUrl="http://pcapriotti.github.com/atom.xml" htmlUrl="http://pcapriotti.github.com/" title="Paolo Capriotti's blog - Haskell"/>
+    <outline type="rss" xmlUrl="http://www.blogger.com/feeds/2267747408703654731/posts/default/-/haskell" htmlUrl="http://pchiusano.blogspot.com/search/label/haskell" title="Prettt-tty, pretty, pretty good!"/>
+    <outline type="rss" xmlUrl="http://www.blogger.com/feeds/5975524006824862804/posts/default" htmlUrl="http://paulspontifications.blogspot.com/" title="Paul's Pontifications"/>
+    <outline type="rss" xmlUrl="http://praisecurseandrecurse.blogspot.com/feeds/posts/default?alt=rss" htmlUrl="http://praisecurseandrecurse.blogspot.com/" title="Praise, Curse, and Recurse"/>
+    <outline type="rss" xmlUrl="http://web.mornfall.net/tag/darcs.rss" htmlUrl="http://web.mornfall.net/tag/darcs.html" title="tag/darcs"/>
+    <outline type="rss" xmlUrl="http://www.blogger.com/feeds/9757377/posts/default?alt=atom" htmlUrl="http://wadler.blogspot.com/" title="Wadler's Blog"/>
+    <outline type="rss" xmlUrl="https://flippac.wordpress.com/feed/atom/" htmlUrl="https://flippac.wordpress.com" title="flippac"/>
+    <outline type="rss" xmlUrl="http://pls.posterous.com/rss.xml" htmlUrl="http://pls.posterous.com" title="PLS @ UNSW"/>
+    <outline type="rss" xmlUrl="http://blogs.msdn.com/b/ralflammel/rss.aspx" htmlUrl="http://blogs.msdn.com/b/ralflammel/" title="Grammarware, Haskellware, XMLware"/>
+    <outline type="rss" xmlUrl="https://randprocnotes.wordpress.com/feed/atom/" htmlUrl="https://randprocnotes.wordpress.com" title="RandProcNotes"/>
+    <outline type="rss" xmlUrl="http://www.realworldhaskell.org/blog/feed/" htmlUrl="http://www.realworldhaskell.org/blog" title="Real World Haskell"/>
+    <outline type="rss" xmlUrl="https://reinerp.wordpress.com/feed/atom/" htmlUrl="https://reinerp.wordpress.com" title="Reiner Pope"/>
+    <outline type="rss" xmlUrl="https://typesandkinds.wordpress.com/feed/atom/" htmlUrl="https://typesandkinds.wordpress.com" title="Types and Kinds"/>
+    <outline type="rss" xmlUrl="http://control.monad.st/feed" htmlUrl="http://control.monad.st" title="Control.Monad.ST"/>
+    <outline type="rss" xmlUrl="https://existentialtype.wordpress.com/feed/atom/" htmlUrl="https://existentialtype.wordpress.com" title="Existential Type"/>
+    <outline type="rss" xmlUrl="http://www.blogger.com/feeds/32922462/posts/default?alt=atom" htmlUrl="http://setoidsandcats.blogspot.com/" title="Setoids and Cats"/>
+    <outline type="rss" xmlUrl="http://www.blogger.com/feeds/4001434382262009587/posts/default/-/Haskell" htmlUrl="http://blog.gekkou.co.uk/search/label/Haskell" title="Gekkou Blog"/>
+    <outline type="rss" xmlUrl="http://feeds.feedburner.com/RomanCheplyaka" htmlUrl="http://ro-che.info/articles/" title="Roman Cheplyaka"/>
+    <outline type="rss" xmlUrl="http://www.latermuse.com/rss/rss.xml" htmlUrl="http://www.latermuse.com" title="Latermuse.com"/>
+    <outline type="rss" xmlUrl="http://r6.ca/blog/feed.atom" htmlUrl="http://r6.ca/blog/" title="Russell O’Connor’s Blog"/>
+    <outline type="rss" xmlUrl="http://www.blogger.com/feeds/3084965657276734482/posts/default" htmlUrl="http://lambdasandwich.blogspot.com/" title="Lambda Sandwich"/>
+    <outline type="rss" xmlUrl="http://feeds.feedburner.com/splonderzoek" htmlUrl="http://splonderzoek.blogspot.com/" title="splonderzoek"/>
+    <outline type="rss" xmlUrl="http://lambdalog.seanseefried.com/rss.xml" htmlUrl="http://lambdalog.seanseefried.com" title="Lambdalog"/>
+    <outline type="rss" xmlUrl="https://theformalworld.wordpress.com/category/haskell/feed/atom/" htmlUrl="https://theformalworld.wordpress.com" title="The Formal World » Haskell"/>
+    <outline type="rss" xmlUrl="https://cleantypecheck.wordpress.com/feed/atom/" htmlUrl="https://cleantypecheck.wordpress.com" title="Clean Typecheck"/>
+    <outline type="rss" xmlUrl="http://www.iis.sinica.edu.tw/~scm/?feed=rss2&amp;cat=1" htmlUrl="http://www.iis.sinica.edu.tw/~scm" title="niche computing science » Research Blog"/>
+    <outline type="rss" xmlUrl="http://feeds.feedburner.com/typlab/blog" htmlUrl="http://engineering.silk.co/" title="Silk Engineering Blog"/>
+    <outline type="rss" xmlUrl="http://www.blogger.com/feeds/3734004713473160250/posts/default" htmlUrl="http://lambda-view.blogspot.com/" title="λ-view"/>
+    <outline type="rss" xmlUrl="http://joyful.com/_blog.xml" htmlUrl="http://joyful.com" title="Joyful Systems blog"/>
+    <outline type="rss" xmlUrl="http://snapframework.com/blog/feed.xml" htmlUrl="http://snapframework.com/blog/blog/feed.xml" title="Snap Framework Blog"/>
+    <outline type="rss" xmlUrl="https://fmapfixreturn.wordpress.com/feed/atom/" htmlUrl="https://fmapfixreturn.wordpress.com" title="fmap fix return"/>
+    <outline type="rss" xmlUrl="http://cprg-research.blogspot.com/feeds/posts/default/-/haskell?alt=rss" htmlUrl="http://cprg-research.blogspot.com/search/label/haskell" title="The Cambridge Programming Research Group Blog"/>
+    <outline type="rss" xmlUrl="https://ghc.haskell.org/trac/ghc/blog?format=rss" htmlUrl="http://ghc.haskell.org/trac/ghc/blog" title="GHC - Blog"/>
+    <outline type="rss" xmlUrl="https://gentoohaskell.wordpress.com/feed/atom/" htmlUrl="https://gentoohaskell.wordpress.com" title="Gentoo Linux and Haskell"/>
+    <outline type="rss" xmlUrl="http://www.blogger.com/feeds/3797711495555655602/posts/default" htmlUrl="http://timber-lang.blogspot.com/" title="Timber"/>
+    <outline type="rss" xmlUrl="http://yhc06.blogspot.com/rss.xml" htmlUrl="http://yhc06.blogspot.com/" title="York Haskell Compiler"/>
+    <outline type="rss" xmlUrl="https://theorylunch.wordpress.com/feed/atom/" htmlUrl="https://theorylunch.wordpress.com" title="Theory Lunch"/>
+    <outline type="rss" xmlUrl="http://feeds.feedburner.com/blogspot/hSASX" htmlUrl="http://blog.tnegri.com/" title="Thiago B. Negri"/>
+    <outline type="rss" xmlUrl="https://tommd.wordpress.com/feed/atom/" htmlUrl="https://tommd.wordpress.com" title="Beware the Jabberwolk"/>
+    <outline type="rss" xmlUrl="http://www.blogger.com/feeds/35609023/posts/default" htmlUrl="http://nominolo.blogspot.com/" title="nominolo's Blog"/>
+    <outline type="rss" xmlUrl="http://www.blogger.com/feeds/2098836520432505250/posts/default" htmlUrl="http://cabaltest.blogspot.com/" title="Cabal Testing Summer of Code"/>
+    <outline type="rss" xmlUrl="https://eclipsefp.wordpress.com/feed/atom/" htmlUrl="https://eclipsefp.wordpress.com" title="EclipseFP GSoC '09"/>
+    <outline type="rss" xmlUrl="https://tillmannvogt.wordpress.com/feed/atom/" htmlUrl="https://tillmannvogt.wordpress.com" title="Tillmann Vogt"/>
+    <outline type="rss" xmlUrl="https://twdkz.wordpress.com/feed/atom/" htmlUrl="https://twdkz.wordpress.com" title="twdkz"/>
+    <outline type="rss" xmlUrl="http://tom.lokhorst.eu/category/haskell/feed" htmlUrl="http://tom.lokhorst.eu" title="Tom Lokhorst's blog » Haskell"/>
+    <outline type="rss" xmlUrl="http://blog.moertel.com/xml/atom/feed.xml" htmlUrl="http://blog.moertel.com" title="Tom Moertel's Blog"/>
+    <outline type="rss" xmlUrl="http://www.blogger.com/feeds/5844006452378085451/posts/default/-/Haskell" htmlUrl="http://tomschrijvers.blogspot.com/search/label/Haskell" title="Tom's Declarative Languages Blog"/>
+    <outline type="rss" xmlUrl="http://blog.tupil.com/tag/haskell/feed" htmlUrl="http://blog.tupil.com" title="Tupil Code Blog » Haskell"/>
+    <outline type="rss" xmlUrl="http://twanvl.nl/feed" htmlUrl="http://twanvl.nl/blog" title="Twan van Laarhoven's blog"/>
+    <outline type="rss" xmlUrl="https://utrechthaskellcompiler.wordpress.com/feed/atom/" htmlUrl="https://utrechthaskellcompiler.wordpress.com" title="@UHC"/>
+    <outline type="rss" xmlUrl="http://feeds.feedburner.com/UlissesCostaBlogEnglish" htmlUrl="https://ulissesaraujo.wordpress.com" title="Ulisses Costa Blog » English"/>
+    <outline type="rss" xmlUrl="http://tab.snarc.org/rss/haskell.xml" htmlUrl="http://tab.snarc.org" title="Vincent's haskell chronicles"/>
+    <outline type="rss" xmlUrl="http://www.well-typed.com/blog/rss2.xml" htmlUrl="http://www.well-typed.com/blog/" title="Well-Typed Blog"/>
+    <outline type="rss" xmlUrl="https://jeltsch.wordpress.com/feed/atom/" htmlUrl="https://jeltsch.wordpress.com" title="Wolfgang Jeltsch"/>
+    <outline type="rss" xmlUrl="https://xmonad.wordpress.com/feed/atom/" htmlUrl="https://xmonad.wordpress.com" title="xmonad"/>
+    <outline type="rss" xmlUrl="http://www.yesodweb.com/feed" htmlUrl="http://www.yesodweb.com/" title="Yesod Web Framework Blog"/>
+    <outline type="rss" xmlUrl="http://www.blogger.com/feeds/5111467676053815782/posts/default" htmlUrl="http://yi-editor.blogspot.com/" title="The Yi Blog"/>
+    <outline type="rss" xmlUrl="http://apfelmus.nfshost.com/rss.xml" htmlUrl="http://apfelmus.nfshost.com/" title="apfeλmus"/>
+    <outline type="rss" xmlUrl="https://www.blogger.com/feeds/6980262235392061030/posts/default/-/PlanetHaskell" htmlUrl="http://factisresearch.blogspot.com/search/label/PlanetHaskell" title="factis research blog"/>
+    <outline type="rss" xmlUrl="http://hyperq.github.io/index.xml" htmlUrl="http://hyperq.github.io" title="hyperq"/>
+    <outline type="rss" xmlUrl="http://lpuppet.banquise.net/atom.xml" htmlUrl="http://lpuppet.banquise.net/" title="The language-puppet website."/>
+    <outline type="rss" xmlUrl="http://feeds.feedburner.com/SoftwareSimply" htmlUrl="http://softwaresimply.blogspot.com/" title="Software Simply"/>
+    <outline type="rss" xmlUrl="http://winterkoninkje.dreamwidth.org/data/rss?tag=haskell+planet" htmlUrl="http://winterkoninkje.dreamwidth.org/" title="Renaissance Grrrl"/>
+  </body>
+</opml>
