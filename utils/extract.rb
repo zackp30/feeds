@@ -10,5 +10,9 @@ nodes = document.xpath ENV['XPATH']
 
 nodes.each do |n|
   puts n.xpath('a[1]').attr 'title'
-  puts `echo "$(OPML_XML_URL="#{n.xpath('a[2]').attr 'href'}" OPML_HTML_URL="#{n.xpath('a[1]').attr 'href'}" OPML_TITLE="#{n.xpath('a[1]').attr 'title'}" erb opml.erb)" >> new.opml`  # the `a[N]` might have to be adjusted
+  puts n.inspect
+  xml_url = n.xpath('a[2]').attr 'href'
+  html_url = n.xpath('a[1]').attr 'href'
+  title = n.xpath('a[1]').attr 'title'
+  puts `echo "$(OPML_XML_URL="#{xml_url}" OPML_HTML_URL="#{html_url}" OPML_TITLE="#{title}" erb opml.erb)" >> new.opml`  # the `a[N]` might have to be adjusted
 end
