@@ -1,0 +1,612 @@
+<?xml version="1.0"?>
+<opml version="1.1">
+	<head>
+		<title>Planet Clojure</title>
+		<ownerName>Baishampayan Ghose</ownerName>
+		<ownerEmail>b.ghose@gmail.com</ownerEmail>
+	</head>
+	
+	<body>
+		<outline type="rss" text="&quot;(apply clojure @life)&quot;" xmlUrl="http://www.blogger.com/feeds/3876525508830380670/posts/default" title="(apply clojure @life)" />
+		<outline type="rss" text="&quot;An Architect's View&quot;" xmlUrl="http://corfield.org/blog/feeds/rss.cfm" title="An Architect's View" />
+		<outline type="rss" text="&quot;Clojure &amp; lx&quot;" xmlUrl="http://www.blogger.com/feeds/1506645095464847642/posts/default" title="Clojure &amp;amp; lx" />
+		<outline type="rss" text="&quot;Clojuresoft&quot;" xmlUrl="http://clojuresoft.com/feed" title="clojuresoft.com" />
+		<outline type="rss" text="&quot;Danny 'Jay' Donnell&quot;" xmlUrl="http://pipes.yahoo.com/pipes/pipe.run?_id=b407d7d2c8f1a806dbe7668c200811b3&amp;_render=rss" title="Danny 'Jay' Donnell" />
+		<outline type="rss" text="&quot;Digithead's Lab Notebook&quot;" xmlUrl="http://www.blogger.com/feeds/5964816804623588850/posts/default/-/clojure" title="Digithead's Lab Notebook" />
+		<outline type="rss" text="&quot;It's Actors All The Way Down&quot;" xmlUrl="http://www.dalnefre.com/wp/tag/clojure/feed/" title="It's Actors All The Way Down » Clojure" />
+		<outline type="rss" text="&quot;Jean Niklas L'orange&quot;" xmlUrl="http://hypirion.com/rss/clojure" title="Polymatheia" />
+		<outline type="rss" text="&quot;John's Coding Reflections&quot;" xmlUrl="http://metaljoe.wordpress.com/category/clojure/feed/" title="John's Coding Reflections » Clojure" />
+		<outline type="rss" text="&quot;Keep IT Simply Simple&quot;" xmlUrl="http://pipes.yahoo.com/pipes/pipe.run?_id=7f19578eccc6f2e8ea7dafb56aee9b3c&amp;_render=rss" title="Keep IT Simply Simple" />
+		<outline type="rss" text="&quot;Kevin 'Jing' Qiu&quot;" xmlUrl="http://reminiscential.wordpress.com/tag/clojure/feed/" title="Reminiscential: of or pertaining to remembrance » clojure" />
+		<outline type="rss" text="&quot;O'Reilly blogs&quot;" xmlUrl="http://blogs.oreilly.com/cgi-bin/mt/mt-search.cgi?search=clojure&amp;Template=feed&amp;IncludeBlogs=57" title="Search Results for clojure" />
+		<outline type="rss" text="&quot;Phil Calçado&quot;" xmlUrl="http://pipes.yahoo.com/pipes/pipe.run?_id=2ac9f144f88726c30c12cb00c073f765&amp;_render=rss" title="Phil Calçado" />
+		<outline type="rss" text="&quot;Programmer[:world]&quot;" xmlUrl="http://www.blogger.com/feeds/9139720/posts/default/-/Clojure" title="Programmer[:world]" />
+		<outline type="rss" text="&quot;Relevance Inc.'s blog&quot;" xmlUrl="http://pipes.yahoo.com/pipes/pipe.run?_id=4ae2c2d9a04d626263b3cb7c7a002970&amp;_render=rss" title="Relevance Inc.'s blog" />
+		<outline type="rss" text="&quot;Remco van 't Veer&quot;" xmlUrl="http://blog.remvee.net/category/clojure/rss.xml" title="RemVee.blog" />
+		<outline type="rss" text="&quot;ZenRobotics R&amp;D Blog&quot;" xmlUrl="http://www.blogger.com/feeds/1813440109596151032/posts/default/-/clojure" title="ZenRobotics R&amp;amp;D Blog" />
+		<outline type="rss" text="&quot;justinhj's coding blog&quot;" xmlUrl="http://www.blogger.com/feeds/4777243148323391813/posts/default/-/clojure" title="justinhj's coding blog" />
+		<outline type="rss" text="&quot;sexp's posterous&quot;" xmlUrl="http://sexp.posterous.com/rss.xml?tag=clojure" title="&quot;sexp's posterous&quot;" />
+		<outline type="rss" text="(+ clojure me)" xmlUrl="http://www.blogger.com/feeds/6523621596553394172/posts/default" title="(+ Clojure me)" />
+		<outline type="rss" text="221B Labs" xmlUrl="http://221b-labs.com/tag/clojure/feed/" title="221B Labs» Clojure" />
+		<outline type="rss" text="7sudos" xmlUrl="http://7sudos.com/taxonomy/term/11/0/feed" title="7sudos - clojure" />
+		<outline type="rss" text="8thlight Inc." xmlUrl="http://pipes.yahoo.com/pipes/pipe.run?_id=41a2056f19749d05714d82f7e14e4c19&amp;_render=rss" title="8thlight Inc." />
+		<outline type="rss" text=":wq - blog" xmlUrl="http://feeds.feedburner.com/wq-clojure" title=":wq - blog » clojure" />
+		<outline type="rss" text="Adam Bard" xmlUrl="http://pipes.yahoo.com/pipes/pipe.run?_id=6e116a29211d240fc7cfd9b882e05f1f&amp;_render=rss" title="Adam Bard" />
+		<outline type="rss" text="Adam Pohorecki" xmlUrl="http://adam.pohorecki.pl/blog/categories/clojure/atom.xml" title="Category: clojure | Adam Pohorecki" />
+		<outline type="rss" text="Adrian Mouat" xmlUrl="http://pipes.yahoo.com/pipes/pipe.run?_id=03725c0c7484f6f0757ab3e7942ef873&amp;_render=rss" title="Adrian Mouat" />
+		<outline type="rss" text="Adrian Mowat" xmlUrl="http://www.blogger.com/feeds/5926827088337637028/posts/default/-/clojure" title="coding@mowat27" />
+		<outline type="rss" text="AgnosticDevs" xmlUrl="http://agnosticdevs.com/category/clojure/feed/" title="AgnosticDevs-Problems define the tools » Clojure" />
+		<outline type="rss" text="Alan Busby" xmlUrl="http://pipes.yahoo.com/pipes/pipe.run?_id=1c5756c4438a9e2fe5f879b785f3c4c6&amp;_render=rss" title="Alan Busby" />
+		<outline type="rss" text="Alan Dipert" xmlUrl="http://pipes.yahoo.com/pipes/pipe.run?_id=b87ce8ba634dd527d1d51a9111621622&amp;_render=rss" title="Alan Dipert" />
+		<outline type="rss" text="Alex Baranosky" xmlUrl="http://AlexBaranosky.github.io/categories/clojure/atom.xml" title="Category: clojure | (elegant coding from a more civilized age)" />
+		<outline type="rss" text="Alex Heusingfeld" xmlUrl="http://pipes.yahoo.com/pipes/pipe.run?_id=5171e53175d2ddc5d1df68ad7d880edd&amp;_render=rss" title="Alex Heusingfeld" />
+		<outline type="rss" text="Alex Miller" xmlUrl="http://tech.puredanger.com/?cat=133&amp;feed=rss2" title="Pure Danger Tech » Clojure" />
+		<outline type="rss" text="Alex Osborne" xmlUrl="http://meshy.org/atom.xml" title="Alex Osborne's log" />
+		<outline type="rss" text="Alex Ott" xmlUrl="http://www.blogger.com/feeds/6862508/posts/default/-/clojure" title="Alex Ott's blog" />
+		<outline type="rss" text="Alexander Kahl" xmlUrl="http://paralambda.org/tag/clojure/feed/" title="Thoughts in Parentheses » clojure" />
+		<outline type="rss" text="Alexander Semenov" xmlUrl="http://www.blogger.com/feeds/7784478693368967164/posts/default/-/clojure" title="World Cognition By Programming" />
+		<outline type="rss" text="Alexandre Gravier" xmlUrl="http://pipes.yahoo.com/pipes/pipe.run?_id=7267a96d8895bb5932f9c7ea1ae9942a&amp;_render=rss" title="Alexandre Gravier" />
+		<outline type="rss" text="Alexey Aristov" xmlUrl="http://pipes.yahoo.com/pipes/pipe.run?_id=4e70b91004b3e84caa26e94bf388226b&amp;_render=rss" title="Alexey Aristov" />
+		<outline type="rss" text="Alfredo Di Napoli" xmlUrl="http://alfredodinapoli.wordpress.com/tag/clojure/feed/" title="Web life between Python and lambda calculus » clojure" />
+		<outline type="rss" text="Allen Rohner" xmlUrl="http://www.blogger.com/feeds/35275067/posts/default/-/clojure" title="/dev/rohner" />
+		<outline type="rss" text="Alvaro Videla" xmlUrl="http://pipes.yahoo.com/pipes/pipe.run?_id=2dfe6914540e12f77eea04df1d57f5b3&amp;_render=rss" title="Alvaro Videla" />
+		<outline type="rss" text="Ambrose Bonnaire-Sergeant" xmlUrl="http://frenchy64.github.io/atom.xml" title="dissoc" />
+		<outline type="rss" text="Amit Rathore" xmlUrl="http://s-expressions.com/tag/clojure/feed/" title="s-expressions » clojure" />
+		<outline type="rss" text="Amsterdam Clojurians Meetup" xmlUrl="http://feeds.feedburner.com/AmsterdamClojuriansMeetup" title="Amsterdam Clojurians Meetup" />
+		<outline type="rss" text="Andrew Brehaut" xmlUrl="http://pipes.yahoo.com/pipes/pipe.run?_id=5f5888040dabb6d30a9691e3fd29018b&amp;_render=rss" title="Andrew Brehaut" />
+		<outline type="rss" text="Andrew Cholakian" xmlUrl="http://pipes.yahoo.com/pipes/pipe.run?_id=5568b1540ce26cdd4e85f6c33b35dcf2&amp;_render=rss" title="Andrew Cholakian" />
+		<outline type="rss" text="Andrew Cowper" xmlUrl="http://git.slothrop.net/git-slothrop-net.rss" title="Some Clojure Projects" />
+		<outline type="rss" text="Andrew Gwozdziewycz" xmlUrl="http://sigusr2.net/tags/clojure.xml" title="SIGUSR2: tagged clojure" />
+		<outline type="rss" text="Andrew Jones" xmlUrl="" title="Andrew Jones" />
+		<outline type="rss" text="Andrew Whitehouse" xmlUrl="http://pipes.yahoo.com/pipes/pipe.run?_id=23ba1ea6d318e56ea43738984d9d19ff&amp;_render=rss" title="Andrew Whitehouse" />
+		<outline type="rss" text="Anna Pawlicka" xmlUrl="http://annapawlicka.com/category/clojure/feed/" title="Anna Pawlicka » Clojure" />
+		<outline type="rss" text="Antoine Romain Dumont" xmlUrl="http://adumont.fr/blog/category/informatique/clojure/feed/" title="tony's blog » clojure" />
+		<outline type="rss" text="Antonio Terreno" xmlUrl="http://the-arm.com/clojure-atom.xml" title="toniBlog" />
+		<outline type="rss" text="Arcane Sentiment" xmlUrl="http://pipes.yahoo.com/pipes/pipe.run?_id=0c433447e78f28759a04e1bbc8236216&amp;_render=rss" title="Arcane Sentiment" />
+		<outline type="rss" text="Arnold Matyasi" xmlUrl="http://www.blogger.com/feeds/4188202977910974615/posts/default/-/Clojure" title="Loganis - Data Science - Λογανυς" />
+		<outline type="rss" text="Asymmetrical View" xmlUrl="http://pipes.yahoo.com/pipes/pipe.run?_id=1a0cc5a5b729058f58307f00a728dc72&amp;_render=rss" title="Asymmetrical View" />
+		<outline type="rss" text="Ative at Work" xmlUrl="http://community.ative.dk/blogs/ative/rss.aspx?Tags=clojure&amp;AndTags=1" title="Ative at Work : clojure" />
+		<outline type="rss" text="Atomic Spin" xmlUrl="http://pipes.yahoo.com/pipes/pipe.run?_id=4f8569a77c5ae170e4afd516f9543f32&amp;_render=rss" title="Atomic Spin (Clojure posts)" />
+		<outline type="rss" text="August Lilleaas" xmlUrl="http://pipes.yahoo.com/pipes/pipe.run?_id=714d60cbe66b60ce3ea563a933c4b6bb&amp;_render=rss" title="August Lilleaas" />
+		<outline type="rss" text="Baishampayan Ghose" xmlUrl="" title="Baishampayan Ghose" />
+		<outline type="rss" text="Bastien Guerry" xmlUrl="http://bzg.fr/clojure.xml" title="(Bastien Guerry -- Clojure)" />
+		<outline type="rss" text="Beanstalk" xmlUrl="http://pipes.yahoo.com/pipes/pipe.run?_id=83fd94188e529e39e6618f741257f114&amp;_render=rss" title="Beanstalk" />
+		<outline type="rss" text="Ben Atkin" xmlUrl="http://benatkin.com/tag/clojure/feed/" title="Ben Atkin's Bloge » clojure" />
+		<outline type="rss" text="Ben Hughes" xmlUrl="http://pixelmachine.org/clojure.rss" title="pixelmachine: clojure desk" />
+		<outline type="rss" text="Ben Mabey" xmlUrl="http://benmabey.com/tags/clojure/atom.xml" title="Ben Mabey on clojure" />
+		<outline type="rss" text="Ben Rady" xmlUrl="http://pipes.yahoo.com/pipes/pipe.run?_id=780e781d9fc9229b7b113c02968edec6&amp;_render=rss" title="Ben Rady" />
+		<outline type="rss" text="BigML.com" xmlUrl="http://blog.bigml.com/category/clojure-2/feed/" title="The Official Blog of BigML.com » Clojure" />
+		<outline type="rss" text="Blake Smith" xmlUrl="http://pipes.yahoo.com/pipes/pipe.run?_id=7b8be19b36639ba4bee6013c90ce65f8&amp;_render=rss" title="Blake Smith" />
+		<outline type="rss" text="Bluemont Labs" xmlUrl="http://www.bluemontlabs.com/blog/categories/clojure/atom.xml" title="Category: clojure | Bluemont Labs" />
+		<outline type="rss" text="Box UK" xmlUrl="http://pipes.yahoo.com/pipes/pipe.run?_id=14a0b65f9d110eb544287bf9d3ca3a75&amp;_render=rss" title="Box UK" />
+		<outline type="rss" text="Brad Chapman" xmlUrl="http://bcbio.wordpress.com/tag/clojure/feed/" title="Blue Collar Bioinformatics » clojure" />
+		<outline type="rss" text="Brad Lucas" xmlUrl="http://www.beaconhill.com/blog/?tag=clojure&amp;feed=rss2" title="Brad Lucas | Beacon Hill » Clojure" />
+		<outline type="rss" text="Bradford Cross" xmlUrl="http://pipes.yahoo.com/pipes/pipe.run?_id=bb5649628a7f97318cb84845387521ef&amp;_render=rss" title="Bradford Cross's Clojure posts" />
+		<outline type="rss" text="Brandon Bloom" xmlUrl="http://pipes.yahoo.com/pipes/pipe.run?_id=0e909306e700dd468e7ad20f9a412296&amp;_render=rss" title="Brandon Bloom" />
+		<outline type="rss" text="Brandon Harvey" xmlUrl="http://walkwithoutrhythm.net/blog/categories/clojure/atom.xml" title="Category: Clojure | &amp;lt;span style='font-size: 2.75em; margin-left: -0.1em; color: #1863a1;'&amp;gt;&amp;amp;&amp;lt;/span&amp;gt; it won't. attract. the worm." />
+		<outline type="rss" text="Brendan Ribera" xmlUrl="http://pipes.yahoo.com/pipes/pipe.run?_id=8914b4ab64e1611dcdb1f0860942c1cd&amp;_render=rss" title="Brendan Ribera" />
+		<outline type="rss" text="Brennon York" xmlUrl="http://pipes.yahoo.com/pipes/pipe.run?_id=f4f0c76c3382f1349d3dbd72744963ef&amp;_render=rss" title="Brennon York" />
+		<outline type="rss" text="Brian Carper" xmlUrl="http://pipes.yahoo.com/pipes/pipe.run?_id=9540fdd6e19ed684f664b06b77967d75&amp;_render=rss" title="Brian Carper" />
+		<outline type="rss" text="Brian McKenna" xmlUrl="http://pipes.yahoo.com/pipes/pipe.run?_id=40fcebee45038d6c38ee52be8a75ec9e&amp;_render=rss" title="Brian McKenna" />
+		<outline type="rss" text="Brian Taylor" xmlUrl="http://pipes.yahoo.com/pipes/pipe.run?_id=76f1f759a85c9241dddefcc686ba6670&amp;_render=rss" title="Brian Taylor" />
+		<outline type="rss" text="Bruce Durling" xmlUrl="http://otfrom.wordpress.com/tag/clojure/feed/" title="Wifi and Coffee » clojure" />
+		<outline type="rss" text="Bruce Hauman" xmlUrl="http://pipes.yahoo.com/pipes/pipe.run?_id=95072f49f16710a7d767e81a90494c37&amp;_render=rss" title="Bruce Hauman" />
+		<outline type="rss" text="Bryan Gilbert" xmlUrl="http://feeds.feedburner.com/bryangilbert/YXgS" title="Random.next()" />
+		<outline type="rss" text="Bryce Nyeggen" xmlUrl="http://pipes.yahoo.com/pipes/pipe.run?_id=a41c05374ea6e4407751418fa53dad05&amp;_render=rss" title="Bryce Nyeggen" />
+		<outline type="rss" text="Bugsplat" xmlUrl="http://pipes.yahoo.com/pipes/pipe.run?_id=773e30278903f6b516ec6a3159842452&amp;_render=rss" title="Bugsplat's Clojure Posts" />
+		<outline type="rss" text="CCRi" xmlUrl="http://pipes.yahoo.com/pipes/pipe.run?_id=303b0813cd2a127a465fe2b104b78ecf&amp;_render=rss" title="CCRi" />
+		<outline type="rss" text="Carin Meier" xmlUrl="http://gigasquidsoftware.com/blog/categories/clojure/atom.xml" title="Category: Clojure | Squid's Blog" />
+		<outline type="rss" text="Carlo Sciolla" xmlUrl="http://skuro.tk/rss2/" title="SKURO! -- Shading lights" />
+		<outline type="rss" text="Carson Cheng" xmlUrl="http://www.blogger.com/feeds/713602603894920874/posts/default/-/Clojure" title="The Great Cognitive Escape" />
+		<outline type="rss" text="Cassiel" xmlUrl="http://www.cassiel.com/tag/clojure/feed/" title="cassiel » Clojure" />
+		<outline type="rss" text="Chad Braun-Duin" xmlUrl="http://pipes.yahoo.com/pipes/pipe.run?_id=5c90f4ba11373ad351e956fc400d2fd4&amp;_render=rss" title="Chad Braun-Duin's Clojure posts" />
+		<outline type="rss" text="Chariot Solutions" xmlUrl="" title="Chariot Solutions" />
+		<outline type="rss" text="Charlie Griefer" xmlUrl="http://charlie.griefer.com/blog/category/clojure/feed/" title="Charlie Griefer » Clojure" />
+		<outline type="rss" text="Chas Emerick" xmlUrl="http://cemerick.com/category/clojure/feed/" title="cemerick » Clojure" />
+		<outline type="rss" text="Chris Ford" xmlUrl="http://www.blogger.com/feeds/8648268364549955959/posts/default/-/clojure" title="the literate programmer" />
+		<outline type="rss" text="Chris Frisz" xmlUrl="http://www.chrisfrisz.com/blog/feeds/clojure.rss.xml" title="Real Thoughts &amp;amp;amp Fake Science: Posts tagged 'clojure'" />
+		<outline type="rss" text="Chris Granger" xmlUrl="http://feeds.feedburner.com/ChrisGranger" title="chris-granger.com" />
+		<outline type="rss" text="Chris Houser" xmlUrl="http://blog.n01se.net/?cat=14&amp;feed=rss2&amp;author=3" title="searching for signal » clojure" />
+		<outline type="rss" text="Chris Shea" xmlUrl="http://blog.kilosecond.com/blog/categories/clojure/atom.xml" title="Category: clojure | Kilosecond Blog" />
+		<outline type="rss" text="Chris Smith" xmlUrl="http://pipes.yahoo.com/pipes/pipe.run?_id=ef8b5c4d670ece580c9eda03f640555d&amp;_render=rss" title="Chris Smith" />
+		<outline type="rss" text="Chris Wilson" xmlUrl="http://pipes.yahoo.com/pipes/pipe.run?_id=e567cce7deac9bc64c42d757f7cd696f&amp;_render=rss" title="Chris Wilson" />
+		<outline type="rss" text="Chris Wilson" xmlUrl="http://minley.org/tags/clojure.xml" title="minley.org" />
+		<outline type="rss" text="Chris Zheng" xmlUrl="http://z.caudate.me/rss/" title="Something Same" />
+		<outline type="rss" text="Christian Smith" xmlUrl="http://pipes.yahoo.com/pipes/pipe.run?_id=237a83c4a866269a29172b6b187470df&amp;_render=rss" title="Christian Smith" />
+		<outline type="rss" text="Christophe Grand" xmlUrl="http://feeds.feedburner.com/ClojureAndMe" title="Clojure and me" />
+		<outline type="rss" text="Christophe Verré" xmlUrl="http://www.blogger.com/feeds/2478593005035040643/posts/default/-/clojure" title="Computing for fun" />
+		<outline type="rss" text="Christopher Maier" xmlUrl="http://pipes.yahoo.com/pipes/pipe.run?_id=bc8dc055eecb600cecd66ec34b2160aa&amp;_render=rss" title="Christopher Maier" />
+		<outline type="rss" text="Christopher Miles" xmlUrl="http://pipes.yahoo.com/pipes/pipe.run?_id=3395b48ff58589f8c914615eb08a9c7a&amp;_render=rss" title="Christopher Miles" />
+		<outline type="rss" text="CircleCI" xmlUrl="http://pipes.yahoo.com/pipes/pipe.run?_id=5aeddc3adb6ea9047355e7626084a6c9&amp;_render=rss" title="CircleCI" />
+		<outline type="rss" text="Claudia Doppioslash" xmlUrl="http://blog.doppioslash.com/blog/categories/clojure/atom.xml" title="Category: Clojure | Recursive thoughts" />
+		<outline type="rss" text="Clinton R. Nixon" xmlUrl="http://pipes.yahoo.com/pipes/pipe.run?_id=b22cc198388d94a6713b03e06e815911&amp;_render=rss" title="Clinton R. Nixon" />
+		<outline type="rss" text="Clive Tong" xmlUrl="http://pipes.yahoo.com/pipes/pipe.run?_id=014b2da708cba86630e63374ffa4d2c7&amp;_render=rss" title="Clive Tong's Clojure posts" />
+		<outline type="rss" text="Clojure Companion Cube" xmlUrl="http://clojure.roboloco.net/?feed=rss2" title="Clojure Companion Cube" />
+		<outline type="rss" text="Clojure Cup" xmlUrl="http://clojurecup.com/blog/blog/feed.xml" title="Clojure Cup Blog" />
+		<outline type="rss" text="Clojure Developmnet on Android" xmlUrl="http://clojure-android.blogspot.com/feeds/posts/default?alt=rss" title="Clojure Development on Android" />
+		<outline type="rss" text="Clojure Gazette" xmlUrl="http://us4.campaign-archive2.com/feed?u=a33b5228d1b5bf2e0c68a83f4&amp;id=4c2b86e9f4" title="Clojure Gazette Archive Feed" />
+		<outline type="rss" text="Clojure Jobs" xmlUrl="http://lispjobs.wordpress.com/category/clojure/feed/" title="Lispjobs » clojure" />
+		<outline type="rss" text="Clojure Reactive Programming" xmlUrl="http://www.blogger.com/feeds/4197673488000870373/posts/default" title="Clojure Reactive Programming" />
+		<outline type="rss" text="Clojure Study Group DC" xmlUrl="http://clojurestudydc.wordpress.com/feed/" title="Clojure Study Group DC" />
+		<outline type="rss" text="Clojure at Channel9@MSDN" xmlUrl="http://channel9.msdn.com/Tags/clojure/RSS" title="Channel 9 - Entries tagged with Clojure" />
+		<outline type="rss" text="Clojure at IBM developerWorks" xmlUrl="https://www.ibm.com/developerworks/community/bookmarks/atom?base=%25%25http%3A%2F%2Fwww.ibm.com%2Fdeveloperworks%2Flibrary%2F%25%25&amp;sortBy=created&amp;sortOrder=desc&amp;tag=clojure&amp;lang=en" title="Bookmarks - Bookmarks with Tags: clojure within %http://www.ibm.com/developerworks/library/%" />
+		<outline type="rss" text="Clojure at InfoQ" xmlUrl="http://pipes.yahoo.com/pipes/pipe.run?_id=be83c0b5b0d92b259682cb8021e14d2a&amp;_render=rss" title="InfoQ Clojure-related materials" />
+		<outline type="rss" text="Clojure lab" xmlUrl="http://clojure-lab.tumblr.com/rss" title="Clojure lab" />
+		<outline type="rss" text="Clojure-Py" xmlUrl="http://www.blogger.com/feeds/2207696606336184931/posts/default" title="Clojure-Py" />
+		<outline type="rss" text="Clojure/West Conference" xmlUrl="http://clojurewest.org/news/atom.xml" title="News" />
+		<outline type="rss" text="Clojure/core" xmlUrl="http://feeds.feedburner.com/Clojure/coreBlog" title="Clojure/core Blog" />
+		<outline type="rss" text="Clojure@LJ" xmlUrl="" title="Clojure@LJ" />
+		<outline type="rss" text="ClojureCLR" xmlUrl="http://www.blogger.com/feeds/4262147391488425950/posts/default" title="ClojureCLR" />
+		<outline type="rss" text="ClojureDocs" xmlUrl="http://clojuredocs.wordpress.com/category/clojure/feed/" title="The ClojureDocs Blog » Clojure" />
+		<outline type="rss" text="Clojured" xmlUrl="http://www.blogger.com/feeds/1105563490404688930/posts/default" title="Clojured - Figuring out Clojure, Clojurescript, Web frameworks and more" />
+		<outline type="rss" text="Code that" xmlUrl="http://codethat.wordpress.com/category/clojure/feed/" title="Code that - Alex Yakushev's weblog » Clojure" />
+		<outline type="rss" text="Codeabout" xmlUrl="http://www.blogger.com/feeds/5667529825707648584/posts/default/-/clojure" title="Codeabout" />
+		<outline type="rss" text="Colin Steele" xmlUrl="http://pipes.yahoo.com/pipes/pipe.run?_id=5e3eec1b6c35e33e84d36bdcc597541f&amp;_render=rss" title="Colin Steele" />
+		<outline type="rss" text="Colour Coding" xmlUrl="http://pipes.yahoo.com/pipes/pipe.run?_id=31eafd625f670b8c1354f4adcf850914&amp;_render=rss" title="Colour Coding" />
+		<outline type="rss" text="Compojure on GAE" xmlUrl="http://feeds.feedburner.com/CompojureOnGAE" title="Compojure on GAE" />
+		<outline type="rss" text="Conj Labs" xmlUrl="" title="Conj Labs" />
+		<outline type="rss" text="Connor Mendenhall" xmlUrl="http://ecmendenhall.github.io/blog/categories/clojure/atom.xml" title="Category: Clojure | Connor Mendenhall" />
+		<outline type="rss" text="Copious Engineering" xmlUrl="http://eng.copious.com/blog/categories/clojure/atom.xml" title="Category: clojure | Copious Amounts of Code" />
+		<outline type="rss" text="Cyrus Harmon" xmlUrl="http://pipes.yahoo.com/pipes/pipe.run?_id=ce55ba501df0f7fd54866a7bba2191fb&amp;_render=rss" title="Cyrus Harmon" />
+		<outline type="rss" text="Daniel Bostwick" xmlUrl="http://dbostwick.posterous.com/rss.xml?tag=clojure" title="Daniel Bostwick" />
+		<outline type="rss" text="Daniel Glauser" xmlUrl="http://www.blogger.com/feeds/4669934970077663155/posts/default/-/clojure" title="Nouns vs. Verbs" />
+		<outline type="rss" text="Daniel Harper" xmlUrl="http://pipes.yahoo.com/pipes/pipe.run?_id=5691517411ede5e23dfe23d98b036f79&amp;_render=rss" title="Daniel Harper" />
+		<outline type="rss" text="Daniel Janus" xmlUrl="http://blog.danieljanus.pl/blog/categories/clojure/atom.xml" title="Category: Clojure | musings of a Lispnik" />
+		<outline type="rss" text="Daniel Ribeiro" xmlUrl="http://metaphysicaldeveloper.wordpress.com/tag/clojure/feed/" title="Metaphysical Developer » clojure" />
+		<outline type="rss" text="Daniel Ribeiro" xmlUrl="http://metaphysicaldeveloper.wordpress.com/tag/clojure/feed/" title="Metaphysical Developer » clojure" />
+		<outline type="rss" text="Daniel Turczański" xmlUrl="http://jvmsoup.com/category/clojure/feed/" title="JVM Soup » clojure" />
+		<outline type="rss" text="Datomic" xmlUrl="http://www.blogger.com/feeds/4845864749156394488/posts/default" title="Datomic" />
+		<outline type="rss" text="Dave Griffiths" xmlUrl="http://www.pawfal.org/dave/blog/category/clojure/feed/" title="dave's blog of art and programming » clojure" />
+		<outline type="rss" text="Dave Ray" xmlUrl="http://feeds2.feedburner.com/darevay" title="Along Came Betty" />
+		<outline type="rss" text="David Cabana" xmlUrl="http://erl.nfshost.com/category/languages/clojure/feed/" title="drcabana.org » Clojure" />
+		<outline type="rss" text="David Jacobs" xmlUrl="http://wit.io/posts/categories/clojure.rss" title="Wit.io: Clojure" />
+		<outline type="rss" text="David McNeil" xmlUrl="http://pipes.yahoo.com/pipes/pipe.run?_id=406b0e34ad0f738bf785b160287fbf28&amp;_render=rss" title="David McNeil" />
+		<outline type="rss" text="David Nolen" xmlUrl="http://swannodette.github.com/atom.xml" title="dosync" />
+		<outline type="rss" text="David Pollak" xmlUrl="http://pipes.yahoo.com/pipes/pipe.run?_id=4396759a366a450ed316ff9dec8e96ca&amp;_render=rss" title="David Pollak" />
+		<outline type="rss" text="David Rupp" xmlUrl="http://www.blogger.com/feeds/9905395/posts/default/-/clojure" title="David Rupp's Blog" />
+		<outline type="rss" text="David Soria Parra" xmlUrl="http://blog.experimentalworks.net/category/programming/clojure/feed/" title="experimentalworks » clojure" />
+		<outline type="rss" text="Debasish Ghosh" xmlUrl="http://pipes.yahoo.com/pipes/pipe.run?_id=e35d6881f8ced55bed527c7a501fad8d&amp;_render=rss" title="Debasish Ghosh's Clojure posts" />
+		<outline type="rss" text="Deep Blue Lambda" xmlUrl="http://pipes.yahoo.com/pipes/pipe.run?_id=6aed67e98c4180d0ce97a3bfa542b803&amp;_render=rss" title="Deep Blue Lambda" />
+		<outline type="rss" text="Denis Fuenzalida on PlusAstra" xmlUrl="http://www.blogger.com/feeds/994064438874341582/posts/default/-/clojure" title="Plus Astra" />
+		<outline type="rss" text="Deon Garrett" xmlUrl="http://pipes.yahoo.com/pipes/pipe.run?_id=800663dc83911647378001b63c1b3989&amp;_render=rss" title="Deon Garrett" />
+		<outline type="rss" text="Derek Passen" xmlUrl="http://dpassen1.github.io/clojure-rss.xml" title="Derek on Software - Clojure" />
+		<outline type="rss" text="Devender Gollapally" xmlUrl="http://devender.wordpress.com/tag/clojure/feed/" title="Devender's Weblog » clojure" />
+		<outline type="rss" text="Dhananjay Nene" xmlUrl="http://pipes.yahoo.com/pipes/pipe.run?_id=2055776f94cf79727174c44546724ee0&amp;_render=rss" title="Dhananjay Nene" />
+		<outline type="rss" text="Diego Basch" xmlUrl="http://pipes.yahoo.com/pipes/pipe.run?_id=689cde21cd1855d2cb91d9919d7a80a9&amp;_render=rss" title="Diego Basch" />
+		<outline type="rss" text="Dmitri Sotnikov" xmlUrl="http://yogthos.net/rss" title="(iterate think (think))" />
+		<outline type="rss" text="Dmitriy Kropivnitskiy" xmlUrl="http://www.blogger.com/feeds/6138855974683141265/posts/default/-/clojure" title="Angry UNIXoid’s Humble Abode" />
+		<outline type="rss" text="Dmitry Groshev" xmlUrl="http://pipes.yahoo.com/pipes/pipe.run?_id=133b68fd676ad6f57f03fc65c25134ea&amp;_render=rss" title="Dmitry Groshev" />
+		<outline type="rss" text="Dmitry Kakurin" xmlUrl="http://dimagog.github.io/" title="Dimagog Blog" />
+		<outline type="rss" text="Dominikus Herzberg" xmlUrl="http://www.blogger.com/feeds/5556918437810598389/posts/default/-/clojure" title="denkspuren" />
+		<outline type="rss" text="Dr. Knucklehead" xmlUrl="http://drknucklehead.wordpress.com/category/clojure/feed/" title="Dr. Knucklehead's Blog » Clojure" />
+		<outline type="rss" text="Drew Olson" xmlUrl="http://blog.drewolson.org/blog/categories/clojure/atom.xml" title="Category: clojure | collect {thoughts}" />
+		<outline type="rss" text="Dustin Getz" xmlUrl="http://pipes.yahoo.com/pipes/pipe.run?_id=31880865059f5c75ddc5f032b183bfa4&amp;_render=rss" title="Dustin Getz" />
+		<outline type="rss" text="Edd Dumbill" xmlUrl="http://pipes.yahoo.com/pipes/pipe.run?_id=6462cfea7cc38fbbfd8ffe83c6e5a79d&amp;_render=rss" title="Edd Dumbill" />
+		<outline type="rss" text="Edgar Gonçalves" xmlUrl="http://pipes.yahoo.com/pipes/pipe.run?_id=38f6da7f647b56d1f2fe846e55f7443c&amp;_render=rss" title="Edgar Gonçalves's Clojure posts" />
+		<outline type="rss" text="Edmund Jackson" xmlUrl="http://boss-level.com/?tag=clojure&amp;feed=rss2" title="boss-level.com » Clojure" />
+		<outline type="rss" text="Elango Cheran" xmlUrl="http://www.elangocheran.com/blog/category/programming/clojure/feed/" title="Sequenced Thoughts from C/S » clojure" />
+		<outline type="rss" text="Element 84" xmlUrl="http://pipes.yahoo.com/pipes/pipe.run?_id=c4fc06896b8f6e45b3be8c84dea6ab71&amp;_render=rss" title="Element 84" />
+		<outline type="rss" text="Emil Kruczek" xmlUrl="http://nailthatbug.net/tag/clojure/feed/" title="Emil Kruczek" />
+		<outline type="rss" text="Enrico Franchi" xmlUrl="http://www.blogger.com/feeds/6082788733343957185/posts/default/-/Clojure" title="RiK0 Tech Temple" />
+		<outline type="rss" text="Epistemological Engineering" xmlUrl="http://pipes.yahoo.com/pipes/pipe.run?_id=5165f98663367ef66efa5fc3d5d40c10&amp;_render=rss" title="Epistemological Engineering" />
+		<outline type="rss" text="Eric Lavigne" xmlUrl="http://ericlavigne.wordpress.com/feed/" title="Eric Lavigne" />
+		<outline type="rss" text="Erik Akron" xmlUrl="http://pipes.yahoo.com/pipes/pipe.run?_id=b4447e3659bc8e935fbb2c5091671c05&amp;_render=rss" title="Erik Akron" />
+		<outline type="rss" text="Ethan Fast" xmlUrl="http://pipes.yahoo.com/pipes/pipe.run?_id=d94e22665db7b53538a400bfaca88e86&amp;_render=rss" title="Ethan Fast" />
+		<outline type="rss" text="Ethan Herdrick" xmlUrl="http://pipes.yahoo.com/pipes/pipe.run?_id=a3322ead4699fdfd38b55c9443a74287&amp;_render=rss" title="Ethan Herdrick" />
+		<outline type="rss" text="Euroclojure" xmlUrl="http://euroclojure.com/2013/feed/" title="EuroClojure 2013" />
+		<outline type="rss" text="Evan Mezeske" xmlUrl="http://blog.mezeske.com/?tag=clojure&amp;feed=rss2" title="Mezeskedonia » clojure" />
+		<outline type="rss" text="Exploration Through Example" xmlUrl="http://www.exampler.com/blog/category/clojure/feed/" title="Exploration Through Example" />
+		<outline type="rss" text="Exploring the programming world" xmlUrl="http://www.blogger.com/feeds/3908276794795362019/posts/default/-/clojure" title="Exploring the programming world" />
+		<outline type="rss" text="Fabian Steeg" xmlUrl="http://fsteeg.com/tag/clojure/feed/" title="fsteeg.com » clojure" />
+		<outline type="rss" text="Factual dev blog" xmlUrl="http://blog.factual.com/tag/clojure/feed" title="Factual Blog » clojure" />
+		<outline type="rss" text="Felix Dahlke" xmlUrl="http://pipes.yahoo.com/pipes/pipe.run?_id=2cc2b617d679b3305570fc1e4cf2743c&amp;_render=rss" title="Felix Dahlke" />
+		<outline type="rss" text="Felix Müller" xmlUrl="http://cupofjava.de/blog/categories/clojure/atom.xml" title="Category: clojure | Cup of Java" />
+		<outline type="rss" text="Feng Shen" xmlUrl="http://shenfeng.me/atom.xml" title="shenfeng's blog" />
+		<outline type="rss" text="Fight Code Entropy" xmlUrl="" title="Fight Code Entropy" />
+		<outline type="rss" text="Flying Machine Studios" xmlUrl="http://pipes.yahoo.com/pipes/pipe.run?_id=2620de78bcda86952188892c48b4caf1&amp;_render=rss" title="Flying Machine Studios" />
+		<outline type="rss" text="Form plus Logic" xmlUrl="" title="Form plus Logic" />
+		<outline type="rss" text="Fredrik Dyrkell" xmlUrl="http://pipes.yahoo.com/pipes/pipe.run?_id=a1b91e030ddb5c667322786f4d87877d&amp;_render=rss" title="Fredrik Dyrkell" />
+		<outline type="rss" text="Friedrich Boeckh" xmlUrl="http://www.blogger.com/feeds/264977401746609503/posts/default/-/clojure" title="Some ( Posts )" />
+		<outline type="rss" text="Functional Jobs" xmlUrl="http://functionaljobs.com/jobs/search/?q=clojure&amp;format=rss" title="Functional Jobs: Search 'clojure'" />
+		<outline type="rss" text="Functional Talks" xmlUrl="http://functionaltalks.org/tag/clojure/feed/" title="Functional Talks" />
+		<outline type="rss" text="Gary Trakhman" xmlUrl="http://gtrak.wordpress.com/category/clojure/feed/" title="gtrak collimator » Clojure" />
+		<outline type="rss" text="Gaslight" xmlUrl="http://pipes.yahoo.com/pipes/pipe.run?_id=a94adf96e4c83779bbef5bf20da57a6c&amp;_render=rss" title="Gaslight" />
+		<outline type="rss" text="Gavin McGovern" xmlUrl="http://pipes.yahoo.com/pipes/pipe.run?_id=873d34495de5a0e1086b8a6ebac98b31&amp;_render=rss" title="Gavin McGovern" />
+		<outline type="rss" text="Gaz Jones" xmlUrl="http://pipes.yahoo.com/pipes/pipe.run?_id=df85b2ff2daf36efcd53792f789e00bf&amp;_render=rss" title="Gaz Jones" />
+		<outline type="rss" text="Gerrit Jansen van Vuuren" xmlUrl="http://funclojure.tumblr.com/rss" title="clojure" />
+		<outline type="rss" text="Ghadi Shayban" xmlUrl="" title="Ghadi Shayban" />
+		<outline type="rss" text="Gijs Stuurman" xmlUrl="http://thegeez.github.com/atom.xml" title="thegeez blog" />
+		<outline type="rss" text="Glen Rubin" xmlUrl="http://pipes.yahoo.com/pipes/pipe.run?_id=f9ae2c837b5eca584b02e1f4d772e8ce&amp;_render=rss" title="Glen Rubin" />
+		<outline type="rss" text="Glen Stampoultzis" xmlUrl="http://orthogonal.me/category/clojure/feed/" title="The Occasional Blogger » Clojure" />
+		<outline type="rss" text="Globulon" xmlUrl="http://www.blogger.com/feeds/295420119743122469/posts/default/-/clojure" title="Being an apprentice software craftsman" />
+		<outline type="rss" text="Grant Rettke" xmlUrl="http://www.wisdomandwonder.com/tag/clojure/feed" title="Wisdom and Wonder » Clojure" />
+		<outline type="rss" text="Greg Hendershott" xmlUrl="http://www.greghendershott.com/feeds/Clojure.rss.xml" title="Greg Hendershott: Posts tagged 'Clojure'" />
+		<outline type="rss" text="Greg Osuri" xmlUrl="http://pipes.yahoo.com/pipes/pipe.run?_id=c32d9e8ef66b86e970c4aafed23edc5f&amp;_render=rss" title="Greg Osuri's Clojure posts" />
+		<outline type="rss" text="Greg Phillips" xmlUrl="http://gphil.net/tags/clojure.xml" title="gphil's blog - Posts tagged clojure" />
+		<outline type="rss" text="Greg Slepak" xmlUrl="http://pipes.yahoo.com/pipes/pipe.run?_id=e8e3866611996c2766b5a105c68b6c1b&amp;_render=rss" title="Greg Slepak" />
+		<outline type="rss" text="Guillermo Winkler" xmlUrl="http://guilespi.github.com/atom.xml" title="Interrupted - Clojure" />
+		<outline type="rss" text="HTTP Kit" xmlUrl="http://http-kit.org/atom.xml" title="http-kit blog" />
+		<outline type="rss" text="Hacker School" xmlUrl="http://pipes.yahoo.com/pipes/pipe.run?_id=0e46ee19fca62b5f226f39c4082f634b&amp;_render=rss" title="Hacker School" />
+		<outline type="rss" text="Hacktastic" xmlUrl="http://www.blogger.com/feeds/4316337566761174973/posts/default" title="Hacktastic" />
+		<outline type="rss" text="Harpreet Singh" xmlUrl="" title="Harpreet Singh" />
+		<outline type="rss" text="Henry Clifford" xmlUrl="http://pipes.yahoo.com/pipes/pipe.run?_id=83c79f2b16de702ffe7cc30aedbc85ec&amp;_render=rss" title="Henry Clifford" />
+		<outline type="rss" text="Herwig Hochleitner" xmlUrl="http://www.blogger.com/feeds/7897749624547227650/posts/default/-/clojure" title="Think revo, act evo" />
+		<outline type="rss" text="Heuristic Fencepost" xmlUrl="http://pipes.yahoo.com/pipes/pipe.run?_id=8057e8200675f0718e9c503c3c712460&amp;_render=rss" title="Heuristic Fencepost" />
+		<outline type="rss" text="Holger Durer" xmlUrl="http://pipes.yahoo.com/pipes/pipe.run?_id=091158c30864860e3042e7e9a44b619c&amp;_render=rss" title="Holger Durer" />
+		<outline type="rss" text="Holger Schauer" xmlUrl="http://pipes.yahoo.com/pipes/pipe.run?_id=e429d9112ae5293a8c3bf402808a9ccc&amp;_render=rss" title="Holger Schauer" />
+		<outline type="rss" text="Honza Pokorny" xmlUrl="http://pipes.yahoo.com/pipes/pipe.run?_id=17b6dc8571ca43ceb368b7908b311d52&amp;_render=rss" title="Honza Pokorny" />
+		<outline type="rss" text="Hubert Iwaniuk" xmlUrl="http://www.blogger.com/feeds/8666538509897823475/posts/default/-/clojure" title="code me self" />
+		<outline type="rss" text="Huey Petersen" xmlUrl="http://pipes.yahoo.com/pipes/pipe.run?_id=165bdb45e7793b90769fafb0d010ffbc&amp;_render=rss" title="Huey Petersen" />
+		<outline type="rss" text="Hugo Duncan" xmlUrl="http://hugoduncan.org/tags/clojure/index.xml" title="pelure" />
+		<outline type="rss" text="ISTI Off the Record" xmlUrl="http://pipes.yahoo.com/pipes/pipe.run?_id=824556de17ca6513ac86b8adf68ea31a&amp;_render=rss" title="ISTI Off the Record" />
+		<outline type="rss" text="Ian Eslick" xmlUrl="http://ianeslick.com/tag/clojure/feed/" title="Frumious Abstractions » clojure" />
+		<outline type="rss" text="Ian Eslick" xmlUrl="http://ianeslick.com/feed/?tag=clojure" title="Frumious Abstractions » clojure" />
+		<outline type="rss" text="Ian Phillips" xmlUrl="http://ianp.org/categories/clojure/atom.xml" title="Category: Clojure | Digital Magpie" />
+		<outline type="rss" text="Ignacio Thayer" xmlUrl="http://pipes.yahoo.com/pipes/pipe.run?_id=8605c9331792d176d7910924912b4e29&amp;_render=rss" title="Ignacio Thayer" />
+		<outline type="rss" text="Ilya Sterin" xmlUrl="http://ilyasterin.com/blog/tag/clojure/feed" title="/dev/maverick » clojure" />
+		<outline type="rss" text="Imagine27" xmlUrl="http://pipes.yahoo.com/pipes/pipe.run?_id=8f6aa3dc4efdaf19b78f4afa9ba05fb3&amp;_render=rss" title="Imagine27's Clojure posts" />
+		<outline type="rss" text="Immutant" xmlUrl="http://immutant.org/news.atom" title="Immutant" />
+		<outline type="rss" text="Incanter: Data Sorcery with Clojure" xmlUrl="http://data-sorcery.org/feed/" title="Data Sorcery with Clojure" />
+		<outline type="rss" text="Inductive Bias" xmlUrl="" title="Inductive Bias" />
+		<outline type="rss" text="Infinity: Easier Than You Think. Infinitely." xmlUrl="http://toinfinity.wordpress.com/category/coding/clojure/feed/" title="Infinity: Easier Than You Think. Infinitely. » Clojure" />
+		<outline type="rss" text="Inércia Sensorial" xmlUrl="http://www.inerciasensorial.com.br/category/programacao/clojure/feed/" title="Inércia Sensorial » Clojure" />
+		<outline type="rss" text="Irakli Gozalishvili" xmlUrl="http://pipes.yahoo.com/pipes/pipe.run?_id=2ded344d16edc2ca2057029693edbb9e&amp;_render=rss" title="Irakli Gozalishvili" />
+		<outline type="rss" text="Isaac Hodes" xmlUrl="http://pipes.yahoo.com/pipes/pipe.run?_id=1bda07488d67aa0b84379e3c36fa02ef&amp;_render=rss" title="Isaac Hodes" />
+		<outline type="rss" text="Isaac Praveen" xmlUrl="http://pipes.yahoo.com/pipes/pipe.run?_id=7f242ee5d40f73cd2ddd662025ac456c&amp;_render=rss" title="Isaac Praveen" />
+		<outline type="rss" text="J. Pablo Fernández" xmlUrl="http://pupeno.com/tag/clojure/feed/" title="Pablo's blog » Clojure" />
+		<outline type="rss" text="JR Heard" xmlUrl="http://jrheard.tumblr.com/tagged/clojure/rss" title="a page of tumbling madness" />
+		<outline type="rss" text="Jacek Laskowski" xmlUrl="http://pipes.yahoo.com/pipes/pipe.run?_id=1d37e15aab3f0c5d82f165e65aa0c034&amp;_render=rss" title="Jacek Laskowski" />
+		<outline type="rss" text="Jack Schultz" xmlUrl="" title="Jack Schultz" />
+		<outline type="rss" text="Jacob Poulsgaard Tjørnholm" xmlUrl="http://chopmode.wordpress.com/category/clojure/feed/" title="chop-mode » clojure" />
+		<outline type="rss" text="Jake McCrary" xmlUrl="http://pipes.yahoo.com/pipes/pipe.run?_id=58ddaa58c30fb4a3c9dcda993008d442&amp;_render=rss" title="Jake McCrary" />
+		<outline type="rss" text="Jakub Holý" xmlUrl="http://theholyjava.wordpress.com/tag/clojure/feed/" title="The Holy Java » clojure" />
+		<outline type="rss" text="James Polera" xmlUrl="" title="James Polera" />
+		<outline type="rss" text="James Reeves" xmlUrl="http://pipes.yahoo.com/pipes/pipe.run?_id=31e846ca5228ca150781efd798bec91a&amp;_render=rss" title="James Reeves" />
+		<outline type="rss" text="James Ward" xmlUrl="http://www.jamesward.com/category/clojure/feed/" title="James Ward » Clojure" />
+		<outline type="rss" text="Jamie Brandon" xmlUrl="http://pipes.yahoo.com/pipes/pipe.run?_id=ebb548525947bf76541910975f83f734&amp;_render=rss" title="Jamie Brandon" />
+		<outline type="rss" text="Jan Ehrhardt" xmlUrl="http://pipes.yahoo.com/pipes/pipe.run?_id=1e4f6417076515f64e65a10b2b964065&amp;_render=rss" title="Jan Ehrhardt" />
+		<outline type="rss" text="Jan Rychter" xmlUrl="http://pipes.yahoo.com/pipes/pipe.run?_id=d6dadbbf9c6d16fb50c2e96309c85743&amp;_render=rss" title="Jan Rychter" />
+		<outline type="rss" text="Jason Aeschliman" xmlUrl="http://www.blogger.com/feeds/8086403346577640487/posts/default/-/clojure" title="_" />
+		<outline type="rss" text="Jason Lewis" xmlUrl="http://pipes.yahoo.com/pipes/pipe.run?_id=d4e048a574c17c47ff01e3b8dd8e09de&amp;_render=rss" title="Jason Lewis" />
+		<outline type="rss" text="Jason Rudolph" xmlUrl="http://pipes.yahoo.com/pipes/pipe.run?_id=916e726d9090b99958368fa79d7d64af&amp;_render=rss" title="Jason Rudolph" />
+		<outline type="rss" text="Jason Webb" xmlUrl="http://www.bigjason.com/tags/clojure.atom" title="BigJason.com posts tagged clojure." />
+		<outline type="rss" text="Jason Wolfe" xmlUrl="http://feeds.feedburner.com/w01fe" title="A Blog." />
+		<outline type="rss" text="Jatin Puri" xmlUrl="http://jatinpuri.com/tag/clojure/feed/" title="JATIN PURI » Clojure" />
+		<outline type="rss" text="Javalobby" xmlUrl="http://pipes.yahoo.com/pipes/pipe.run?_id=f8b56ef73099743fdfe6336dd7cd0d5c&amp;_render=rss" title="Javalobby" />
+		<outline type="rss" text="Jay Fields" xmlUrl="http://www.blogger.com/feeds/12467669/posts/default/-/clojure" title="Jay Fields' Thoughts" />
+		<outline type="rss" text="Jayway team" xmlUrl="http://pipes.yahoo.com/pipes/pipe.run?_id=e94523cfeb242289dbe8c3c13824893a&amp;_render=rss" title="Jayway team" />
+		<outline type="rss" text="Jeff Foster" xmlUrl="http://pipes.yahoo.com/pipes/pipe.run?_id=893ce799a0335da4ca871dc7c3ddb5c3&amp;_render=rss" title="Jeff Foster" />
+		<outline type="rss" text="Jeff Heon" xmlUrl="http://www.blogger.com/feeds/8932258692847145228/posts/default/-/Clojure" title="The Careful Programmer" />
+		<outline type="rss" text="Jeff Rose" xmlUrl="http://pipes.yahoo.com/pipes/pipe.run?_id=6f0ac172fdf66c9d0d0860b7c05e7a5b&amp;_render=rss" title="Jeff Rose" />
+		<outline type="rss" text="Jeff Tucker" xmlUrl="" title="Jeff Tucker" />
+		<outline type="rss" text="Jeroen Vloothuis" xmlUrl="http://www.blogger.com/feeds/2459020098436661033/posts/default/-/clojure" title="Jeroen Vloothuis" />
+		<outline type="rss" text="Jesse Howarth" xmlUrl="http://jessehowarth.com/clojure.atom" title="Clojure - Jesse Howarth" />
+		<outline type="rss" text="Jiawei Zhao" xmlUrl="http://www.mkrrf-it.com/blogs-of-jiawei-zhao/index.xml" title="Blogs of Jiawei Zhao | MKRRF IT" />
+		<outline type="rss" text="Jim Duey" xmlUrl="http://www.clojure.net/atom.xml" title="A Clojure Story" />
+		<outline type="rss" text="Jirka Maršík" xmlUrl="http://pipes.yahoo.com/pipes/pipe.run?_id=8cdf246a8bc63240450019a88a795a1b&amp;_render=rss" title="Jirka Maršík" />
+		<outline type="rss" text="Joel Martin" xmlUrl="http://blog.n01se.net/?cat=14&amp;feed=rss2&amp;author=34" title="searching for signal » clojure" />
+		<outline type="rss" text="John Biesnecker" xmlUrl="http://pipes.yahoo.com/pipes/pipe.run?_id=2e0f98bb77e1242ddd6137974c608f0f&amp;_render=rss" title="John Biesnecker" />
+		<outline type="rss" text="John Hume" xmlUrl="http://www.blogger.com/feeds/23529072678094516/posts/default/-/clojure" title="El Humidor" />
+		<outline type="rss" text="John Jacobsen" xmlUrl="http://eigenhombre.com/feed.clojure.xml" title="Forays into Simplicity - Clojure" />
+		<outline type="rss" text="John Mastro" xmlUrl="http://jbm.io/categories/clojure/atom.xml" title="Category: clojure | jbm.io" />
+		<outline type="rss" text="John Mumm" xmlUrl="http://jtfmumm.com/blog/category/clojure/feed/" title="Iterating » Clojure" />
+		<outline type="rss" text="John P. Hackworth" xmlUrl="http://pipes.yahoo.com/pipes/pipe.run?_id=033fa0a46cab355124da1df097817018&amp;_render=rss" title="John P. Hackworth" />
+		<outline type="rss" text="Jon Bristow" xmlUrl="http://jondotcomdotorg.net/tag/clojure/feed/" title="jon.com.org.net » clojure" />
+		<outline type="rss" text="Jon Pither" xmlUrl="http://www.pitheringabout.com/?feed=rss2&amp;cat=9" title="Pithering About » Clojure" />
+		<outline type="rss" text="Jon Romero" xmlUrl="http://pipes.yahoo.com/pipes/pipe.run?_id=ed5777051f4ca556882cceb6bff2b041&amp;_render=rss" title="Jon Romero" />
+		<outline type="rss" text="Jonathan Harrington" xmlUrl="http://feeds.feedburner.com/JonathansClojureBlog" title="Jonathans Clojure Blog" />
+		<outline type="rss" text="Joseph Wilk" xmlUrl="http://blog.josephwilk.net//clojure/atom.xml" title="Category: clojure | Joseph Wilk" />
+		<outline type="rss" text="Jozef Wagner" xmlUrl="http://pipes.yahoo.com/pipes/pipe.run?_id=ae4f8deee74599b1cb1ed2d60ccbd12e&amp;_render=rss" title="Jozef Wagner" />
+		<outline type="rss" text="Jukka Zitting" xmlUrl="http://jukkaz.wordpress.com/tag/clojure/feed/" title="Jukka Zitting » clojure" />
+		<outline type="rss" text="Julio Barros" xmlUrl="http://pipes.yahoo.com/pipes/pipe.run?_id=658bdc1907db986e1d208c08ea5da74b&amp;_render=rss" title="Julio Barros" />
+		<outline type="rss" text="Jumble Agile Manuals" xmlUrl="http://juliangamble.com/blog/category/clojure/feed/" title="Cool Pacific » Clojure" />
+		<outline type="rss" text="Just For Fn" xmlUrl="http://www.blogger.com/feeds/933135981202717348/posts/default" title="just for fn" />
+		<outline type="rss" text="Justin Kramer" xmlUrl="http://jkkramer.wordpress.com/category/clojure/feed/" title="Justin Kramer » Clojure" />
+		<outline type="rss" text="Karl Kedrovsky" xmlUrl="http://pipes.yahoo.com/pipes/pipe.run?_id=bd09f291d33c04ddb8cfaff35ada5bcc&amp;_render=rss" title="Karl Kedrovsky" />
+		<outline type="rss" text="Karl Krukow" xmlUrl="" title="Karl Krukow" />
+		<outline type="rss" text="Karsten Lang" xmlUrl="http://clojure.lang.dk/?cat=3&amp;feed=rss2" title="clojure.lang.dk » clojure" />
+		<outline type="rss" text="Kartik Shah" xmlUrl="http://blog.kartikshah.info/feeds/posts/default/-/clojure" title="Kartik Shah" />
+		<outline type="rss" text="Keep IT Simply Simple" xmlUrl="http://pipes.yahoo.com/pipes/pipe.run?_id=1c9b63737a8994f788918e978eb023c1&amp;_render=rss" title="Keep IT Simply Simple (Clojure posts)" />
+		<outline type="rss" text="Kevin Hostelley" xmlUrl="http://www.blogger.com/feeds/7981180891735779854/posts/default/-/clojure" title="(def-learn something)" />
+		<outline type="rss" text="Kiko Fernandez" xmlUrl="http://malagastockholm.wordpress.com/tag/clojure/feed/" title="A Computer Sciences Engineer living in Stockholm » clojure" />
+		<outline type="rss" text="Konrad Hinsen" xmlUrl="http://pipes.yahoo.com/pipes/pipe.run?_id=b414301f97980eda90fb2de43c0f7109&amp;_render=rss" title="Konrad Hinsen" />
+		<outline type="rss" text="Kototama" xmlUrl="http://dialectical-computing.de/blog/clojure.xml" title="In Clojure We Trust - Clojure" />
+		<outline type="rss" text="Kris Jenkins" xmlUrl="http://pipes.yahoo.com/pipes/pipe.run?_id=f411e594c8e2e8938f34921f688c76dd&amp;_render=rss" title="Kris Jenkins" />
+		<outline type="rss" text="Kristian Kristensen" xmlUrl="http://zianet.dk/blog/category/code/clojure/feed/" title="Kristian Kristensen's Blog » Clojure" />
+		<outline type="rss" text="Kyle Cordes" xmlUrl="http://kylecordes.com/tag/clojure/feed" title="Kyle Cordes » clojure" />
+		<outline type="rss" text="Kyle Kingsbury" xmlUrl="http://aphyr.com/tags/clojure.atom" title="Aphyr: Clojure" />
+		<outline type="rss" text="LShift Ltd." xmlUrl="http://pipes.yahoo.com/pipes/pipe.run?_id=79aef1deb9444e26d8d52d8f09bf4b67&amp;_render=rss" title="LShift's Clojure posts" />
+		<outline type="rss" text="Lab49" xmlUrl="http://pipes.yahoo.com/pipes/pipe.run?_id=2f858de05835189d3ce231cfdb90491a&amp;_render=rss" title="Lab49" />
+		<outline type="rss" text="Lau B. Jensen" xmlUrl="" title="Lau B. Jensen" />
+		<outline type="rss" text="Leandro Moreira" xmlUrl="http://leandromoreira.com.br/category/clojure/feed/" title="Leandro Moreira » clojure" />
+		<outline type="rss" text="Learning Clojure" xmlUrl="http://www.blogger.com/feeds/7056990295646173627/posts/default" title="Learning Clojure" />
+		<outline type="rss" text="Leonardo Borges" xmlUrl="http://www.leonardoborges.com/writings/tags/clojure/atom.xml" title="Category: clojure | Leonardo Borges" />
+		<outline type="rss" text="LispCast" xmlUrl="http://feeds2.feedburner.com/LispCast" title="LispCast" />
+		<outline type="rss" text="Logan Campbell" xmlUrl="http://logaan.github.io/feed.xml" title="Logan Campbell" />
+		<outline type="rss" text="Logan Linn" xmlUrl="http://loganlinn.com/blog/categories/clojure/atom.xml" title="Category: clojure | loganlinn.log" />
+		<outline type="rss" text="London Clojurian Events" xmlUrl="http://www.eventbrite.com/rss/organizer_list_events/2086345901" title="Events organized by London Clojurians" />
+		<outline type="rss" text="Luke VanderHart" xmlUrl="http://pipes.yahoo.com/pipes/pipe.run?_id=c7a8e9f969d2bcec0d8adbc32a32302b&amp;_render=rss" title="Luke VanderHart" />
+		<outline type="rss" text="Lyle Johnson" xmlUrl="http://lylejohnson.name/blog/category/clojure/feed/" title="Lovable Lyle » Clojure" />
+		<outline type="rss" text="Malcolm Sparks" xmlUrl="http://blog.malcolmsparks.com/?feed=rss2" title="Clojure in a bank" />
+		<outline type="rss" text="Manuel Paccagnella" xmlUrl="http://manuelp.herokuapp.com/feed/clojure" title="Lambda Land - Category: clojure" />
+		<outline type="rss" text="Marc Limotte" xmlUrl="http://pipes.yahoo.com/pipes/pipe.run?_id=ae21699a287e52d467f8cffe7945e4d2&amp;_render=rss" title="Marc Limotte" />
+		<outline type="rss" text="Marco Munizaga" xmlUrl="http://marcopolo.io/feeds.clojure.xml" title="MarcoPolo - Partially Functional - Clojure" />
+		<outline type="rss" text="Marcus Cavanaugh" xmlUrl="" title="Marcus Cavanaugh" />
+		<outline type="rss" text="Marian Schubert" xmlUrl="http://www.blogger.com/feeds/6317788151852287015/posts/default/-/clojure" title="Marian Schubert" />
+		<outline type="rss" text="Marius Kjeldahl" xmlUrl="http://pipes.yahoo.com/pipes/pipe.run?_id=a2d30487f61a012c6c3b699941f3197e&amp;_render=rss" title="Marius Kjeldahl" />
+		<outline type="rss" text="Mark Mandel" xmlUrl="http://www.compoundtheory.com/category/clojure/feed/" title="Compound Theory » ClojureCompound Theory" />
+		<outline type="rss" text="Mark McGranaghan" xmlUrl="http://pipes.yahoo.com/pipes/pipe.run?_id=b940a51bb4440a4817478df38a4bfc12&amp;_render=rss" title="Mark McGranaghan's Clojure postings" />
+		<outline type="rss" text="Mark Needham" xmlUrl="http://pipes.yahoo.com/pipes/pipe.run?_id=0baf3b6731afe9cbe4d9f504f375df53&amp;_render=rss" title="Mark Needham" />
+		<outline type="rss" text="Mark Needham" xmlUrl="http://www.markhneedham.com/blog/category/clojure/feed/" title="Mark Needham » Clojure" />
+		<outline type="rss" text="Mark Nutter" xmlUrl="http://www.blogger.com/feeds/2780729680834099800/posts/default" title="Clojure Yap" />
+		<outline type="rss" text="Mark Reid" xmlUrl="http://pipes.yahoo.com/pipes/pipe.run?_id=f7204ecce7ec8bc20c74661ec8e7d1a4&amp;_render=rss" title="Mark Reid's Clojure posts" />
+		<outline type="rss" text="Mark Watson" xmlUrl="http://pipes.yahoo.com/pipes/pipe.run?_id=a0161f6185ca965613735b6b06f2e3ef&amp;_render=rss" title="Mark Watson" />
+		<outline type="rss" text="Martin Clausen" xmlUrl="http://pipes.yahoo.com/pipes/pipe.run?_id=a5703df3c95bc28314b4d4e211adb7bf&amp;_render=rss" title="Martin Clausen" />
+		<outline type="rss" text="Martin Janiczek" xmlUrl="http://pipes.yahoo.com/pipes/pipe.run?_id=a9074534ca5a075090d7206bc00d530b&amp;_render=rss" title="Martin Janiczek" />
+		<outline type="rss" text="Martin Trojer" xmlUrl="http://martintrojer.github.io/clojure-feed.xml" title="Martin's Programming Blog - Clojure" />
+		<outline type="rss" text="Mason Stewart" xmlUrl="http://masondesu.github.com/blog/categories/clojure/atom.xml" title="Category: Clojure | masondesu" />
+		<outline type="rss" text="Matt Clark" xmlUrl="http://pipes.yahoo.com/pipes/pipe.run?_id=98d3cd4cd71fb7ef5f79b82e5cd6fd3a&amp;_render=rss" title="Matt Clark" />
+		<outline type="rss" text="Matt Williams" xmlUrl="http://mattyw.github.io/blog/categories/clojure/atom.xml" title="Category: clojure | mattyw" />
+		<outline type="rss" text="Matthew Maravillas" xmlUrl="http://matthewm.net/blog/tag/clojure/feed/" title="Free Lunch » clojure" />
+		<outline type="rss" text="Mattias Holmqvist" xmlUrl="http://mattiasholmqvist.se/category/programming/clojure-programming/feed/" title="Mattias Holmqvist – Writings about software developmentMattias Holmqvist – Writings about software development » Category » clojure" />
+		<outline type="rss" text="Matty Williams" xmlUrl="http://www.blogger.com/feeds/521133349049053228/posts/default/-/clojure" title="mattyw" />
+		<outline type="rss" text="Maurits Rijk" xmlUrl="http://maurits.wordpress.com/category/clojure/feed/" title="Maurits thinks aloud » Clojure" />
+		<outline type="rss" text="Max Gonzih" xmlUrl="http://pipes.yahoo.com/pipes/pipe.run?_id=1865b921740a79542912d138ec990f30&amp;_render=rss" title="Max Gonzih" />
+		<outline type="rss" text="Max Prokopiev" xmlUrl="http://maxprokopiev.com/atom.xml" title="Max Prokopiev" />
+		<outline type="rss" text="Max Weber" xmlUrl="http://feeds.feedburner.com/ClojureAndTheBusiness" title="Software needs passion" />
+		<outline type="rss" text="Meikel Brandmeyer" xmlUrl="https://kotka.de/blog/index.rss" title="Kotka" />
+		<outline type="rss" text="Mente Abierta" xmlUrl="http://alexcollins.org/blog/tag/clojure-2/feed" title="Alex Collins - Blog » clojure" />
+		<outline type="rss" text="Michael Alyn Miller" xmlUrl="http://michaelalynmiller.com/blog/categories/clojure/atom.xml" title="Michael Alyn Miller" />
+		<outline type="rss" text="Michael Barker" xmlUrl="http://pipes.yahoo.com/pipes/pipe.run?_id=8810479b2a28033db7ae36f962e205d6&amp;_render=rss" title="Michael Barker" />
+		<outline type="rss" text="Michael Drogalis" xmlUrl="http://michaeldrogalis.tumblr.com/tagged/clojure/rss" title="@MichaelDrogalis" />
+		<outline type="rss" text="Michael Fogus" xmlUrl="http://pipes.yahoo.com/pipes/pipe.run?_id=a8c5c15e7a71b7c9a5095cc5ebb6147b&amp;_render=rss" title="Fogus" />
+		<outline type="rss" text="Michael Hanson" xmlUrl="http://pipes.yahoo.com/pipes/pipe.run?_id=2f3f203455a6ed01cce64870008438b6&amp;_render=rss" title="Michael Hanson" />
+		<outline type="rss" text="Michael Harrison" xmlUrl="http://www.michaelharrison.ws/weblog/?cat=26&amp;feed=rss2" title="goodmike blogs here » clojure" />
+		<outline type="rss" text="Michael Kohl" xmlUrl="http://citizen428.net/blog/categories/clojure/atom.xml" title="Category: clojure | citizen428.blog()" />
+		<outline type="rss" text="Michael Krause" xmlUrl="http://www.blogger.com/feeds/6246778289388562502/posts/default/-/clojure" title="mk" />
+		<outline type="rss" text="Michael O. Church" xmlUrl="http://michaelochurch.wordpress.com/tag/clojure/" title="Michael O. Church" />
+		<outline type="rss" text="Michael Peterson" xmlUrl="http://pipes.yahoo.com/pipes/pipe.run?_id=da8624e0112469a029d5bd34f08f05bc&amp;_render=rss" title="Michael Peterson" />
+		<outline type="rss" text="Michael Robert Bernstein" xmlUrl="http://pipes.yahoo.com/pipes/pipe.run?_id=cf469a0cca8e133a58315375478bb56c&amp;_render=rss" title="Michael Robert Bernstein" />
+		<outline type="rss" text="Michael Sappler" xmlUrl="http://resatori.com/category/clojure/feed" title="resatori » Clojure" />
+		<outline type="rss" text="Michael Schneider" xmlUrl="http://mischneider.net/?cat=4&amp;feed=rss2" title="Michael Schneider" />
+		<outline type="rss" text="Michel Alexandre Salim" xmlUrl="http://hircus.wordpress.com/category/clojure/feed/" title="Intuitionistically Uncertain » Clojure" />
+		<outline type="rss" text="Mihnea Dobrescu-Balaur" xmlUrl="http://pipes.yahoo.com/pipes/pipe.run?_id=81097964530444435738a8aa663ad54c&amp;_render=rss" title="Mihnea Dobrescu-Balaur" />
+		<outline type="rss" text="Mikael Sundberg" xmlUrl="http://pipes.yahoo.com/pipes/pipe.run?_id=94f5d778548fdbf32cd9c46662f63a07&amp;_render=rss" title="Mikael Sundberg" />
+		<outline type="rss" text="Mike Anderson" xmlUrl="http://clojurefun.wordpress.com/feed/" title="Creative Clojure" />
+		<outline type="rss" text="Mike Ivanov" xmlUrl="http://www.mikeivanov.com/tagged/clojure/rss" title="connecting the dots . . ." />
+		<outline type="rss" text="Mike Janger" xmlUrl="http://www.blogger.com/feeds/36815431/posts/default/-/clojure" title="Inching Forward" />
+		<outline type="rss" text="Mike Meyer" xmlUrl="http://www.blogger.com/feeds/3444118573883320615/posts/default/-/clojure" title="Mired in code" />
+		<outline type="rss" text="Miki Tebeka" xmlUrl="http://www.blogger.com/feeds/7247064579832298990/posts/default" title="ClojureWise" />
+		<outline type="rss" text="Mile High Code" xmlUrl="http://www.blogger.com/feeds/7817780699562333449/posts/default/-/clojure" title="Mile High Code" />
+		<outline type="rss" text="Min Huang" xmlUrl="http://pipes.yahoo.com/pipes/pipe.run?_id=82870f3dc7b3f8270341d7edfcbcaa78&amp;_render=rss" title="Min Huang" />
+		<outline type="rss" text="Mindbat" xmlUrl="http://pipes.yahoo.com/pipes/pipe.run?_id=7760fa33965358caf646cabfeafb4e6e&amp;_render=rss" title="Mindbat" />
+		<outline type="rss" text="Morphism Labs News" xmlUrl="http://pipes.yahoo.com/pipes/pipe.run?_id=eaaaf461e125b86fa315bb207edb1046&amp;_render=rss" title="Morphism Labs News" />
+		<outline type="rss" text="Morphling" xmlUrl="" title="Morphling" />
+		<outline type="rss" text="Mostly λazy…a Clojure podcast" xmlUrl="http://mostlylazy.com/feed/" title="Mostly λazy…a Clojure podcast" />
+		<outline type="rss" text="Musings on Clojure" xmlUrl="http://www.blogger.com/feeds/7623766058519585142/posts/default" title="Musings on Clojure" />
+		<outline type="rss" text="My Corner of the World" xmlUrl="http://pipes.yahoo.com/pipes/pipe.run?_id=fec20d286af3981ed1e4579766d25032&amp;_render=rss" title="My Corner of the World" />
+		<outline type="rss" text="Nashorn JavaScript Project" xmlUrl="https://blogs.oracle.com/nashorn/feed/entries/atom?tags=clojurescript" title="Nashorn" />
+		<outline type="rss" text="Nathan Marz" xmlUrl="http://pipes.yahoo.com/pipes/pipe.run?_id=180af42010b57c605f7b7475b311ec32&amp;_render=rss" title="Nathan Marz" />
+		<outline type="rss" text="Nathan Stien" xmlUrl="http://nathanic.org/tags/clojure/index.xml" title="Abstractions &amp;amp; Applications - Posts tagged clojure" />
+		<outline type="rss" text="Neale Swinnerton" xmlUrl="http://pipes.yahoo.com/pipes/pipe.run?_id=e1261fa92fd1c8b3d5536be2208cb927&amp;_render=rss" title="Neale Swinnerton" />
+		<outline type="rss" text="Nectarine Imp" xmlUrl="http://pipes.yahoo.com/pipes/pipe.run?_id=c04e4641500ef75edf7704445530b9d4&amp;_render=rss" title="Nectarine Imp" />
+		<outline type="rss" text="Nelson Morris" xmlUrl="http://pipes.yahoo.com/pipes/pipe.run?_id=61513901586bc0a6d9ec19a5c5f6dd68&amp;_render=rss" title="Nelson Morris" />
+		<outline type="rss" text="Neo" xmlUrl="http://pipes.yahoo.com/pipes/pipe.run?_id=7a41b0d5e2cc450a7a00fceea62735dc&amp;_render=rss" title="Neo" />
+		<outline type="rss" text="Netzhansa" xmlUrl="http://www.blogger.com/feeds/3022969446495862761/posts/default/-/clojure" title="netzhansa" />
+		<outline type="rss" text="Nick Mudge" xmlUrl="http://pipes.yahoo.com/pipes/pipe.run?_id=5fa36ac4f289decb1c87a4665d5f08c3&amp;_render=rss" title="Nick Mudge" />
+		<outline type="rss" text="Niclas Meier" xmlUrl="http://www.niclas-meier.de/category/technology/clojure/feed/" title="byte bohemian » Clojure" />
+		<outline type="rss" text="Nico Balestra" xmlUrl="http://www.nicobalestra.com/?cat=27&amp;feed=rss2" title="Nico Balestra » Clojure | Nico Balestra" />
+		<outline type="rss" text="Nicolas Buduroi" xmlUrl="http://www.blogger.com/feeds/5409861124354728237/posts/default/-/clojure" title="Mu" />
+		<outline type="rss" text="Nicolas Duchenne" xmlUrl="http://www.chaomancy.com/blog/rss.xml?categoryId=6606561" title="Chaomancy - Clojure" />
+		<outline type="rss" text="Nikita Prokopov" xmlUrl="" title="Nikita Prokopov" />
+		<outline type="rss" text="Nurullah Akkaya" xmlUrl="http://pipes.yahoo.com/pipes/pipe.run?_id=4e1982719b79c21c815dc8b5e6789800&amp;_render=rss" title="Nurullah Akkaya" />
+		<outline type="rss" text="Object Commando" xmlUrl="http://objectcommando.com/blog/category/clojure/feed/" title="Object Commando » Clojure" />
+		<outline type="rss" text="Object Mentor" xmlUrl="http://pipes.yahoo.com/pipes/pipe.run?_id=a95334ceb5e0fb26ecf791f82dab500d&amp;_render=rss" title="Object Mentor's Clojure posts" />
+		<outline type="rss" text="Ola Bini" xmlUrl="http://pipes.yahoo.com/pipes/pipe.run?_id=356f9e70f5bd5f38f31d73f1f3191c69&amp;_render=rss" title="Ola Bini" />
+		<outline type="rss" text="On Beyond Lambda" xmlUrl="http://pipes.yahoo.com/pipes/pipe.run?_id=ec6f43fcafdaa65dbd76221d1fe07e27&amp;_render=rss" title="On Beyond Lambda" />
+		<outline type="rss" text="On Clojure" xmlUrl="http://onclojure.com/feed/atom/" title="On Clojure" />
+		<outline type="rss" text="OnyCloud" xmlUrl="http://pipes.yahoo.com/pipes/pipe.run?_id=1adfa4e3b059d564c840e7ac9a797cf1&amp;_render=rss" title="OnyCloud" />
+		<outline type="rss" text="OpenGamma" xmlUrl="http://pipes.yahoo.com/pipes/pipe.run?_id=f434c5da291c76be1346bbcc35280320&amp;_render=rss" title="OpenGamma" />
+		<outline type="rss" text="OrderHarmony" xmlUrl="http://pipes.yahoo.com/pipes/pipe.run?_id=e3acda502422e928a0186c566537fec4&amp;_render=rss" title="OrderHarmony" />
+		<outline type="rss" text="Oscar Riveros" xmlUrl="http://www.blogger.com/feeds/5015290851527580789/posts/default" title="Mx" />
+		<outline type="rss" text="Paavo Anselmi Parkkinen" xmlUrl="http://pipes.yahoo.com/pipes/pipe.run?_id=b48edd214140e18dab212c3ea7237bb9&amp;_render=rss" title="Paavo Anselmi Parkkinen's Clojure posts" />
+		<outline type="rss" text="Pallet blog" xmlUrl="http://feeds.feedburner.com/palletops" title="Pallet, DevOps for the JVM" />
+		<outline type="rss" text="Paradigm X" xmlUrl="http://paradigmx.net/blog/categories/clojure/atom.xml" title="Category: Clojure | Paradigm X" />
+		<outline type="rss" text="Parallel Universe blog" xmlUrl="http://pipes.yahoo.com/pipes/pipe.run?_id=75a1a3d6fdf96dd6c89a5c8338c7597b&amp;_render=rss" title="Parallel Universe" />
+		<outline type="rss" text="Patrick Durusau" xmlUrl="http://tm.durusau.net/?cat=261&amp;feed=rss2" title="Another Word For It » Clojure" />
+		<outline type="rss" text="Patrick Stein" xmlUrl="http://pipes.yahoo.com/pipes/pipe.run?_id=b502b5f586e3cf34b6cb55420e489fd9&amp;_render=rss" title="Clojure @nklein software" />
+		<outline type="rss" text="Pattern Hatch" xmlUrl="http://patternhatch.com/tag/clojure/feed/" title="Pattern Hatch » Clojure" />
+		<outline type="rss" text="Paudi Moriarty" xmlUrl="http://paudo.posterous.com/rss.xml?tag=clojure" title="Paudi Moriarty" />
+		<outline type="rss" text="Paul Bauer" xmlUrl="http://pmbauer.github.io/feed.xml" title="(def title nil)" />
+		<outline type="rss" text="Paul Gearon" xmlUrl="http://pipes.yahoo.com/pipes/pipe.run?_id=1e66a60c7887c0e7a6c1764643ec9014&amp;_render=rss" title="Paul Gearon" />
+		<outline type="rss" text="Paul Gross" xmlUrl="http://pipes.yahoo.com/pipes/pipe.run?_id=21c2a96208e329bcffb14a3d4c4f6002&amp;_render=rss" title="Paul Gross" />
+		<outline type="rss" text="Paul Ingles" xmlUrl="http://pipes.yahoo.com/pipes/pipe.run?_id=a3d6c1bb3b6308a9079916e0f0018aa3&amp;_render=rss" title="Paul Ingles" />
+		<outline type="rss" text="Paul Lam" xmlUrl="http://www.quantisan.com/feeds/tag/clojure_atom.xml" title="Quantitative Artisan" />
+		<outline type="rss" text="Paul Legato" xmlUrl="http://www.paullegato.com/blog/tag/clojure/feed/" title="Paul Legato » clojure" />
+		<outline type="rss" text="Paul Sandoz" xmlUrl="http://www.blogger.com/feeds/9162348804594118096/posts/default/-/clojure" title="Earthly Powers" />
+		<outline type="rss" text="Paul Sanwald" xmlUrl="http://paulsanwald.com/blog/category/4.rss" title="Paul's Blog" />
+		<outline type="rss" text="Paul Stadig" xmlUrl="http://www.blogger.com/feeds/8086052983184217440/posts/default/-/clojure" title="Paul Stadig" />
+		<outline type="rss" text="Paul Umbers" xmlUrl="http://www.blogger.com/feeds/11318885/posts/default/-/clojure" title="Internistic" />
+		<outline type="rss" text="Paul deGrandis" xmlUrl="http://www.pauldee.org/blog/category/clojure/feed/" title="OhPauleez // Paul deGrandis » Clojure" />
+		<outline type="rss" text="Paulo Suzart" xmlUrl="http://paulosuzart.github.com/blog/categories/clojure/atom.xml" title="Category: clojure | Paulo Suzart Blog" />
+		<outline type="rss" text="Pedro Mendez Calção" xmlUrl="http://intothewebs.tumblr.com/tagged/clojure/rss" title="What a long, strange journey this will be..." />
+		<outline type="rss" text="Pelle Brændgaard" xmlUrl="http://pelle.github.com/atom.xml" title="Adventures in Clojure and Datomic" />
+		<outline type="rss" text="Pepijn de Vos" xmlUrl="http://pipes.yahoo.com/pipes/pipe.run?_id=1dea81b8a32de2b074ad7f37f9f48bb6&amp;_render=rss" title="Pepijn de Vos (Wishful Coding)" />
+		<outline type="rss" text="Pet Tomato" xmlUrl="http://pipes.yahoo.com/pipes/pipe.run?_id=2f156d488f2d9f479b0e760b33eaddbd&amp;_render=rss" title="Pet Tomato" />
+		<outline type="rss" text="Peter Christensen" xmlUrl="http://pchristensen.com/blog/articles/category/clojure/feed/" title="Peter Christensen» Clojure" />
+		<outline type="rss" text="Peteris Erins" xmlUrl="http://pipes.yahoo.com/pipes/pipe.run?_id=b91b982d225d86cda9278274c6f709d2&amp;_render=rss" title="Peteris Erins" />
+		<outline type="rss" text="Phil Hagelberg" xmlUrl="http://technomancy.us/feed/atom.xml" title="Technomancy" />
+		<outline type="rss" text="Philip Potter" xmlUrl="http://rhebus.posterous.com/rss.xml?tag=clojure" title="Philip Potter" />
+		<outline type="rss" text="Philipp Meier" xmlUrl="http://philipp.meier.name/blog/categories/clojure/atom.xml" title="Category: clojure | Philipp Meier - Software Developer" />
+		<outline type="rss" text="Phillip Lord" xmlUrl="http://pipes.yahoo.com/pipes/pipe.run?_id=d7f941a709e259dfcd8de9121470645d&amp;_render=rss" title="Pipes Output" />
+		<outline type="rss" text="Pierre-Yves Ritschard" xmlUrl="http://pipes.yahoo.com/pipes/pipe.run?_id=2b4df27a8a423f38ec23838506223255&amp;_render=rss" title="Pierre-Yves Ritschard" />
+		<outline type="rss" text="Pluralsight" xmlUrl="http://blog.pluralsight.com/tag/clojure/feed" title="Pluralsight blog » Clojure" />
+		<outline type="rss" text="Pramode C.E" xmlUrl="http://pramode.net/clojure/feed/atom.xml" title="Pramode C.E - Code Clojure" />
+		<outline type="rss" text="Prismatic" xmlUrl="http://pipes.yahoo.com/pipes/pipe.run?_id=70e7bf2bcf7efd6c56d483cfa7c380ed&amp;_render=rss" title="Prismatic" />
+		<outline type="rss" text="ProDevTips" xmlUrl="http://pipes.yahoo.com/pipes/pipe.run?_id=ed581e0d677e30a30351ffa9c62233e9&amp;_render=rss" title="Clojure@ProDevTips" />
+		<outline type="rss" text="RJMetrics" xmlUrl="http://pipes.yahoo.com/pipes/pipe.run?_id=d2acfee24baebb7f8c431da701c6cc49&amp;_render=rss" title="RJMetrics" />
+		<outline type="rss" text="Rafael Chacón" xmlUrl="" title="Rafael Chacón" />
+		<outline type="rss" text="Ragnar Dahlén" xmlUrl="http://pipes.yahoo.com/pipes/pipe.run?_id=30e0536057a277290e30667097c4083a&amp;_render=rss" title="Ragnar Dahlén" />
+		<outline type="rss" text="Ralf Bensmann" xmlUrl="http://blog.art-of-coding.eu/tag/clojure/feed/" title="Art of Coding » Clojure" />
+		<outline type="rss" text="Ralph Moritz" xmlUrl="http://pipes.yahoo.com/pipes/pipe.run?_id=19146ef303cb4c99a8ef9f0704241e1d&amp;_render=rss" title="Ralph Moritz" />
+		<outline type="rss" text="Ram Krishnan" xmlUrl="http://kriyative.github.io/rss/clojure.xml" title="clojure posts from kriyative" />
+		<outline type="rss" text="Raphael Amiard" xmlUrl="http://raphamiard.posterous.com/rss.xml?tag=clojure" title="Raphael Amiard" />
+		<outline type="rss" text="Rasmus Svensson" xmlUrl="http://blog.raek.se/category/clojure/feed/" title="raek's blog » Clojure" />
+		<outline type="rss" text="Ray Miller" xmlUrl="http://cms.1729.org.uk/feed/clojure" title="1729.org.uk" />
+		<outline type="rss" text="Raynes" xmlUrl="http://blog.raynes.me/atom.xml" title="Bathroom Reading Material" />
+		<outline type="rss" text="Read-Eval-Puke" xmlUrl="http://www.blogger.com/feeds/6150917322720704395/posts/default" title="read-eval-puke" />
+		<outline type="rss" text="Reblog" xmlUrl="http://reborg.tumblr.com/tagged/clojure/rss" title="Reblog" />
+		<outline type="rss" text="Reid Draper" xmlUrl="http://pipes.yahoo.com/pipes/pipe.run?_id=f781126b4a1e8aa9d1683e6a692890b7&amp;_render=rss" title="Reid Draper" />
+		<outline type="rss" text="Reid McKenzie" xmlUrl="http://arrdem.com/feeds/clojure.xml" title="On The Diagonal" />
+		<outline type="rss" text="Rich Hickey" xmlUrl="http://www.blogger.com/feeds/3590218604026787808/posts/default" title="Clojure" />
+		<outline type="rss" text="Richard West" xmlUrl="http://changearc.wordpress.com/category/clojure/feed/" title="changearc » Clojure" />
+		<outline type="rss" text="Rick Minerich" xmlUrl="http://richardminerich.com/tag/clojure/feed/" title="Inviting Epiphany » Clojure" />
+		<outline type="rss" text="Rob Ashton" xmlUrl="http://pipes.yahoo.com/pipes/pipe.run?_id=fb70d7a3e3b26eb8e78b9743cae2f780&amp;_render=rss" title="Rob Ashton" />
+		<outline type="rss" text="Rob Rowe" xmlUrl="http://www.blogger.com/feeds/724993853864308794/posts/default/-/Clojure" title="My Clojure Adventure" />
+		<outline type="rss" text="Robert Pitts" xmlUrl="http://regretful.ly/feed.clojure.xml" title="regretful.ly - Clojure" />
+		<outline type="rss" text="Robert Rees" xmlUrl="http://rrees.me/tag/clojure/feed/" title="Echo One » clojure" />
+		<outline type="rss" text="Roland Sadowski" xmlUrl="http://latebound.posterous.com/rss.xml?tag=clojure" title="Roland Sadowski" />
+		<outline type="rss" text="Romeo" xmlUrl="http://defromeo.github.io/blog/categories/clojure/atom.xml" title="Category: Clojure | defromeo" />
+		<outline type="rss" text="Ronen Narkis" xmlUrl="http://pipes.yahoo.com/pipes/pipe.run?_id=5da4b3db3cd05fc33cb0ea7f36c617be&amp;_render=rss" title="Ronen Narkis" />
+		<outline type="rss" text="Ross Huggett" xmlUrl="http://www.blogger.com/feeds/2744082786940441609/posts/default/-/clojure" title="¡ssoɹ ☮" />
+		<outline type="rss" text="RubyLearning Blog" xmlUrl="http://rubylearning.com/blog/tag/clojure/feed/" title="RubyLearning Blog » Clojure" />
+		<outline type="rss" text="Russell Mull" xmlUrl="http://mullr.wordpress.com/category/clojure/feed/" title="Russell Mull » clojure" />
+		<outline type="rss" text="Ryan Brush" xmlUrl="http://pipes.yahoo.com/pipes/pipe.run?_id=3f5da2f2ebc933d20601cafcbed826ad&amp;_render=rss" title="Ryan Brush" />
+		<outline type="rss" text="Ryan Cole" xmlUrl="http://pipes.yahoo.com/pipes/pipe.run?_id=19e3c40b9b0fa00869ff8d2504da31cb&amp;_render=rss" title="Ryan Cole" />
+		<outline type="rss" text="Ryan Stradling" xmlUrl="http://www.blogger.com/feeds/2878588620417864463/posts/default/-/Clojure" title="Functional thoughts and experiences" />
+		<outline type="rss" text="Saaien Tist" xmlUrl="http://www.blogger.com/feeds/4867372421772813569/posts/default/-/clojure" title="Saaien Tist" />
+		<outline type="rss" text="Safari Books Online" xmlUrl="http://pipes.yahoo.com/pipes/pipe.run?_id=b77b54450376d74a4c2c103a94c487ed&amp;_render=rss" title="Safari Books Online" />
+		<outline type="rss" text="Sam Garrett" xmlUrl="http://blackrhino.io/feed/" title="Sam Garrett - Blog" />
+		<outline type="rss" text="Sam Newman" xmlUrl="http://blog.magpiebrain.com/category/development/languages-frameworks/clojure-languages-frameworks-development/feed/" title="magpiebrain" />
+		<outline type="rss" text="Sam Ritchie" xmlUrl="http://pipes.yahoo.com/pipes/pipe.run?_id=b53585eb30456f828f918603b550d795&amp;_render=rss" title="Sam Ritchie" />
+		<outline type="rss" text="Sami Badawi" xmlUrl="http://www.blogger.com/feeds/7506593179569894775/posts/default/-/Clojure" title="AI Computer Vision" />
+		<outline type="rss" text="Samrat Man Singh" xmlUrl="http://samrat.me/feeds/clojure.xml" title="Samrat Man Singh" />
+		<outline type="rss" text="Screen6HQ" xmlUrl="http://pipes.yahoo.com/pipes/pipe.run?_id=19e13712a740f1a0c03ce66df6345e63&amp;_render=rss" title="Screen6" />
+		<outline type="rss" text="Sean Brewer" xmlUrl="http://seabre.github.io/blog/categories/clojure/atom.xml" title="Category: clojure | Sean Brewer" />
+		<outline type="rss" text="Sean Devlin" xmlUrl="http://www.blogger.com/feeds/6036367734290109040/posts/default" title="Full Disclojure" />
+		<outline type="rss" text="Sean Devlin (vimeo)" xmlUrl="http://vimeo.com/channels/fulldisclojure/videos/rss" title="Vimeo / Full Disclojure" />
+		<outline type="rss" text="Seeking Clojure" xmlUrl="http://www.seekingclojure.com/rss" title="Seeking Clojure" />
+		<outline type="rss" text="Sergey Astanin" xmlUrl="http://txt.arboreus.com/tagged/clojure.atom" title="*clojure*.txt" />
+		<outline type="rss" text="Sergio Bossa" xmlUrl="http://www.blogger.com/feeds/14570545/posts/default/-/clojure" title="Thoughts and Fragments" />
+		<outline type="rss" text="Sfalma" xmlUrl="http://pipes.yahoo.com/pipes/pipe.run?_id=c44f0f77404cfd463727381809ce5cae&amp;_render=rss" title="Pipes Output" />
+		<outline type="rss" text="Sgeo Comet" xmlUrl="http://sgeo.tumblr.com/tagged/clojure/rss" title="Sgeo's programming thoughts" />
+		<outline type="rss" text="Shantanu Kumar" xmlUrl="http://pipes.yahoo.com/pipes/pipe.run?_id=cf1831abf6eae4a599aa41fbc230b11c&amp;_render=rss" title="Shantanu Kumar" />
+		<outline type="rss" text="Sharing at Work" xmlUrl="http://pipes.yahoo.com/pipes/pipe.run?_id=9c0caa21a64acf838e4b38033aaff0bc&amp;_render=rss" title="Sharing at Work" />
+		<outline type="rss" text="Shashy Dass" xmlUrl="http://esdee.github.com/feed/" title="Shashy's Blog" />
+		<outline type="rss" text="Shriphani Palakodety" xmlUrl="http://blog.shriphani.com/feeds/clojure.rss.xml" title="SHRIPHANI PALAKODETY: Posts tagged 'clojure'" />
+		<outline type="rss" text="Siddhartha Reddy" xmlUrl="http://pipes.yahoo.com/pipes/pipe.run?_id=b1d6f54bf5d0acc0ae8a672269672930&amp;_render=rss" title="Siddhartha Reddy" />
+		<outline type="rss" text="Simon Holgate" xmlUrl="http://simonholgate.wordpress.com/category/clojure/feed/" title="Simon Holgate's Blog » Clojure" />
+		<outline type="rss" text="Simone Mosciatti" xmlUrl="http://siscia.github.io/rss-clojure.xml" title="Siscia Tech" />
+		<outline type="rss" text="Siva Jagadeesan" xmlUrl="http://techbehindtech.com/category/clojure/feed/" title="Tech behind Tech » Clojure" />
+		<outline type="rss" text="So much to do, so little time" xmlUrl="http://blog.rguha.net/?tag=clojure&amp;feed=rss2" title="So much to do, so little time » clojure" />
+		<outline type="rss" text="Sonia Hamilton" xmlUrl="http://www.snowfrog.net/tag/clojure/feed/" title="Sonia Hamilton » Clojure" />
+		<outline type="rss" text="SourceNinja" xmlUrl="http://pipes.yahoo.com/pipes/pipe.run?_id=b4133f3f3655c17455e32c1233bc6617&amp;_render=rss" title="SourceNinja" />
+		<outline type="rss" text="Squirrel" xmlUrl="http://squirrel.pl/blog/tag/clojure/feed/" title="Konrad Garus » Clojure" />
+		<outline type="rss" text="St. Louis Clojure Discussion Group" xmlUrl="http://clojurecljub.wordpress.com/feed/" title="Clojure Lunch Cljub" />
+		<outline type="rss" text="Stathis Sideris" xmlUrl="http://pipes.yahoo.com/pipes/pipe.run?_id=9824d2e12e9d4a9dadc8289ad75e82ac&amp;_render=rss" title="Stathis Sideris" />
+		<outline type="rss" text="Stefan Arentz" xmlUrl="http://stefan.arentz.ca/feeds/Clojure.atom.xml" title="Stefan Arentz" />
+		<outline type="rss" text="Stefan Tilkov" xmlUrl="http://pipes.yahoo.com/pipes/pipe.run?_id=dabeb77a16f672f564fd503bd663555b&amp;_render=rss" title="Stefan Tilkov's Clojure posts" />
+		<outline type="rss" text="Stephan Schmidt" xmlUrl="http://pipes.yahoo.com/pipes/pipe.run?_id=eb3a37b540911df844dc7807ed1f5cb2&amp;_render=rss" title="Stephan Schmidt's Clojure posts" />
+		<outline type="rss" text="Stephen Bach" xmlUrl="http://items.sjbach.com/feed" title="items.sjbach.com" />
+		<outline type="rss" text="Stephen Olsen" xmlUrl="http://saolsen.tumblr.com/tagged/clojure/rss" title="Hacking The Good Hack" />
+		<outline type="rss" text="Stephen Olsen" xmlUrl="http://pipes.yahoo.com/pipes/pipe.run?_id=791657d2f849b28b85c3dac8f6d34177&amp;_render=rss" title="Stephen Olsen" />
+		<outline type="rss" text="Steve Losh" xmlUrl="http://pipes.yahoo.com/pipes/pipe.run?_id=1640a7b2e6e59e69612547ca3f9e452d&amp;_render=rss" title="Steve Losh" />
+		<outline type="rss" text="Steve Shogren" xmlUrl="" title="Steve Shogren" />
+		<outline type="rss" text="Steve Vinoski" xmlUrl="http://steve.vinoski.net/blog/category/clojure/feed/" title="Steve Vinoski's Blog » clojure" />
+		<outline type="rss" text="Steven Dick" xmlUrl="http://stevendick.github.com/blog/categories/clojure/atom.xml" title="Category: Clojure | &amp;lt;insert witty blog title&amp;gt;" />
+		<outline type="rss" text="Steven Proctor" xmlUrl="http://www.proctor-it.com/category/clojure/feed/" title="Proctor It » Clojure" />
+		<outline type="rss" text="Stuart Sierra" xmlUrl="http://feeds2.feedburner.com/StuartSierra" title="Digital Digressions by Stuart Sierra" />
+		<outline type="rss" text="Stuff Aria Likes" xmlUrl="http://pipes.yahoo.com/pipes/pipe.run?_id=ccf2f5acc3da2242ae06edbf92be95a9&amp;_render=rss" title="Stuff Aria Likes" />
+		<outline type="rss" text="Sun Ning" xmlUrl="" title="Sun Ning" />
+		<outline type="rss" text="Swaroop C H" xmlUrl="http://swaroopch.com/tag/clojure/feed/" title="Swaroop C H» clojure" />
+		<outline type="rss" text="Swizec Teller" xmlUrl="http://pipes.yahoo.com/pipes/pipe.run?_id=7517aa5c41a965c5d62b843adbbd9f49&amp;_render=rss" title="Swizec Teller" />
+		<outline type="rss" text="Szymon Witamborski" xmlUrl="http://pipes.yahoo.com/pipes/pipe.run?_id=195a584c0a9289abd33bd2467546734d&amp;_render=rss" title="Long-standing Bug Clojure-related stuff" />
+		<outline type="rss" text="Számítógépes nyelvészet" xmlUrl="http://www.blogger.com/feeds/7558711740621470960/posts/default/-/Clojure" title="NLP Meetup - Számítógépes Nyelvészet" />
+		<outline type="rss" text="Tapestry Central" xmlUrl="http://www.blogger.com/feeds/4110180/posts/default/-/clojure" title="Tapestry Central" />
+		<outline type="rss" text="Tassilo Horn" xmlUrl="http://tsdh.wordpress.com/category/lisp/clojure-lisp/feed/" title="Tassilo's Blog » Clojure" />
+		<outline type="rss" text="Ted Leung" xmlUrl="http://www.sauria.com/blog/tag/clojure/feed/" title="Ted Leung on the Air » Clojure" />
+		<outline type="rss" text="Tero Parviainen" xmlUrl="http://teropa.info/blog/clojure.xml" title="Tero Parviainen" />
+		<outline type="rss" text="The Blackstag Blog" xmlUrl="http://pipes.yahoo.com/pipes/pipe.run?_id=b632367883d51d21470d9ffcf5b7581c&amp;_render=rss" title="The Blackstag Blog" />
+		<outline type="rss" text="The Blank Screen" xmlUrl="http://ngrunwald.github.com/blog/categories/clojure/atom.xml" title="Category: clojure | The Blank Screen" />
+		<outline type="rss" text="The Changelog" xmlUrl="http://thechangelog.com/tagged/clojure/feed/" title="The Changelog » Clojure" />
+		<outline type="rss" text="The Clean Coder" xmlUrl="http://pipes.yahoo.com/pipes/pipe.run?_id=6d75628a16dcb59b7d5cbb113d5d6948&amp;_render=rss" title="The Clean Coder" />
+		<outline type="rss" text="The ClojureWerkz Blog" xmlUrl="http://blog.clojurewerkz.org/atom.xml" title="The ClojureWerkz Blog" />
+		<outline type="rss" text="The Oblong" xmlUrl="http://www.blogger.com/feeds/7141432593100470479/posts/default/-/clojure" title="The Oblong" />
+		<outline type="rss" text="The Weak Reference" xmlUrl="http://www.blogger.com/feeds/10486307/posts/default/-/clojure" title="The Weak Reference" />
+		<outline type="rss" text="The Yieldbot Blog" xmlUrl="" title="The Yieldbot Blog" />
+		<outline type="rss" text="The making of Zolodeck" xmlUrl="http://blog.zololabs.com/tag/clojure/feed/" title="Zolo Labs » clojure" />
+		<outline type="rss" text="TheLadders Engineering Stories" xmlUrl="http://dev.theladders.com/categories/clojure/atom.xml" title="Category: Clojure | TheLadders Engineering Stories" />
+		<outline type="rss" text="TheServerSide" xmlUrl="http://pipes.yahoo.com/pipes/pipe.run?_id=0c1edc8d0c3d1d861a2473bf662f7be0&amp;_render=rss" title="TheServerSide" />
+		<outline type="rss" text="Theory In Practise" xmlUrl="http://pipes.yahoo.com/pipes/pipe.run?_id=2ef0d48f4cec64c18902da450377e129&amp;_render=rss" title="Theory In Practise" />
+		<outline type="rss" text="This Window: Close It" xmlUrl="http://pipes.yahoo.com/pipes/pipe.run?_id=07906a90788326999ae45455523d50f2&amp;_render=rss" title="This Window: Close It" />
+		<outline type="rss" text="Thom Omans" xmlUrl="http://pipes.yahoo.com/pipes/pipe.run?_id=21277024dca3a62817cbb2b90e690d98&amp;_render=rss" title="Thom Omans" />
+		<outline type="rss" text="Thomas Goossens" xmlUrl="http://tgoossens.wordpress.com/tag/clojure/feed/" title="Thomas Goossens' Blog » clojure" />
+		<outline type="rss" text="Thomas Greve Kristensen" xmlUrl="http://tgk.github.io/feed/atom.xml" title="Clojure/tgk" />
+		<outline type="rss" text="Thomas Karolski" xmlUrl="http://justyouraveragehacker.wordpress.com/category/clojure/feed/" title="just your average hacker » clojure" />
+		<outline type="rss" text="Thomas Kjeldahl Nilsson" xmlUrl="http://messynotebook.com/?cat=30&amp;feed=rss2" title="無料で使えるフリーの会計ソフトで会計管理を » ページが見つかりませんでした" />
+		<outline type="rss" text="Thomas Schank" xmlUrl="http://drtom.ch/posts/clojure_feed.xml" title="Dr. Tom's Posts" />
+		<outline type="rss" text="Thoughts on Programming" xmlUrl="http://www.blogger.com/feeds/7321273324412229482/posts/default" title="Thoughts on Programming" />
+		<outline type="rss" text="Tilter Akilter" xmlUrl="http://pipes.yahoo.com/pipes/pipe.run?_id=32981fbd07aa01ea8e6be583ac39b7b8&amp;_render=rss" title="Tilter Akilter" />
+		<outline type="rss" text="Tim Lopez" xmlUrl="http://www.brool.com/index.php/category/coding/clojure-coding/feed" title="brool » clojure" />
+		<outline type="rss" text="Tim McCormack" xmlUrl="http://pipes.yahoo.com/pipes/pipe.run?_id=b2fec5fd649959045fdddb1b40fc59db&amp;_render=rss" title="Tim McCormack" />
+		<outline type="rss" text="Tim Riddell" xmlUrl="http://pipes.yahoo.com/pipes/pipe.run?_id=820f20fd619c7d616501fc35cd840520&amp;_render=rss" title="Tim Riddell's Clojure posts" />
+		<outline type="rss" text="Timothy Pratley" xmlUrl="http://www.blogger.com/feeds/32811356/posts/default" title="Programming" />
+		<outline type="rss" text="Tom Hall" xmlUrl="http://www.thattommyhall.com/blog/categories/clojure/atom.xml" title="Category: clojure | Everything is a Ghetto" />
+		<outline type="rss" text="Tom Hicks" xmlUrl="http://www.blogger.com/feeds/2497792762863705826/posts/default/-/Clojure" title="Tohono Consulting" />
+		<outline type="rss" text="Tom Schutzer-Weissmann" xmlUrl="http://pipes.yahoo.com/pipes/pipe.run?_id=68c540caa8931b5b8bae2952cc346565&amp;_render=rss" title="Tom Schutzer-Weissmann" />
+		<outline type="rss" text="Tomek Lipski" xmlUrl="http://www.blogger.com/feeds/9074762293446716009/posts/default/-/clojure" title="Tomek Lipski's blog" />
+		<outline type="rss" text="Toni Batchelli" xmlUrl="http://feeds.feedburner.com/disclojure" title="Disclojure, Public Disclosure of All Things Clojure" />
+		<outline type="rss" text="Tony Arcieri" xmlUrl="http://www.blogger.com/feeds/1257969457375562525/posts/default/-/clojure" title="Unlimited Novelty" />
+		<outline type="rss" text="Too Many NumLumps" xmlUrl="http://www.blogger.com/feeds/7717060942576029301/posts/default/-/clojure" title="Too Many NumLumps" />
+		<outline type="rss" text="Topher Brown" xmlUrl="http://www.blogger.com/feeds/4698785579414361019/posts/default/-/Clojure" title="Topher's Notes" />
+		<outline type="rss" text="Travis Vachon" xmlUrl="http://pipes.yahoo.com/pipes/pipe.run?_id=d3ad87e79c97f34be33ff36cb4b578b4&amp;_render=rss" title="Travis Vachon - combinate.us" />
+		<outline type="rss" text="Travis Whitton" xmlUrl="http://www.blogger.com/feeds/7533304945135066888/posts/default/-/clojure" title="so it was written..." />
+		<outline type="rss" text="Two Guys Arguing" xmlUrl="http://twoguysarguing.wordpress.com/category/clojure/feed/" title="Two Guys Arguing » clojure" />
+		<outline type="rss" text="Two Negatives Blog" xmlUrl="http://pipes.yahoo.com/pipes/pipe.run?_id=558531c1af53cd942ca89854c501ef2b&amp;_render=rss" title="Two Negatives Blog" />
+		<outline type="rss" text="Vijay Kiran" xmlUrl="http://pipes.yahoo.com/pipes/pipe.run?_id=6de60eabd37cbe85e9397d4901548e61&amp;_render=rss" title="Vijay Kiran" />
+		<outline type="rss" text="Viksit Gaur" xmlUrl="http://www.viksit.com/taxonomy/term/45/0/feed" title="Viksit Gaur » Page not found" />
+		<outline type="rss" text="Vincent Foley" xmlUrl="http://gnuvince.wordpress.com/tag/clojure/feed/" title="Occasionally sane » clojure" />
+		<outline type="rss" text="Vishal Sakaria" xmlUrl="http://technotzen.wordpress.com/tag/clojure/feed/" title="Technology mixed with a little Zen » clojure" />
+		<outline type="rss" text="Vishnu Menon" xmlUrl="http://vishnumenon.com" title="Vishnu Menon" />
+		<outline type="rss" text="Vitaly Peressada" xmlUrl="http://pipes.yahoo.com/pipes/pipe.run?_id=09126eb42745a5a1b6f3d2debc37940f&amp;_render=rss" title="Vitaly Peressada" />
+		<outline type="rss" text="Vjeran Marcinko" xmlUrl="http://www.blogger.com/feeds/5975917235515466011/posts/default/-/clojure" title="Pannonian Coder" />
+		<outline type="rss" text="Waldemar Schwan" xmlUrl="http://velrok.github.io/blog/categories/clojure/atom.xml" title="Category: Clojure, | Mein(un)sinn" />
+		<outline type="rss" text="Will Farr" xmlUrl="http://pipes.yahoo.com/pipes/pipe.run?_id=3bdb998f877daebf5e6c9f860e5bef4b&amp;_render=rss" title="Scheming's Clojure posts" />
+		<outline type="rss" text="Will Fitzgerald" xmlUrl="" title="Will Fitzgerald" />
+		<outline type="rss" text="Wille Faler" xmlUrl="http://pipes.yahoo.com/pipes/pipe.run?_id=f3a255d0f7f7ac600bc79efecc82b7c3&amp;_render=rss" title="Wille Faler" />
+		<outline type="rss" text="William Groppe" xmlUrl="" title="William Groppe" />
+		<outline type="rss" text="Writing/Coding" xmlUrl="http://www.blogger.com/feeds/2062021423309914146/posts/default/-/clojure" title="Writing/Coding" />
+		<outline type="rss" text="X-combinator" xmlUrl="http://pipes.yahoo.com/pipes/pipe.run?_id=796ee0b7c5d764dcf498b0419d0c2feb&amp;_render=rss" title="X-Combinator" />
+		<outline type="rss" text="Xavier Shay" xmlUrl="http://rhnh.net/clojure.atom" title="Clojure - Xavier Shay's Blog" />
+		<outline type="rss" text="Yannick Scherer" xmlUrl="http://dev.xscheme.de/tag/clojure/feed/" title="xscDev » clojure" />
+		<outline type="rss" text="Yoko Harada" xmlUrl="http://pipes.yahoo.com/pipes/pipe.run?_id=bc870d6bf2613969f7d010e54720eb82&amp;_render=rss" title="Yoko Harada" />
+		<outline type="rss" text="Zach Tellman" xmlUrl="http://pipes.yahoo.com/pipes/pipe.run?_id=2859b085bb0148ae9095e616a6de354f&amp;_render=rss" title="Zach Tellman's Clojure postings" />
+		<outline type="rss" text="Zef Hemel" xmlUrl="http://zef.me/tag/clojure/feed" title="Zef.me » clojure" />
+		<outline type="rss" text="Zen and the Art of Programming" xmlUrl="http://pipes.yahoo.com/pipes/pipe.run?_id=811937d4e54714433e995b82d5b7be53&amp;_render=rss" title="Zen and the Art of Programming" />
+		<outline type="rss" text="adereth" xmlUrl="http://adereth.github.io/clojure.xml" title="adereth" />
+		<outline type="rss" text="amalloy" xmlUrl="http://pipes.yahoo.com/pipes/pipe.run?_id=2812173014387ce764fca0a58aa86576&amp;_render=rss" title="amalloy" />
+		<outline type="rss" text="code.h(oe)kje" xmlUrl="http://joost.zeekat.nl/category/clojure/feed/" title="code.h(oe)kje » clojure" />
+		<outline type="rss" text="codenotes.me" xmlUrl="http://blog.codenotes.me/rss" title="CodeNotes" />
+		<outline type="rss" text="dgrnbrg" xmlUrl="http://pipes.yahoo.com/pipes/pipe.run?_id=a02b1b212740d4c9f6707659ef76a68d&amp;_render=rss" title="dgrnbrg" />
+		<outline type="rss" text="dot kam" xmlUrl="http://www.dotkam.com/category/clojure/feed/" title=". kam » clojure" />
+		<outline type="rss" text="fnclojure" xmlUrl="http://fnclojure.wordpress.com/feed/" title="Fn Clojure" />
+		<outline type="rss" text="fronx" xmlUrl="http://pipes.yahoo.com/pipes/pipe.run?_id=a7ec736f326bf83b55a866ec49c48925&amp;_render=rss" title="fronx" />
+		<outline type="rss" text="hackers-with-attitude" xmlUrl="http://pipes.yahoo.com/pipes/pipe.run?_id=b4bc20031320a4c7e6cb80b68b06cbff&amp;_render=rss" title="hackers-with-attitude" />
+		<outline type="rss" text="icyrock" xmlUrl="http://icyrock.com/blog/tag/clojure/feed/" title="icyrock.com » clojure" />
+		<outline type="rss" text="joshfinken" xmlUrl="http://pipes.yahoo.com/pipes/pipe.run?_id=29f0ca57d0f74f71ae843f36368e9626&amp;_render=rss" title="joshfinken" />
+		<outline type="rss" text="jr0cket - community developer" xmlUrl="http://www.blogger.com/feeds/6318205100073298070/posts/default/-/PlanetClojure" title="jr0cket - community developer" />
+		<outline type="rss" text="koodo" xmlUrl="http://koodo.wordpress.com/category/clojure/feed/" title="Code and stuff » Clojure" />
+		<outline type="rss" text="mishadoff thoughts" xmlUrl="http://mishadoff.github.io/blog/categories/clojure/atom.xml" title="Category: clojure | mishadoff thoughts" />
+		<outline type="rss" text="nd" xmlUrl="http://nd.github.io/feed.clojure.xml" title="nd.io - clojure" />
+		<outline type="rss" text="offcode" xmlUrl="http://www.blogger.com/feeds/6842196763305837660/posts/default/-/clojure" title="Not your mother's code" />
+		<outline type="rss" text="opus artificem probat" xmlUrl="http://pipes.yahoo.com/pipes/pipe.run?_id=13f695b744f07195df9d4121406f4362&amp;_render=rss" title="opus artificem probat" />
+		<outline type="rss" text="ossareh" xmlUrl="http://pipes.yahoo.com/pipes/pipe.run?_id=4dff2c43cfaed86654ab097cbc801f38&amp;_render=rss" title="ossareh" />
+		<outline type="rss" text="outcastgeek" xmlUrl="http://outcastgeek.com/tag/Clojure/outcastgeek.com/atom.xml" title="OUTCASTGEEK" />
+		<outline type="rss" text="programmable life" xmlUrl="http://www.blogger.com/feeds/4272753245512225176/posts/default/-/clojure" title="programmable life" />
+		<outline type="rss" text="pseudofish" xmlUrl="http://pipes.yahoo.com/pipes/pipe.run?_id=7cccb94a47e451a4b463741b9791d0fb&amp;_render=rss" title="pseudofish" />
+		<outline type="rss" text="random computation" xmlUrl="http://pipes.yahoo.com/pipes/pipe.run?_id=1bc48327163534238c3b8c76b81a5ba3&amp;_render=rss" title="random computation" />
+		<outline type="rss" text="tailrecursion" xmlUrl="http://tailrecursion.com/blog/categories/clojure/atom.xml" title="Category: clojure | tailrecursion" />
+		<outline type="rss" text="wmacgyver" xmlUrl="http://pipes.yahoo.com/pipes/pipe.run?_id=26da0ac0c1dfbda95eb27a1b4c49be89&amp;_render=rss" title="wmacgyver's clojure posts" />
+		<outline type="rss" text="Željko Ziriković" xmlUrl="http://revolucionlibrary.wordpress.com/tag/clojure/feed/" title="Revolución Movie Library » Clojure" />
+	</body>
+</opml>
