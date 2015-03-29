@@ -1,36 +1,36 @@
-<outline type="rss" xmlUrl="http://www.snell-pym.org.uk/categories/sci-tech/computing/scheme/atom" htmlUrl="http://www.snell-pym.org.uk" title="Snell-Pym » Scheme"/>
-<outline type="rss" xmlUrl="http://www.blogger.com/feeds/3887060946333002264/posts/default/-/scheme" htmlUrl="http://andrewwhaley.blogspot.com/search/label/scheme" title="Andrew Whaley's blog"/>
-<outline type="rss" xmlUrl="http://wingolog.org/feed/atom" htmlUrl="http://wingolog.org/" title="wingolog"/>
-<outline type="rss" xmlUrl="http://www.blogbyben.com/feeds/posts/default/-/scheme" htmlUrl="http://www.blogbyben.com/search/label/scheme" title="Ben's Journal"/>
-<outline type="rss" xmlUrl="http://pestilenz.org/~ckeen/blog/scheme.atom" htmlUrl="http://pestilenz.org/~ckeen/blog//" title="/dev/random"/>
-<outline type="rss" xmlUrl="http://blog.hashcollision.org/?feed=atom" htmlUrl="http://blog.hashcollision.org" title="blog.hashcollision.org"/>
-<outline type="rss" xmlUrl="http://www.blogger.com/feeds/10770855/posts/default?alt=atom" htmlUrl="http://calculist.blogspot.com/" title="The Little Calculist"/>
-<outline type="rss" xmlUrl="http://syminal.github.io/feeds/all.rss.xml" htmlUrl="http://syminal.org/snukarni/index.html" title="Syminal: Syminal"/>
-<outline type="rss" xmlUrl="http://www.blogger.com/feeds/7061944/posts/default?alt=atom" htmlUrl="http://theschemeway.blogspot.com/" title="(The Scheme Way)"/>
-<outline type="rss" xmlUrl="http://www.blogger.com/feeds/28856939/posts/default?alt=atom" htmlUrl="http://drschemer.blogspot.com/" title="Doug Williams' Racket Projects Blog"/>
-<outline type="rss" xmlUrl="http://www.wisdomandwonder.com/tag/Scheme/feed" htmlUrl="http://www.wisdomandwonder.com" title="Wisdom and Wonder » Scheme"/>
-<outline type="rss" xmlUrl="http://www.greghendershott.com/feeds/Racket.atom.xml" htmlUrl="http://www.greghendershott.com/tags/Racket.html" title="Greg Hendershott: Posts tagged 'Racket'"/>
-<outline type="rss" xmlUrl="https://curiousprogrammer.wordpress.com/tag/scheme/feed/atom/" htmlUrl="https://curiousprogrammer.wordpress.com" title="A Curious Programmer » Scheme"/>
-<outline type="rss" xmlUrl="http://www.blogger.com/feeds/12620654/posts/default?alt=atom" htmlUrl="http://keepworkingworkerbee.blogspot.com/" title="Keep Working, Worker Bee!"/>
-<outline type="rss" xmlUrl="http://jeapostrophe.github.io/atom.xml" htmlUrl="http://jeapostrophe.github.com" title="Jay McCarthy"/>
-<outline type="rss" xmlUrl="http://soegaard.github.io/feeds/all.atom.xml" htmlUrl="http://soegaard.github.io/index.html" title="Everything Racket: All Posts"/>
-<outline type="rss" xmlUrl="http://www.blogger.com/feeds/24975746/posts/default" htmlUrl="http://www.scheme.dk/blog/" title="Everything Scheme"/>
-<outline type="rss" xmlUrl="http://jeremykun.com/feed/" htmlUrl="http://jeremykun.com" title="Math ∩ Programming"/>
-<outline type="rss" xmlUrl="http://www.blogger.com/feeds/8288194986820249216/posts/default?alt=atom" htmlUrl="http://funcall.blogspot.com/" title="Abstract Heresies"/>
-<outline type="rss" xmlUrl="http://programming-musings.org/category/scheme/feed/atom" htmlUrl="http://programming-musings.org" title="programming musings » Scheme"/>
-<outline type="rss" xmlUrl="http://www.blogger.com/feeds/14082095/posts/default?alt=atom" htmlUrl="http://salty-schemer.blogspot.com/" title="The Salty Schemer"/>
-<outline type="rss" xmlUrl="http://feeds.feedburner.com/SchemeFromTheFloridaKeys" htmlUrl="http://schemekeys.blogspot.com/" title="Scheme from the Florida Keys"/>
-<outline type="rss" xmlUrl="https://xacc.wordpress.com/category/ironscheme/feed/" htmlUrl="https://xacc.wordpress.com" title="xacc.ide » IronScheme"/>
-<outline type="rss" xmlUrl="http://mjr.towers.org.uk/blog/scheme.rss" htmlUrl="http://mjr.towers.org.uk/blog/" title="MJR: A Schemer's Gazette"/>
-<outline type="rss" xmlUrl="http://ceaude.twoticketsplease.de/feed.atom" htmlUrl="http://ceaude.twoticketsplease.de/" title="ceaude"/>
-<outline type="rss" xmlUrl="http://per.bothner.com/blog/Scheme/index.atom" htmlUrl="http://per.bothner.com/blog/Scheme/" title="Per's Scheme blog entries"/>
-<outline type="rss" xmlUrl="http://www.more-magic.net/feed.atom" htmlUrl="http://www.more-magic.net/" title="More Magic"/>
-<outline type="rss" xmlUrl="https://pschombe.wordpress.com/feed/atom/" htmlUrl="https://pschombe.wordpress.com" title="On Scheme"/>
-<outline type="rss" xmlUrl="http://programmingpraxis.com/feed/" htmlUrl="http://programmingpraxis.com" title="Programming Praxis"/>
-<outline type="rss" xmlUrl="http://www.blogger.com/feeds/21789874/posts/default?alt=atom" htmlUrl="http://macrologist.blogspot.com/" title="one racketeer"/>
-<outline type="rss" xmlUrl="https://scriptstoprograms.wordpress.com/feed/" htmlUrl="https://scriptstoprograms.wordpress.com" title="Scripts to Programs"/>
-<outline type="rss" xmlUrl="http://www.blogger.com/feeds/2080885971644496896/posts/default?alt=atom" htmlUrl="http://blog.racket-lang.org/" title="The Racket Blog"/>
-<outline type="rss" xmlUrl="http://shisaa.jp/categories/scheme.xml" htmlUrl="http://shisaa.jp/" title="shisaa.jp (scheme)"/>
-<outline type="rss" xmlUrl="http://www.blogger.com/feeds/13073795/posts/default?alt=atom" htmlUrl="http://wmfarr.blogspot.com/" title="Scheming"/>
-<outline type="rss" xmlUrl="http://feeds.feedburner.com/WebDevelopmentFunctionalProgrammingAndScheme" htmlUrl="http://weblambda.blogspot.com/" title="Web, Development, Functional Programming, and Scheme"/>
-<outline type="rss" xmlUrl="https://littlewingpinball.wordpress.com/category/scheme/feed/" htmlUrl="https://littlewingpinball.wordpress.com" title="» Scheme"/>
+<?xml version="1.0"?>
+<opml version="1.1">
+  <head>
+    <title>Based on Planet Scheme.</title>
+  </head>
+  <body>
+    <outline type="rss" xmlUrl="http://www.blogger.com/feeds/3887060946333002264/posts/default/-/scheme" htmlUrl="http://andrewwhaley.blogspot.com/search/label/scheme" title="Andrew Whaley's blog"/>
+    <outline type="rss" xmlUrl="http://wingolog.org/feed/atom" htmlUrl="http://wingolog.org/" title="wingolog"/>
+    <outline type="rss" xmlUrl="http://www.blogbyben.com/feeds/posts/default/-/scheme" htmlUrl="http://www.blogbyben.com/search/label/scheme" title="Ben's Journal"/>
+    <outline type="rss" xmlUrl="http://pestilenz.org/~ckeen/blog/scheme.atom" htmlUrl="http://pestilenz.org/~ckeen/blog//" title="/dev/random"/>
+    <outline type="rss" xmlUrl="http://blog.hashcollision.org/?feed=atom" htmlUrl="http://blog.hashcollision.org" title="blog.hashcollision.org"/>
+    <outline type="rss" xmlUrl="http://www.blogger.com/feeds/10770855/posts/default?alt=atom" htmlUrl="http://calculist.blogspot.com/" title="The Little Calculist"/>
+    <outline type="rss" xmlUrl="http://www.blogger.com/feeds/7061944/posts/default?alt=atom" htmlUrl="http://theschemeway.blogspot.com/" title="(The Scheme Way)"/>
+    <outline type="rss" xmlUrl="http://www.blogger.com/feeds/28856939/posts/default?alt=atom" htmlUrl="http://drschemer.blogspot.com/" title="Doug Williams' Racket Projects Blog"/>
+    <outline type="rss" xmlUrl="http://www.wisdomandwonder.com/tag/Scheme/feed" htmlUrl="http://www.wisdomandwonder.com" title="Wisdom and Wonder &#xBB; Scheme"/>
+    <outline type="rss" xmlUrl="http://www.greghendershott.com/feeds/Racket.atom.xml" htmlUrl="http://www.greghendershott.com/tags/Racket.html" title="Greg Hendershott: Posts tagged 'Racket'"/>
+    <outline type="rss" xmlUrl="http://www.blogger.com/feeds/12620654/posts/default?alt=atom" htmlUrl="http://keepworkingworkerbee.blogspot.com/" title="Keep Working, Worker Bee!"/>
+    <outline type="rss" xmlUrl="http://jeapostrophe.github.io/atom.xml" htmlUrl="http://jeapostrophe.github.com" title="Jay McCarthy"/>
+    <outline type="rss" xmlUrl="http://soegaard.github.io/feeds/all.atom.xml" htmlUrl="http://soegaard.github.io/index.html" title="Everything Racket: All Posts"/>
+    <outline type="rss" xmlUrl="http://www.blogger.com/feeds/24975746/posts/default" htmlUrl="http://www.scheme.dk/blog/" title="Everything Scheme"/>
+    <outline type="rss" xmlUrl="http://jeremykun.com/feed/" htmlUrl="http://jeremykun.com" title="Math &#x2229; Programming"/>
+    <outline type="rss" xmlUrl="http://www.blogger.com/feeds/8288194986820249216/posts/default?alt=atom" htmlUrl="http://funcall.blogspot.com/" title="Abstract Heresies"/>
+    <outline type="rss" xmlUrl="http://www.blogger.com/feeds/14082095/posts/default?alt=atom" htmlUrl="http://salty-schemer.blogspot.com/" title="The Salty Schemer"/>
+    <outline type="rss" xmlUrl="http://feeds.feedburner.com/SchemeFromTheFloridaKeys" htmlUrl="http://schemekeys.blogspot.com/" title="Scheme from the Florida Keys"/>
+    <outline type="rss" xmlUrl="http://mjr.towers.org.uk/blog/scheme.rss" htmlUrl="http://mjr.towers.org.uk/blog/" title="MJR: A Schemer's Gazette"/>
+    <outline type="rss" xmlUrl="http://ceaude.twoticketsplease.de/feed.atom" htmlUrl="http://ceaude.twoticketsplease.de/" title="ceaude"/>
+    <outline type="rss" xmlUrl="http://per.bothner.com/blog/Scheme/index.atom" htmlUrl="http://per.bothner.com/blog/Scheme/" title="Per's Scheme blog entries"/>
+    <outline type="rss" xmlUrl="http://www.more-magic.net/feed.atom" htmlUrl="http://www.more-magic.net/" title="More Magic"/>
+    <outline type="rss" xmlUrl="http://programmingpraxis.com/feed/" htmlUrl="http://programmingpraxis.com" title="Programming Praxis"/>
+    <outline type="rss" xmlUrl="http://www.blogger.com/feeds/21789874/posts/default?alt=atom" htmlUrl="http://macrologist.blogspot.com/" title="one racketeer"/>
+    <outline type="rss" xmlUrl="http://www.blogger.com/feeds/2080885971644496896/posts/default?alt=atom" htmlUrl="http://blog.racket-lang.org/" title="The Racket Blog"/>
+    <outline type="rss" xmlUrl="http://shisaa.jp/categories/scheme.xml" htmlUrl="http://shisaa.jp/" title="shisaa.jp (scheme)"/>
+    <outline type="rss" xmlUrl="http://www.blogger.com/feeds/13073795/posts/default?alt=atom" htmlUrl="http://wmfarr.blogspot.com/" title="Scheming"/>
+    <outline type="rss" xmlUrl="http://feeds.feedburner.com/WebDevelopmentFunctionalProgrammingAndScheme" htmlUrl="http://weblambda.blogspot.com/" title="Web, Development, Functional Programming, and Scheme"/>
+  </body>
+</opml>
