@@ -1,0 +1,54 @@
+<?xml version="1.0"?>
+<opml version="1.1">
+  <head>
+    <title>Based on Planet Lisp</title>
+  </head>
+  <body>
+    <outline type="rss" xmlUrl="http://abcl-dev.blogspot.com/atom.xml" htmlUrl="http://abcl-dev.blogspot.com/" title="ABCL"/>
+    <outline type="rss" xmlUrl="http://within-parens.blogspot.com/atom.xml" htmlUrl="http://within-parens.blogspot.com/" title="(within parens...)"/>
+    <outline type="rss" xmlUrl="http://www.mindstab.net/tag/lisp/feed/" htmlUrl="http://www.mindstab.net" title="Mindstab.net » Lisp Archives  - Mindstab.net"/>
+    <outline type="rss" xmlUrl="http://lispblog.xach.com/rss" htmlUrl="http://lispblog.xach.com/" title="Zach Beane Common Lisp"/>
+    <outline type="rss" xmlUrl="http://blog.redlinernotes.com/tag/lisp-rss.xml" htmlUrl="http://blog.redlinernotes.com" title="Improved Means for Achieving Deteriorated Ends"/>
+    <outline type="rss" xmlUrl="http://common-lisp-net.tumblr.com/rss" htmlUrl="http://common-lisp-net.tumblr.com/" title="common-lisp.net news feed"/>
+    <outline type="rss" xmlUrl="http://ccl.clozure.com/blog/?feed=rss2" htmlUrl="http://ccl.clozure.com/blog" title="Clozure CL Blog"/>
+    <outline type="rss" xmlUrl="http://p-cos.blogspot.com/atom.xml" htmlUrl="http://p-cos.blogspot.com/" title="p-cos blog"/>
+    <outline type="rss" xmlUrl="https://julien.danjou.info/blog/tags/lisp.xml" htmlUrl="https://julien.danjou.info/blog/" title="jd:/dev/blog"/>
+    <outline type="rss" xmlUrl="https://drmeister.wordpress.com/feed/" htmlUrl="https://drmeister.wordpress.com" title="drmeister"/>
+    <outline type="rss" xmlUrl="http://lisp-univ-etc.blogspot.com/feeds/posts/default/-/lisp/en" htmlUrl="http://lisp-univ-etc.blogspot.com/search/label/lisp" title="Lisp, the Universe and Everything"/>
+    <outline type="rss" xmlUrl="http://sourceforge.net/p/ecls/news/feed" htmlUrl="http://sourceforge.net/p/ecls/news/" title="Recent changes to news"/>
+    <outline type="rss" xmlUrl="http://tapoueh.org/rss/cl.xml" htmlUrl="http://tapoueh.org/blog" title="tail -f /dev/dim"/>
+    <outline type="rss" xmlUrl="http://michaeljforster.tumblr.com/tagged/lisp/rss" htmlUrl="http://michaeljforster.tumblr.com/" title="Michael J. Forster"/>
+    <outline type="rss" xmlUrl="http://www.method-combination.net/blog/index.rss2" htmlUrl="http://www.method-combination.net/blog/" title="tolle programme"/>
+    <outline type="rss" xmlUrl="http://boinkor.net/atom.xml" htmlUrl="http://boinkor.net/" title="Andreas Fuchs' Journal"/>
+    <outline type="rss" xmlUrl="http://blog.tymoon.eu/api/reader/atom?tag=common%20lisp" htmlUrl="https://reader.tymoon.eu/" title="妖怪の世捨て人"/>
+    <outline type="rss" xmlUrl="http://cyrusharmon.org/blog/archives.rss?category=Lisp" htmlUrl="http://www.cyrusharmon.org/blog" title="cyrusharmon.org"/>
+    <outline type="rss" xmlUrl="http://lhealy.livejournal.com/data/atom" htmlUrl="http://lhealy.livejournal.com/" title="Liam Healy"/>
+    <outline type="rss" xmlUrl="http://netzhansa.blogspot.com/feeds/posts/default" htmlUrl="http://netzhansa.blogspot.com/" title="netzhansa"/>
+    <outline type="rss" xmlUrl="http://enthusiasm.cozy.org/archives/category/common-lisp/feed/atom" htmlUrl="http://enthusiasm.cozy.org" title="Ascription is an Anathema to any Enthusiasm » common-lisp"/>
+    <outline type="rss" xmlUrl="http://blog.cddr.org/categories/lisp/atom.xml" htmlUrl="http://blog.cddr.org/" title="Category: Lisp | fe[nl]ix's blog"/>
+    <outline type="rss" xmlUrl="http://www.pvk.ca/atom.xml" htmlUrl="http://www.pvk.ca/" title="Paul Khuong: some Lisp"/>
+    <outline type="rss" xmlUrl="http://enlivend.livejournal.com/data/atom" htmlUrl="http://enlivend.livejournal.com/" title="enlivend"/>
+    <outline type="rss" xmlUrl="http://lisptips.com/rss" htmlUrl="http://lisptips.com/" title="Common Lisp Tips"/>
+    <outline type="rss" xmlUrl="https://lispjobs.wordpress.com/feed/" htmlUrl="https://lispjobs.wordpress.com" title="Lispjobs"/>
+    <outline type="rss" xmlUrl="https://cjelupton.wordpress.com/feed/" htmlUrl="https://cjelupton.wordpress.com" title="(null '()) =>  T"/>
+    <outline type="rss" xmlUrl="http://funcall.blogspot.com/atom.xml" htmlUrl="http://funcall.blogspot.com/" title="Abstract Heresies"/>
+    <outline type="rss" xmlUrl="http://wandrian.net/rss/lisp.xml" htmlUrl="http://wandrian.net" title="Wandrian"/>
+    <outline type="rss" xmlUrl="http://quotenil.com/LISP.xml" htmlUrl="http://quotenil.com/" title="Gábor Melis' () blog - LISP"/>
+    <outline type="rss" xmlUrl="http://rmoritz.github.io/feed.xml" htmlUrl="http://rmoritz.github.io" title="Bit Rot"/>
+    <outline type="rss" xmlUrl="http://kvardek-du.kerno.org/feeds/posts/default/-/lisp" htmlUrl="http://kvardek-du.kerno.org/search/label/lisp" title="Kvardek Du"/>
+    <outline type="rss" xmlUrl="http://tkpapp.blogspot.com/atom.xml" htmlUrl="http://tkpapp.blogspot.com/" title="Tamas K Papp's blog"/>
+    <outline type="rss" xmlUrl="http://pinterface.livejournal.com/data/atom" htmlUrl="http://pinterface.livejournal.com/" title="The Opinions Expressed Herein are My Own"/>
+    <outline type="rss" xmlUrl="http://blog.quicklisp.org/atom.xml" htmlUrl="http://blog.quicklisp.org/" title="Quicklisp news"/>
+    <outline type="rss" xmlUrl="http://christophe.rhodes.io/notes/blog/feeds/lisp/index.atom" htmlUrl="http://christophe.rhodes.io/notes/blog/feeds/lisp/" title="blog/feeds/lisp"/>
+    <outline type="rss" xmlUrl="http://fare.livejournal.com/data/atom" htmlUrl="http://fare.livejournal.com/" title="Cybernethics / Cybernéthique"/>
+    <outline type="rss" xmlUrl="http://trittweiler.blogspot.com/atom.xml" htmlUrl="http://trittweiler.blogspot.com/" title="Contra serpentem lapsum memoriae."/>
+    <outline type="rss" xmlUrl="http://blog.codeartist.org/feeds/posts/default" htmlUrl="http://blog.codeartist.org/" title="CODEartist (en)"/>
+    <outline type="rss" xmlUrl="http://carcaddar.blogspot.com/atom.xml" htmlUrl="http://carcaddar.blogspot.com/" title="a CONS is an object which cares"/>
+    <outline type="rss" xmlUrl="http://readevalprint.tumblr.com/rss" htmlUrl="http://readevalprint.tumblr.com/" title="READ EVAL PRINT"/>
+    <outline type="rss" xmlUrl="http://random-state.net/rss.xml" htmlUrl="http://random-state.net/" title="Nikodemus Siivola"/>
+    <outline type="rss" xmlUrl="http://slime-tips.tumblr.com/rss" htmlUrl="http://slime-tips.tumblr.com/" title="Slime Tips"/>
+    <outline type="rss" xmlUrl="http://nklein.com/feed/" htmlUrl="http://nklein.com" title="nklein software"/>
+    <outline type="rss" xmlUrl="http://jorgetavares.com/feed/" htmlUrl="http://jorgetavares.com" title="Jorge Tavares Notes"/>
+    <outline type="rss" xmlUrl="http://www.didierverna.net/blog/index.php?feed/category/Lisp/atom" htmlUrl="http://www.didierverna.net/blog/index.php" title="Didier Verna's Sci-Blog - Lisp"/>
+  </body>
+</opml>
