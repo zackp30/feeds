@@ -1,0 +1,5 @@
+These are the credits for the feeds, I simply download the ready-made OPML file, and remove the dead URLs, or I use my script (see directory `utils/`) to extract them.
+
+- Planet Emacs (<http://planet.emacsen.org>): emacs.xml
+- Planet Haskell (<http://planet.haskell.org>): haskell.xml
+- Planet Clojure (<http://planet.clojure.in>): clojure.xml
